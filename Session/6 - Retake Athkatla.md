@@ -63,24 +63,24 @@ When meeting with allies, present these options and let the party decide:
 Considering level 17 characters with ~225-230 HP, here are balanced enemy groups:
 
 ### Abyssal Ravagers
-- **Composition**: 5 demons total
-- **Attack Strategy**: Distribute attacks evenly among party members
+- **Composition**: 10 lesser demons total
+- **Attack Strategy**: Surround and overwhelm party members
 - **Combat Stats per Demon**:
-  - AC: 18
-  - HP: 90 each
-  - Attack: +13 to hit, 3d8+7 slashing plus 2d8 necrotic
-  - Saves: Str +10, Dex +8, Con +12, Int +3, Wis +7, Cha +9
+  - AC: 16
+  - HP: 45 each
+  - Attack: +10 to hit, 3d6+5 necrotic damage
+  - Saves: Str +8, Dex +7, Con +9, Int +2, Wis +5, Cha +6
   - Resistances: Cold, fire, lightning; non-magical weapons
   - Immunities: Poison, poison damage
 
 ### Blood Cultists
-- **Composition**: 6 cultists total
-- **Attack Strategy**: Distribute attacks evenly among party members
+- **Composition**: 12 cultists total
 - **Combat Stats per Cultist**:
-  - AC: 17
-  - HP: 80 each
-  - Attack: +11 to hit, 2d8+6 slashing
-  - Saves: Str +7, Dex +8, Con +9, Int +5, Wis +11, Cha +12
+  - AC: 15
+  - HP: 40 each
+  - Attack: +9 to hit, 2d8+4 slashing damage
+  - Saves: Str +5, Dex +7, Con +6, Int +4, Wis +8, Cha +9
+  - Special: Blood Link (when one cultist takes damage, they can transfer half to another cultist)
 
 ### Void Stalkers
 - **Composition**: 4 shadow hunters total
@@ -88,19 +88,18 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **Combat Stats per Hunter**:
   - AC: 19
   - HP: 110 each
-  - Attack: +14 to hit, 2d10+8 necrotic damage
+  - Attack: +14 to hit, 3d10+8 necrotic damage
   - Saves: Str +8, Dex +13, Con +10, Int +7, Wis +9, Cha +7
   - Resistances: Necrotic, psychic
   - Special Ability: Shadow Step (bonus action) - Teleport 60ft between shadows
 
 ### Corrupted Celestials
-- **Composition**: 4 celestials total
-- **Attack Strategy**: Focus on party's primary damage dealers
+- **Composition**: 8 corrupted celestial soldiers total
 - **Combat Stats per Celestial**:
-  - AC: 19
-  - HP: 120 each
-  - Attack: +13 to hit, 3d8+7 radiant damage
-  - Saves: Str +9, Dex +10, Con +11, Int +8, Wis +12, Cha +14
+  - AC: 18
+  - HP: 60 each
+  - Attack: +11 to hit, 3d8+5 radiant damage
+  - Saves: Str +7, Dex +8, Con +9, Int +6, Wis +10, Cha +11
   - Resistances: Radiant; non-magical weapons
 
 ## Encounter Structure (Adaptable to Any Approach)
