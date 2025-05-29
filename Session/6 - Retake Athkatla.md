@@ -62,13 +62,13 @@ When meeting with allies, present these options and let the party decide:
 
 Considering level 17 characters with ~225-230 HP, here are balanced enemy groups:
 
-### Abyssal Ravagers
-- **Composition**: 10 lesser demons total
+### Abyssal Orcs
+- **Composition**: 9 lesser demons total
 - **Attack Strategy**: Surround and overwhelm party members
 - **Combat Stats per Demon**:
   - AC: 16
   - HP: 45 each
-  - Attack: +10 to hit, 3d6+5 necrotic damage
+  - Attack: +10 to hit, 3d6+5 piercing damage
   - Saves: Str +8, Dex +7, Con +9, Int +2, Wis +5, Cha +6
   - Resistances: Cold, fire, lightning; non-magical weapons
   - Immunities: Poison, poison damage
@@ -111,7 +111,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 **Magical Breach**: Ward guardians
 
 #### Enemies
-- 5 **Abyssal Ravagers**
+- 5 **Abyssal Orcs**
 - 1 **Corrupted Angel Commander** (see stat block below)
 - **Environmental Hazard**: Depends on approach (ballistae, high tide, etc.)
 
@@ -148,7 +148,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **Speed**: 50ft, fly 120ft
 - **Attacks**: 
   - Multiattack (3 strikes)
-  - Radiant Greatsword: +16 to hit, 3d8+10 slashing plus 4d8 necrotic
+  - Radiant Greatsword: +16 to hit, 4d8+10 slashing
 - **Abilities**:
   - Aura of Corruption: All healing within 30ft is halved
 - **Spells**:
@@ -165,7 +165,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **Speed**: 40ft, fly 120ft
 - **Attacks**:
   - Multiattack (3 strikes)
-  - Celestial Greatsword: +16 to hit, 3d10+10 slashing plus 5d8 necrotic
+  - Celestial Greatsword: +16 to hit, 4d10+10 slashing
 - **Abilities**:
   - Divine Awareness: Can't be surprised, truesight 120ft
 - **Spells**:
@@ -201,7 +201,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
   - Multiattack (3 strikes)
   - Hellfire Greatsword: +14 to hit, 2d8+8 slashing plus 4d8 necrotic
 - **Abilities**:
-  - Hellfire Orb: 20ft radius, 13d6 fire damage, Dex save DC 19 for half, 2/day
+  - Hellfire Orb: 20ft radius, 13d6 necrotic damage, Dex save DC 19 for half, 2/day
 - **Spells**:
   - *Hold Person*: Wis save DC 19 or paralyzed, concentration, 3/day
   - *Fireball*: 10d6 fire damage, Dex save DC 19 for half, 3/day
@@ -211,7 +211,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 
 ## The Confrontation: Valeria and Her Lieutenants
 
-### Valeria, Corrupted Mother (Demon of the Dale)
+### Valeria, Demon of the Dale
 - **AC**: 23
 - **HP**: 600
 - **Speed**: 60ft, fly 60ft
@@ -255,7 +255,7 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **Attacks**:
   - Radiant Mace: +14 to hit, 2d8+7 bludgeoning plus 3d8 radiant
 - **Spells**:
-  - *Mass Heal*: Restore 300 HP divided among any creatures within 60ft, 1/day
+  - *Mass Heal*: Restore 300 HP divided among any creatures within 60ft, 2/day
   - *Life Drain*: Con save DC19 or 1/2 to deal 10d10 to each player and split restore hp, 1/day
   - *Holy Word*: Stuns, blinds, or deafens enemies based on HP, Cha save DC 19, 1/day
   - *Flame Strike*: 8d6 fire/radiant, Dex save DC 19 for half, 3/day
