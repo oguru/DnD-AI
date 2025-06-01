@@ -7,7 +7,7 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 ### Level 1: Divine Awakening (Granted by Jizz'rek upon Revival)
 - **Physical Enhancement**: +2 to three ability scores of your choice and max
 - **Divine Vitality**: Rolled hit points increase by 1.5x
-- **Divine Resilience**: Gain resistance to necrotic and radiant damage
+<!-- - **Divine Resilience**: Gain resistance to necrotic and radiant damage -->
 - **Divine Armor**: AC increases by 2, regardless of armor worn
 - **Empowered Attacks**: Weapon attacks and spell deal 1.5x damage (rounded up)
 - **Empowered Healing**: All healing you perform or receive (spells, potions, abilities, hit dice) is increased by 1.5x

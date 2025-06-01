@@ -34,6 +34,8 @@
 
 ### The Chamber of Reflection
 
+Azlaman
+
 **Setting:**
 - Circular chamber with walls of living crystal
 - Floor inscribed with the history of the multiverse
@@ -42,7 +44,7 @@
 
 **Possible Interactions:**
 
-1. **Memory Pools**
+1. **Memory Pools** of refletion
    - Shimmering pools of liquid light in alcoves
    - Looking into them shows memories from the viewer's past
    - Can be used to reflect on their journey so far
@@ -66,9 +68,9 @@
 - Guardian returns after the party has had time to explore
 - Appears more respectful now: *"The elders has deliberated. You are to be granted audience."*
 - Explains key points:
-  - *"The gods are forbidden from direct interference by divine compact."*
+  - *"Ao the allfather forbids us from direct interference by divine compact."*
   - *"But you exist in a unique state - part mortal, part divine."*
-  - *"This means you may act where they cannot."*
+  - *"This means you may act where we cannot."*
   - *"You must choose which deity to receive further blessing from. Tyr The Lord of Justice, Gond The Lord of All Smiths, Mystra The Lady of Mysteries, Helm The Vigilant One and Eldath Mother Guardian of Groves have agreed to speak with you, choose wisely."*
 
 ## The State of the Celestial Realms
@@ -98,12 +100,17 @@
 ### The Divine Conversation
 
 **Opening from Deity:**
+- Welcome to the celestial realm, mortals.
+
 - Acknowledgment of their divine spark: *"I see Jizz'rek chose well. His essence grows within you."*
 - Explanation of the crisis:
   - *"Fazrahl has done what was thought impossible - slain a god and stolen their essence."*
   - *"The cosmos trembles at this violation. The balance is undone."*
   - *"We gods are bound by ancient compacts not to interfere directly."*
   - *"Your existence bridges mortal and divine - a loophole in cosmic law."*
+    - *"Ao the allfather forbids us from direct interference by divine compact."*
+  - *"But you exist in a unique state - part mortal, part divine."*
+  - *"This means you may act where we cannot."*
 
 **Ao's Absence:**
 The deity explains why the Overgod cannot intervene:
