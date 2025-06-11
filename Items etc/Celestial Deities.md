@@ -13,7 +13,7 @@ The following five deities are willing to grant their blessing to the party. Eac
 - Radiates authority and fairness
 
 **Divine Enhancement: Smite of Justice**
-- Your weapon attacks and damaging spells deal an additional 2d8 radiant damage
+- Your weapon attacks and damaging spells deal an additional 2d8 radiant damage evenly split between targets (round up)
 - This damage increases to 4d8 against creatures that have harmed innocents or broken sacred oaths
 
 **What Tyr Values:**

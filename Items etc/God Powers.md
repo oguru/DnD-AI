@@ -19,16 +19,16 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 ### Level 2: Divine Ascendance (Gained after liberating Athkatla)
 - **Physical Enhancement**: +2 to four scores and max
 - **Divine Vitality**: Multiply your current rolled hit points by 1.5 (stacking with previous multiplier)
-- **Divine Resilience** improves: Gain immunity to one damage type of your choice and resistance to 1 other
+- **Divine Resilience** improves: Gain resistance to one damage type of your choice
 - **Divine Armor**: AC increases by 4 (replacing previous bonus)
 - **Empowered Attacks**: Weapon and spell attacks deal 2x damage (replacing previous multiplier)
 - **Empowered Healing**: All healing you perform or receive is increased by 2x (replacing previous multiplier). This includes healing potions, which now heal twice their normal amount
-- **Celestial Vision** extends to 60 feet
+- **Celestial Vision** Truesight extends to 60 feet
 - **Divine Intuition**: Now usable twice per long rest
 - **Divine Resurrection**: Once per day one of you can raise a fallen party member from the dead to full HP using your combined divine essense (min 2 party members alive to use).
-- **Divine Movement**: Gain a flying speed equal to your walking speed and another +10ft 
+- **Divine Movement**: Gain a flying speed equal to your previous walking speed and then add 10ft to your walking speed
 - **Divine Restoration**: During a short rest, recover hit points equal to half your maximum hit points
-- **Saving Grace**: Add your proficiency bonus to all saving throws you aren't already proficient in
+<!-- - **Saving Grace**: Add your proficiency bonus to all saving throws you aren't already proficient in -->
 - **Divine Form**: As an action once per long rest, transform into a celestial version of yourself for 3 rounds
   - +2 to AC (stacks with Divine Armor)
   - +30 temporary hit points
@@ -38,7 +38,7 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 ### Level 3: Divine Transcendence (Gained after sealing the demonic portal)
 - **Physical Enhancement**: +2 to all ability scores and max
 - **Divine Vitality**: Multiply your current rolled hit points by 1.5 (stacking with previous multipliers)
-- **Divine Resilience** improves: Add immunity to 1 more damage type and resistance to 2 others
+- **Divine Resilience** improves: Add immunity to 1 damage type
 - **Divine Immortality**: If reduced to 0 hit points, you instead return to 1/2 your maximum HP (usable once per long rest)
 - **Divine Armor**: AC increases by 6 (replacing previous bonus)
 - **Empowered Attacks**: Weapon and spell attacks deal 3x damage (replacing previous multiplier)
