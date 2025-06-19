@@ -22,10 +22,10 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 - **Divine Resilience** improves: Gain resistance to one damage type of your choice
 - **Divine Armor**: AC increases by 4 (replacing previous bonus)
 - **Empowered Attacks**: Weapon and spell attacks deal 2x damage (replacing previous multiplier)
-- **Empowered Healing**: All healing you perform or receive is increased by 2x (replacing previous multiplier). This includes healing potions, which now heal twice their normal amount
+- **Empowered Healing**: All healing you perform or receive is increased by 2x (replacing previous multiplier).
 - **Celestial Vision** Truesight extends to 60 feet
 - **Divine Intuition**: Now usable twice per long rest
-- **Divine Resurrection**: Once per day one of you can raise a fallen party member from the dead to full HP using your combined divine essense (min 2 party members alive to use).
+- **Divine Resurrection**: Once per day one of you can raise a fallen party member from the dead to full HP using your combined divine essense.
 - **Divine Movement**: Gain a flying speed equal to your previous walking speed and then add 10ft to your walking speed
 - **Divine Restoration**: During a short rest, recover hit points equal to half your maximum hit points
 <!-- - **Saving Grace**: Add your proficiency bonus to all saving throws you aren't already proficient in -->
@@ -164,3 +164,10 @@ To complement their growing divine powers, consider introducing artifacts tied t
 2. **Jizz'rek's Fractured Staff**: A weapon that grows in power as the wielder advances in divine levels, eventually allowing manipulation of reality in small ways
 
 3. **The Celestial Keystone**: A focus that enhances divine abilities and can temporarily seal divine portals or contain fragments of divine power 
+
+### Powers New
+
+- Rogue
+- **Level 2**: Your attacks damage all enemies in a 5ft line from your target if you hit your target and the others fail a dexterity save vs your dexterity check
+- **Level 3**: Your attacks damage all enemies in a 5ft cone from your target if you hit your target and the others fail a dexterity save vs your dexterity check
+
