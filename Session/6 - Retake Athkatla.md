@@ -217,15 +217,15 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **Speed**: 60ft, fly 60ft
 - **Attacks**:
   - Multiattack (4 strikes)
-  - Corrupting Touch: +16 to hit, 3d10+9 slashing plus 5d8 necrotic
+  - Corrupting Touch: +16 to hit, 5d10+9 slashing
 - **Abilities**:
   - Maternal Manipulation: Charm effect, DC 22 Wis save or charmed for 1 minute
   - Phase Shift: Teleport 120ft as bonus action, 5/day
-  - Counterspell: Counter any spell 7th level or lower automatically, 3/day
+  - Counterspell: Counter any spell 6th level or lower automatically, 3/day
 - **Legendary Actions**: 3/round
   - Attack (1 action)
   - Teleport 60ft (1 action)
-  - Corrupting Wave: 15ft cone, 8d8 necrotic, Con save DC 21 for half (2 actions)
+  - Corrupting Wave: 15ft cone, 8d10 necrotic, Con save DC 21 for half (2 actions)
 - **Legendary Resistance**: 3/day
 - **Mythic Actions**: When reduced to 0 HP, regains 250 HP
 - **Saves**: Str +16, Dex +14, Con +17, Int +15, Wis +16, Cha +18
@@ -236,12 +236,11 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **AC**: 20
 - **HP**: 300
 - **Speed**: 40ft
-- **Attacks**:
-  - Shadow Bolt: +15 to hit, 4d10+8 necrotic damage
 - **Spells**:
-  - *Finger of Death*: 7d8+30 necrotic, Con save DC 20 for half, 2/day
+  - *Eldritch Blast*: +16 to hit, 1d10+5 * 4 force damage
+  - *Globe of Invulnerability*: 6th level
   - *Chain Lightning*: 10d8 lightning to 4 targets, Dex save DC 20 for half, 2/day
-  - *Counterspell*: Reaction, auto-counter spells 5th or lower, 3/day
+  - *Snilloc's Snowball Swarm*: 9d8 cold, 5ft raduis, Dex 20 half damage on save (2x)
 - **Abilities**:
   - Shadow Step: Teleport 60ft between shadows as a bonus action
 - **Saves**: Str +8, Dex +12, Con +13, Int +17, Wis +15, Cha +16
@@ -253,14 +252,14 @@ Considering level 17 characters with ~225-230 HP, here are balanced enemy groups
 - **HP**: 280
 - **Speed**: 40ft, fly 60ft
 - **Attacks**:
-  - Radiant Mace: +14 to hit, 2d8+7 bludgeoning plus 3d8 radiant
+  - Radiant Mace: +14 to hit, 5d8+7 bludgeoning (3x)
 - **Spells**:
-  - *Mass Heal*: Restore 300 HP divided among any creatures within 60ft, 2/day
+  - *Mass Heal*: Restore 200 HP divided among any creatures within 60ft, 2/day
   - *Life Drain*: Con save DC19 or 1/2 to deal 10d10 to each player and split restore hp, 1/day
-  - *Holy Word*: Stuns, blinds, or deafens enemies based on HP, Cha save DC 19, 1/day
-  - *Flame Strike*: 8d6 fire/radiant, Dex save DC 19 for half, 3/day
+  - *Holy Word*: Stuns, blinds, or deafens enemies based on HP, Cha save DC 19
+  - *Flame Strike*: 10d6 fire/radiant, Dex save DC 19 for half, 3/day
 - **Abilities**:
-  - Healing Light: Bonus action to heal Valeria for 6d8+10, 3/day
+  - *Healing Light*: Bonus action to heal self for 6d8+10
 - **Saves**: Str +10, Dex +11, Con +13, Int +12, Wis +16, Cha +14
 - **Immunities**: Radiant
 - **Resistances**: Necrotic; non-magical weapons

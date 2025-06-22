@@ -1,0 +1,11 @@
+Healer
+- Used flame strike 1x
+- Used life drain
+
+Mage
+- Used snowball 1x
+- Used chain lightning 1x
+- Got globe of invulnerability
+
+Valeria
+- Used counterspell 1x
