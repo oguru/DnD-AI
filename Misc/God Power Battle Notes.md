@@ -67,4 +67,4 @@
   - Divine Healer used Life Drain (51 damage) and Flame Strike (40 damage)
   - Party managed to reduce Demon to 438 HP, Archmage to 196 HP, and Healer to 58 HP
   - **Difficulty - (7)/10**
-  - **Combat was challenging with heavy damage to party members, but they prevailed through coordinated attacks**
+  - **In Progress currently - Combat relatively challenging so far and Yrsa has been reduced to 0hp once.**

@@ -1,122 +1,154 @@
 # Sealing the Breach: Divine Trial 2
 
-## The Demonic Incursion
+## The Planar Incursion
 
 ### The Situation
-- A massive portal has opened in the countryside near Baldur's Gate
-- Demonic forces are pouring through, ravaging villages and corrupting the land
-- Local military forces are overwhelmed and retreating
-- The portal grows larger with each passing hour, allowing more powerful demons to emerge
+- A planar rift has erupted in Waterdeep's Trade Ward, tearing through the market square
+- Four planes are attempting to connect to the Material Plane: the Shadowfell, Elemental Chaos, Nine Hells, and the Abyss
+- Waterdhavian guards have established a perimeter but are rapidly losing ground
+- The rift grows more stable with each passing minute, allowing stronger entities to emerge
 
 ### The Breach Site
-- A once-sacred grove now corrupted and blackened
-- At the center, an ancient stone circle serves as the anchor for the portal
-- The air is thick with sulfurous fumes and the temperature rises as you approach
-- Corrupted ley lines pulse with unholy energy, feeding the portal
+- The marble plaza is fractured and half-sunken around the shattered Moon Fountain
+- Four concentric rings of glyphs—one for each plane—pulse in sequence as each connection stabilizes
+- Reality buckles within 120 ft. of the rift: normal flight is impossible (hover only) and non-magical flames sputter out
+- Tyr's sigil manifests faintly in the cobbles when Divine characters stand upon them, granting allies advantage on saves vs. fear within 30 ft.
 
 ### Divine Insight
-- The party's divine senses reveal the portal's structure:
-  - Seven anchor points that must be severed
-  - A central keystone that maintains the connection
-  - The presence of a powerful entity from the party's past (Moryx)
+- The rift is held open by four overlapping planar threads that must be severed in sequence
+- Each planar wave leaves behind a tangible shard of essence needed to seal the portal
+- Deep within the swirling vortex, a great and ancient evil awaits its chance to enter Faerûn
 
 ## Allied Resources
 
-### Remaining Forces
-- Any surviving forces from Athkatla can join the assault
-- Gideon and his remaining paladins (approximately 12-15)
-- Okurak and his werebears (if they survived)
+### Waterdeep Defenders
+- **City Watch**: 40 guards holding the outer perimeter, led by Captain Hyustus Staget
+- **Blackstaff Tower**: 3 apprentice wizards maintaining protective wards
+- **Griffon Cavalry**: 5 riders providing aerial reconnaissance and limited support
 
-### New Allies
-- **Baldur's Gate Defensive Force**: 30 soldiers led by Captain Voren
-- **Circle of Druids**: 5 druids attempting to heal the land, led by Archdruid Elara
-- **Mercenary Band**: The Red Falcons, a group of 8 experienced demon hunters
+### Civilian Support
+- **Priests of Tyr**: 4 clerics providing healing and blessings
+- **Waterdhavian Nobles**: Several noble houses have offered resources and safe haven for evacuees
+- **Adventurers' Guild**: Various adventuring parties helping with evacuation
 
-## The Assault Plan
+## The Battle Plan
 
-### Phase 1: Clear the Approach
-- Demonic forces have established a perimeter around the portal
-- Objective: Break through the defensive lines to reach the stone circle
-- Environment: Blighted countryside, burning villages, corrupted wildlife
+### Phase 1: Reaching the Rift
 
-#### Encounter 1: The Vanguard
-- Wave 1: 10 Dretches (CR 1/4 each) and 6 Rutterkin (CR 2 each)
-- Wave 2: 4 Barlgura (CR 5 each) and 8 Bulezau (CR 3 each)
-- Wave 3: 2 Vrock (CR 6 each) with 6 Hezrou (CR 8 each)
-- Tactics: Demons fight in chaotic patterns, focusing on isolating party members
+#### Environment
+- Collapsing buildings, panicked crowds, unstable magic bursts
+- Difficult terrain throughout most of the approach
+- Periodic arcane discharges (DC 17 Dex save or 4d6 force damage)
 
-### Phase 2: Anchor Points
-- Seven corrupted standing stones must be cleansed to weaken the portal
-- Party can split up or tackle them sequentially
-- Each stone is guarded by increasingly powerful demons
+#### Encounter: Breach Vanguard
+- **Composition**: 5×5 - 25 lesser planar entities (mixture of shadow creatures, minor elementals, imps)
+- **Combat Stats per Group**:
+  - AC: 16
+  - HP: 90 per group
+  - Attack: +10 to hit, 3d6+5 force damage
+  - Special: Each group destroyed reduces the difficulty of the first planar wave
+- **Expected Difficulty**: 2/10 (warm-up encounter for Divine Level 2 heroes)
 
-#### Encounter 2: The Seven Anchors
-Each anchor point presents a similar challenge:
-- 1 Guardian Demon (CR varies from 5-10)
-- 3-4 Lesser Demons as support
-- A corrupted environmental effect (necrotic field, fiery eruptions, etc.)
-- Objective: Perform a quick ritual (3 rounds) to cleanse the stone while defending against demons
+### Phase 2: The Four Planar Waves
 
-**Sample Anchor Guardians:**
-1. Shadow Demon Matriarch (CR 6) with 4 Shadow Demons (CR 4 each)
-2. Barlgura Alpha (CR 7) with 3 Barlgura (CR 5 each)
-3. Chasme Swarm (CR 8) with 6 Dretches (CR 1/4 each)
-4. Hezrou Champion (CR 9) with 3 Rutterkin (CR 2 each)
-5. Corrupt Water Elemental (CR 7) with 3 Water Weirds (CR 3 each)
-6. Fiendish Wyvern (CR 8) with 4 Imps (CR 1 each)
-7. Glabrezu (CR 9) with 2 Chasme (CR 6 each)
+#### Wave 1: Shadowfell Connection
+- **Composition**: 3×4 - 12 Wraith-Shades
+- **Combat Stats per Group**:
+  - AC: 17
+  - HP: 120 per group
+  - Attack: +12 to hit, 4d6+7 necrotic damage
+  - Special: On hit, DC 18 Con save or target's max HP reduced by half damage dealt (recovers on long rest)
+- **Expected Difficulty**: 4/10
+- **Planar Shard**: Shadow Essence (appears when all groups are reduced to 0 HP)
 
-### Phase 3: The Keystone
-- Once all anchors are cleansed, the portal begins to destabilize
-- The central keystone must be shattered to close the portal completely
-- As the party approaches, Moryx emerges from the portal, recognizing Pamykos
+#### Wave 2: Elemental Chaos Connection
+- **Composition**: 4×3 - 12 Elemental Manifestations (3 of each element: fire, water, earth, air)
+- **Combat Stats per Group**:
+  - AC: 18
+  - HP: 140 per group
+  - Attack: +13 to hit
+  - Damage varies by element:
+    - Fire: 3d10+6 fire damage
+    - Water: 3d8+6 cold damage plus restrained (DC 18 Str save to escape)
+    - Earth: 3d12+6 bludgeoning damage
+    - Air: 3d6+6 lightning damage plus pushed 15 feet
+  - Special: Each group is immune to its own element type
+- **Expected Difficulty**: 5/10
+- **Planar Shard**: Prismatic Crystal (appears when all groups are reduced to 0 HP)
 
-#### Encounter 3: Moryx the Doombringer
+#### Wave 3: Nine Hells Connection
+- **Composition**: 3×5 - 15 Infernal Legionnaires
+- **Combat Stats per Group**:
+  - AC: 19
+  - HP: 160 per group
+  - Attack: +14 to hit, 3d10+8 slashing plus 2d6 fire damage
+  - Special: Infernal Discipline - groups with more than 50% HP remaining crit on 19-20
+  - Special: Hellish Coordination - if two groups target the same character, that character has disadvantage on saving throws until their next turn
+- **Expected Difficulty**: 6/10
+- **Planar Shard**: Infernal Sigil (appears when all groups are reduced to 0 HP)
 
-*The air grows unnaturally cold. The constant sound of the portal's chaotic energy fades to an eerie silence. A massive figure steps through the breach—a towering demon with curved horns, wings of decaying flesh, and eyes that burn with recognition and hatred.*
+#### Wave 4: Abyssal Connection
+- **Composition**: 2×8 - 16 Abyssal Horrors
+- **Combat Stats per Group**:
+  - AC: 20
+  - HP: 180 per group
+  - Attack: +15 to hit, 4d10+8 psychic damage
+  - Special: Chaotic Frenzy - each group makes an additional attack for every 50 HP it has remaining
+  - Special: Reality Warp - at the start of each round, the battlefield shifts (DC 19 Wis save or disoriented, disadvantage on attacks)
+- **Expected Difficulty**: 7/10
+- **Planar Shard**: Abyssal Heart (appears when all groups are reduced to 0 HP)
 
-*The demon's gaze fixes on Pamykos with terrible recognition. "The shell returns to me," it growls. "I smell my essence upon you still, mortal. Our bond was severed prematurely, but here, at the nexus of planes, I am WHOLE!"*
+### Phase 3: Moryx, Harbinger of the Abyss
 
-*It lunges forward, form shifting between solid matter and shadowy essence. "You denied me your flesh as a vessel, so I shall take your soul as tribute instead!"*
+When the Abyssal wave is reduced to half strength (4 groups remaining), Moryx emerges from the rift.
 
-##### Moryx Stats and Abilities
-*Large fiend (demon), chaotic evil*
+#### Moryx the Doombringer
+*Huge fiend (demon), chaotic evil*
 
-- **AC:** 19
-- **HP:** 320
-- **Speed:** 40 ft., fly 60 ft.
-- **Divine Vulnerability:** The celestial power granted by Jizz'rek is especially effective against Moryx, dealing double damage
+- **AC:** 21
+- **HP:** 500
+- **Speed:** 40 ft., fly 80 ft.
+- **Saving Throws:** Str +14, Con +13, Wis +10
+- **Damage Resistances:** cold, fire, lightning
+- **Damage Immunities:** poison, necrotic
+- **Condition Immunities:** frightened, poisoned
+- **Divine Vulnerability:** Radiant damage bypasses resistances and deals an additional 10 damage per hit (Tyr's blessing)
 
-**Special Abilities:**
-- **Essence Link:** Establishes a connection with Pamykos, sharing damage (when one takes damage, both take half)
-- **Soul Drain:** 12d10 necrotic damage, DC 21 Con save for half
-- **Shadow Step:** 60 ft. teleport to any area of shadow as a bonus action
-- **Nightmare Gaze:** 4d10 psychic damage + frightened, DC 21 Wis save
-- **Demonic Regeneration:** Regains 20 HP at the start of its turn unless it took radiant damage
-- **Hellfire Burst:** 60-ft cone, 10d6 fire damage, DC 19 Dex save for half
-- **Legendary Actions:** 3 per round (attack, move, cast spell)
-- **Legendary Resistance:** 3 per day
+**Multiattack.** Moryx makes three attacks: two with its claws and one with its bite.
 
-##### Battle Dynamics
-- **Phase 1:** Moryx focuses entirely on Pamykos, attempting to reestablish the broken connection
-- **Phase 2:** At 50% HP, Moryx summons 1d4+2 Shadow Demons to distract the party
-- **Phase 3:** Below 25% HP, Moryx becomes desperate and attempts to drag Pamykos back through the portal
+**Claw.** Melee Weapon Attack: +15 to hit, reach 15 ft., one target. Hit: 32 (4d10+10) slashing damage.
 
-##### Emotional Elements
-- Moryx knows personal details about Pamykos and taunts with them
-- Attempts to exploit any guilt or fear Pamykos has about their past connection
-- Offers power in exchange for submission: "Together we could challenge Fazrahl himself!"
+**Bite.** Melee Weapon Attack: +15 to hit, reach 10 ft., one target. Hit: 38 (4d12+10) piercing damage plus 18 (4d8) necrotic damage.
 
-### Phase 4: Sealing the Breach
-- With Moryx defeated, the party must perform a final ritual to seal the keystone
-- Divine energy from their growing power is required to complete the seal
-- As the ritual concludes, a massive implosion closes the portal and cleanses the area
+**Abyssal Roar (Recharge 5–6).** Moryx emits a terrifying roar in a 60-foot cone. Each creature in that area must make a DC 21 Constitution saving throw. On a failed save, a creature takes 56 (16d6) thunder damage and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
+
+**Soul Rend.** Moryx targets one creature it can see within 60 feet. The target must make a DC 22 Wisdom saving throw, taking 55 (10d10) psychic damage on a failed save, or half as much damage on a successful one. On a failed save, the target's Divine abilities are suppressed until the end of its next turn.
+
+**Legendary Actions.** Moryx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moryx regains spent legendary actions at the start of its turn.
+- **Attack.** Moryx makes one claw attack.
+- **Move.** Moryx moves up to half its speed without provoking opportunity attacks.
+- **Cast Spell.** Moryx casts dispel magic or counterspell without using components.
+- **Soul Rend (Costs 3 Actions).** Moryx uses its Soul Rend ability.
+
+**Mythic Actions.** If Moryx is reduced to 0 hit points, its abyssal essence detonates in a surge of chaotic energy. It isn't defeated and instead regains 200 hit points. In addition:
+- Moryx's wings dissolve into ichor that covers the ground in a 60-foot radius, turning it into difficult terrain
+- Moryx's damage dice increase by one step (d10→d12, d12→2d8)
+- Moryx can use its Soul Rend ability as a bonus action once per round
+
+**Expected Difficulty:** 8/10 (9/10 with remaining Abyssal groups)
+
+### Phase 4: Closing the Rift
+
+- Three heroes must use their Divine Spark while holding the Planar Shards
+- Each hero makes a DC 20 Religion or Arcana check as a bonus action
+- When three heroes succeed in the same round, the rift collapses
+- Any remaining planar entities are pulled back to their home planes
 
 ## Divine Transcendence
 
 ### The Final Blessing
 - As the portal collapses, divine energy surges into the party
-- The voice from the celestial realm speaks: "The second trial is complete. Your divine essence has reached its zenith."
+- The voice of their celestial patron speaks: "The second trial is complete. Your divine essence has reached its zenith."
 - The party experiences a dramatic transformation as they achieve Divine Level 3
 
 ### Divine Level 3 Manifestation
@@ -132,12 +164,13 @@ Each anchor point presents a similar challenge:
 
 ## Rewards and Aftermath
 
-### From Grateful Survivors
+### From Grateful Waterdeep
 - **Scroll of Plane Shift** to return to the celestial realm
 - **Potions of Supreme Healing** (3)
 - Information about a weakness in Fazrahl's divine form
+- The gratitude of the Lords of Waterdeep
 
-### From the Cleansed Land
+### From the Closed Rift
 - The purified energy of the sealed breach coalesces into a divine artifact:
 - **Shard of Reality**: Once per day, can create a 20-foot dome where reality is stabilized (anti-magic field for hostile spells only)
 
@@ -160,10 +193,10 @@ Each anchor point presents a similar challenge:
 - The final confrontation must happen soon, before Fazrahl's transformation is complete
 
 ## DM Notes
-- Emphasize the growing divine nature of the characters
-- Allow them to showcase their new powerful abilities against the demons
-- Make the confrontation with Moryx personal for Pamykos
-- Consider allowing allies to handle some of the lesser demons while the party focuses on key objectives
-- Prepare for the transition to the final confrontation
-- Consider how Fazrahl might attempt to counter the party's growing power
+- This encounter is designed for 18th-level characters with Divine Level 2 powers and Tyr's blessing
+- The group system allows for streamlined combat while still presenting a challenge
+- Each wave should take approximately 2-3 rounds of combat
+- Moryx should be a significant challenge even for divinely empowered characters
+- Consider the party's resources when determining if they need a short rest between waves
+- The difficulty ratings are calibrated based on the previous encounters in the God Power Battle Notes
 
