@@ -25,14 +25,14 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 - **Empowered Healing**: All healing you perform or receive is increased by 2x (replacing previous multiplier).
 - **Celestial Vision** Truesight extends to 60 feet
 - **Divine Intuition**: Now usable twice per long rest
-- **Divine Resurrection**: Once per day one of you can raise a fallen party member from the dead to full HP using your combined divine essense.
+- **Divine Resurrection**: Once per day one of you can raise a fallen party member from the dead to full HP using your combined divine essence.
 - **Divine Movement**: Gain a flying speed equal to your previous walking speed and then add 10ft to your walking speed
 - **Divine Restoration**: During a short rest, recover hit points equal to half your maximum hit points
 <!-- - **Saving Grace**: Add your proficiency bonus to all saving throws you aren't already proficient in -->
 - **Divine Form**: As an action once per long rest, transform into a celestial version of yourself for 3 rounds
   - +2 to AC (stacks with Divine Armor)
   - +30 temporary hit points
-  - Your weapons and spells deal an additional 2d8 radiant damage
+  - Once per round when you damage a creature with a weapon attack or spell, you can add 5d8 radiant damage (to 1 target only).
   - You can hover and move through creatures (but not objects)
 
 ### Level 3: Divine Transcendence (Gained after sealing the demonic portal)
