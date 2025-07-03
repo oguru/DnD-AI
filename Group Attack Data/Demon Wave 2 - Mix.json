@@ -1,0 +1,181 @@
+{
+  "enemyGroups": [
+    {
+      "id": "1751562553899",
+      "name": "Wave 2 - Mix 1",
+      "maxHp": 100,
+      "currentHp": 100,
+      "ac": 17,
+      "count": 10,
+      "originalCount": 10,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 1,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562553900",
+      "name": "Wave 2 - Mix 2",
+      "maxHp": 100,
+      "currentHp": 100,
+      "ac": 17,
+      "count": 10,
+      "originalCount": 10,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 1,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562553901",
+      "name": "Wave 2 - Mix 3",
+      "maxHp": 100,
+      "currentHp": 100,
+      "ac": 17,
+      "count": 10,
+      "originalCount": 10,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        },
+        {
+          "hp": 100
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 1,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    }
+  ]
+}

@@ -54,49 +54,39 @@
 #### Wave 1: Shadowfell Connection
 - **Composition**: 3×4 - 12 Wraith-Shades
 - **Combat Stats per Group**:
-  - AC: 17
-  - HP: 120 per group
-  - Attack: +12 to hit, 4d6+7 necrotic damage
+  - AC: 19
+  - HP: 120
+  - Attack: +12 to hit, 4d8+7 necrotic damage
   - Special: On hit, DC 18 Con save or target's max HP reduced by half damage dealt (recovers on long rest)
+  - Saves: Str +9, Dex +10, Con +8, Int +7, Wis +11, Cha +6
 - **Expected Difficulty**: 4/10
-- **Planar Shard**: Shadow Essence (appears when all groups are reduced to 0 HP)
 
-#### Wave 2: Elemental Chaos Connection
-- **Composition**: 4×3 - 12 Elemental Manifestations (3 of each element: fire, water, earth, air)
+#### Wave 2: Deepening Darkness
+- **Composition**: 3×10 - 30 Mix
 - **Combat Stats per Group**:
   - AC: 18
-  - HP: 140 per group
-  - Attack: +13 to hit
-  - Damage varies by element:
-    - Fire: 3d10+6 fire damage
-    - Water: 3d8+6 cold damage plus restrained (DC 18 Str save to escape)
-    - Earth: 3d12+6 bludgeoning damage
-    - Air: 3d6+6 lightning damage plus pushed 15 feet
-  - Special: Each group is immune to its own element type
-- **Expected Difficulty**: 5/10
-- **Planar Shard**: Prismatic Crystal (appears when all groups are reduced to 0 HP)
-
-#### Wave 3: Nine Hells Connection
-- **Composition**: 3×5 - 15 Infernal Legionnaires
-- **Combat Stats per Group**:
-  - AC: 19
-  - HP: 160 per group
-  - Attack: +14 to hit, 3d10+8 slashing plus 2d6 fire damage
-  - Special: Infernal Discipline - groups with more than 50% HP remaining crit on 19-20
-  - Special: Hellish Coordination - if two groups target the same character, that character has disadvantage on saving throws until their next turn
+  - HP: 100
+  - Attack: +10 to hit, 1d8+8 slashing damage
+  - Saves: Str +10, Dex +11, Con +9, Int +8, Wis +12, Cha +7
 - **Expected Difficulty**: 6/10
-- **Planar Shard**: Infernal Sigil (appears when all groups are reduced to 0 HP)
 
-#### Wave 4: Abyssal Connection
-- **Composition**: 2×8 - 16 Abyssal Horrors
+#### Wave 3: Abyssal Surge
+- **Composition**: 4×5 - 20 Skeletal Horrors
 - **Combat Stats per Group**:
-  - AC: 20
-  - HP: 180 per group
-  - Attack: +15 to hit, 4d10+8 psychic damage
-  - Special: Chaotic Frenzy - each group makes an additional attack for every 50 HP it has remaining
-  - Special: Reality Warp - at the start of each round, the battlefield shifts (DC 19 Wis save or disoriented, disadvantage on attacks)
-- **Expected Difficulty**: 7/10
-- **Planar Shard**: Abyssal Heart (appears when all groups are reduced to 0 HP)
+  - AC: 21
+  - HP: 180
+  - Attack: +14 to hit, 3d8+9 slashing damage
+  - Saves: Str +11, Dex +12, Con +10, Int +9, Wis +13, Cha +8
+- **Expected Difficulty**: 8/10
+
+#### Wave 4: Final Onslaught
+- **Composition**: 4×5 - 20 Ghosts
+- **Combat Stats per Group**:
+  - AC: 22
+  - HP: 220
+  - Attack: +16 to hit, 4d8+10 cold damage
+  - Saves: Str +12, Dex +13, Con +11, Int +10, Wis +14, Cha +9
+- **Expected Difficulty**: 10/10
 
 ### Phase 3: Moryx, Harbinger of the Abyss
 
@@ -105,8 +95,8 @@ When the Abyssal wave is reduced to half strength (4 groups remaining), Moryx em
 #### Moryx the Doombringer
 *Huge fiend (demon), chaotic evil*
 
-- **AC:** 21
-- **HP:** 500
+- **AC:** 22
+- **HP:** 1500
 - **Speed:** 40 ft., fly 80 ft.
 - **Saving Throws:** Str +14, Con +13, Wis +10
 - **Damage Resistances:** cold, fire, lightning

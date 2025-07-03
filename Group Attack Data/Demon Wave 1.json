@@ -1,0 +1,127 @@
+{
+  "enemyGroups": [
+    {
+      "id": "1751562355818",
+      "name": "Wraith Shades 1",
+      "maxHp": 120,
+      "currentHp": 120,
+      "ac": 19,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "12",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 9,
+        "dex": 10,
+        "con": 8,
+        "int": 7,
+        "wis": 11,
+        "cha": 6
+      },
+      "creatures": [
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        }
+      ],
+      "attackBonus": 12,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 7,
+        "damageType": "necrotic"
+      }
+    },
+    {
+      "id": "1751562355819",
+      "name": "Wraith Shades 2",
+      "maxHp": 120,
+      "currentHp": 120,
+      "ac": 19,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "12",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 9,
+        "dex": 10,
+        "con": 8,
+        "int": 7,
+        "wis": 11,
+        "cha": 6
+      },
+      "creatures": [
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        }
+      ],
+      "attackBonus": 12,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 7,
+        "damageType": "necrotic"
+      }
+    },
+    {
+      "id": "1751562355820",
+      "name": "Wraith Shades 3",
+      "maxHp": 120,
+      "currentHp": 120,
+      "ac": 19,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "12",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 9,
+        "dex": 10,
+        "con": 8,
+        "int": 7,
+        "wis": 11,
+        "cha": 6
+      },
+      "creatures": [
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        },
+        {
+          "hp": 120
+        }
+      ],
+      "attackBonus": 12,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 7,
+        "damageType": "necrotic"
+      }
+    }
+  ]
+}
