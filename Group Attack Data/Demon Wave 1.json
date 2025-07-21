@@ -3,8 +3,8 @@
     {
       "id": "1751562355818",
       "name": "Wraith Shades 1",
-      "maxHp": 120,
-      "currentHp": 120,
+      "maxHp": 70,
+      "currentHp": 70,
       "ac": 19,
       "count": 4,
       "originalCount": 4,
@@ -21,16 +21,16 @@
       },
       "creatures": [
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         }
       ],
       "attackBonus": 12,
@@ -44,8 +44,8 @@
     {
       "id": "1751562355819",
       "name": "Wraith Shades 2",
-      "maxHp": 120,
-      "currentHp": 120,
+      "maxHp": 70,
+      "currentHp": 70,
       "ac": 19,
       "count": 4,
       "originalCount": 4,
@@ -62,16 +62,16 @@
       },
       "creatures": [
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         }
       ],
       "attackBonus": 12,
@@ -85,8 +85,8 @@
     {
       "id": "1751562355820",
       "name": "Wraith Shades 3",
-      "maxHp": 120,
-      "currentHp": 120,
+      "maxHp": 70,
+      "currentHp": 70,
       "ac": 19,
       "count": 4,
       "originalCount": 4,
@@ -103,16 +103,16 @@
       },
       "creatures": [
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         },
         {
-          "hp": 120
+          "hp": 70
         }
       ],
       "attackBonus": 12,
