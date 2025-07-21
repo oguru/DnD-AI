@@ -30,7 +30,7 @@
 - **HP**: 600 (Mythic: regains 250 HP when reduced to 0)
 - **Attacks**:
   - Multiattack (4 strikes)
-  - Corrupting Touch: +16 to hit, 3d10+9 slashing plus 5d8 necrotic
+  - Corrupting Touch: +16 to hit, 5d10+9 slashing
 - **Abilities**:
   - Maternal Manipulation: Charm effect, DC 22 Wis save or charmed for 1 minute
   - Phase Shift: Teleport 120ft as bonus action, 5/day
@@ -60,11 +60,16 @@
   - Flame Strike: 10d6+10 fire damage in 10ft radius, DC 19 DEX save for half
 
 - **Battle Summary**:
-  - Party composition: Pamykos, Pyre, Kalmia, Yrsa, Kalmia's Reflexes, Khada
-  - Yrsa was reduced to 0 HP (from 209)
-  - Demon used Corrupting Wave multiple times for 30-50 damage each
-  - Shadow Archmage used Chain Lightning (40 damage) and Snowball Swarm (32 damage)
-  - Divine Healer used Life Drain (51 damage) and Flame Strike (40 damage)
-  - Party managed to reduce Demon to 438 HP, Archmage to 196 HP, and Healer to 58 HP
-  - **Difficulty - (7)/10**
-  - **In Progress currently - Combat relatively challenging so far and Yrsa has been reduced to 0hp once.**
+  - Party composition: Pamykos, Pyre, Kalmia, Yrsa, Kalmia's Reflexes, Khada, help from Okurak
+  - Yrsa went down several times, Pamykos once or twice, others maybe too? Brought back 2-3 times by Okurak
+  - Skipped Demon of the Dale Legendary Actions about 1.5 turns. Whiffed some of her damage on purpose. Didn't use her return from 0hp feature.
+  - Enemies probably did about 650-700hp healing.
+  - Pyre combat was somewhat limited by inability to cast without necrotic damage from Wish spell.
+  - **Difficulty - 9/10**
+  - **Incredibly difficult - May have been more balanced with lower Demon Dale damage and HP, less healing from healer**
+
+# Divine Level 2
+
+Group will have about:
+- 35% more hp
+- 35% more damage and healing

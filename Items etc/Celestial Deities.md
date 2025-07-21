@@ -13,7 +13,7 @@ The following five deities are willing to grant their blessing to the party. Eac
 - Radiates authority and fairness
 
 **Divine Enhancement: Smite of Justice**
-- Twice per day when you deal damage to an enemy, you can unleash a smite of divine justice from above to deal an additional 4d10 radiant damage.
+- Twice per day when you deal damage to an enemy, you can unleash a smite of divine justice from above to deal an additional 4d10 radiant damage to a single target.
 - This damage increases to 6d10 against creatures that have harmed innocents or broken sacred oaths
 
 **What Tyr Values:**
@@ -51,8 +51,8 @@ The following five deities are willing to grant their blessing to the party. Eac
 
 **Divine Enhancement: Weave Mastery**
 - Once per long rest, you can cast any spell you know without expending a spell slot
-- If you're not a spellcaster, you can instead cast any spell of 5th level or lower that you've seen cast before
-- The spell is cast at its base level and uses your primary ability modifier for any saving throws or attack rolls
+- If you're not a spellcaster, you can instead cast any spell of 6th level or lower that you've seen cast before
+- The spell uses your primary ability modifier for any saving throws or attack rolls
 
 **What Mystra Values:**
 - Responsible use of power
@@ -87,7 +87,7 @@ The following five deities are willing to grant their blessing to the party. Eac
 - Speaks in whispers like rustling leaves
 
 **Divine Enhancement: Life's Abundance**
-- Whenever you deal damage with an attack or spell, you can choose to heal one ally within 30 feet for half the damage dealt
+- 2x per day, whenever you deal damage with an attack or spell, you can choose to heal one ally within 30 feet for half the damage dealt
 - This healing cannot exceed the ally's hit point maximum
 
 **What Eldath Values:**

@@ -53,7 +53,7 @@
       ],
       "attackBonus": 10,
       "damage": {
-        "numDice": 1,
+        "numDice": 2,
         "diceType": 8,
         "modifier": 8,
         "damageType": "slashing"
@@ -112,7 +112,7 @@
       ],
       "attackBonus": 10,
       "damage": {
-        "numDice": 1,
+        "numDice": 2,
         "diceType": 8,
         "modifier": 8,
         "damageType": "slashing"
@@ -171,7 +171,7 @@
       ],
       "attackBonus": 10,
       "damage": {
-        "numDice": 1,
+        "numDice": 2,
         "diceType": 8,
         "modifier": 8,
         "damageType": "slashing"

@@ -7,10 +7,17 @@
 - *"The scales of justice have begun to balance once more. I have felt the shift across the planes."*
 - *"Fazrahl's essence has been diminished by your actions. The corruption of Athkatla's leylines no longer feeds his stolen divinity."*
 - *"You have struck the first meaningful blow against this usurper. Order begins to reassert itself where chaos reigned."*
-- *"Your divine spark grows stronger - I can see it burning within each of you."*
+- *"Your divine spark continues to grow - I can see it yearning to reach its full potential within each of you."*
+
+### The Growing Legend
+- *"Word of your deeds spreads across Faerûn like wildfire. 'The Saviors of Verbobonc,', 'The Heroes of Athkatla,' and now 'The Chosen of the Realms' - these names echo in taverns and noble courts alike."*
+- *"This recognition strengthens divine power. As mortals speak your names with reverence, your capacity to channel celestial energy grows."*
+- *"The threads of destiny binding you to the divine realms are reinforced by each soul who believes in your purpose."*
+- *"This connection to the mortal realm's collective faith makes you uniquely suited to wield greater divine power against Fazrahl."*
 
 ### To Yrsa
-- Tyr turns his attention specifically to Yrsa
+- Tyr's gaze shifts, his attention focusing on Yrsa as the divine light around him intensifies
+- *"And among these chosen heroes, each plays a unique role in this divine struggle."*
 - *"Yrsa, faithful servant. You have carried my banner into darkness and emerged victorious."*
 - *"Your dedication to justice has never wavered, even when faced with divine corruption."*
 - *"Know that your actions in Athkatla have been recorded in the Halls of Justice. The celestial courts speak your name with honor."*
@@ -29,8 +36,7 @@
 - *"To face him directly, you will need the blessing of one more deity after completing their divine task."*
 - *"I sense that the cosmic balance requires this - only then will your divine spark be strong enough to challenge Fazrahl's stolen divinity."*
 - *"Several deities have observed your progress and each offers a different path forward."*
-- *"Which divine ally do you wish to consult next? Their domain will shape both your next blessing and the nature of your challenge."*
-- *"This final trial will prepare you for the confrontation with Fazrahl himself."*
+- *"Which divine ally do you wish to consult next? Their domain will shape your next blessing, and this final trial will prepare you for the confrontation with Fazrahl himself."*
 
 ## [Selected Deity]'s Guidance
 
@@ -43,22 +49,18 @@
 
 ### The Portal Crisis
 - *"Fazrahl has created a nexus of planar convergence within Waterdeep's Trade Ward."*
-- *"I can sense connections forming to four other planes - the Abyss, the Nine Hells, the Elemental Chaos, and the Shadowfell."*
-- *"I sense a great and ancient evil waiting to break through to your world."*
-- *"With each passing hour, the portal grows more stable. If it becomes permanent, Waterdeep will fall, and the material plane will face an invasion unlike any before."*
+- *"I can sense connections forming to four other lower planes, and a great and ancient evil waiting to break through to your world."*
+- *"The longer the portal stays up, the more stable it becomes. If it becomes permanent, Waterdeep will fall, and the material plane will face an invasion unlike any before."*
 
 ### The Divine Solution
 - *"My divine domain gives me unique insight into this particular threat. I can guide you in ways others could not."*
 - *"To close the portal, you must confront the waves of creatures emerging as each planar connection stabilizes."*
-- *"From each planar wave, you must seize something infused with its native essence – enough to weaken that connection in the fabric of the portal."*
-- *"I sense four such realms pressing against your own: the Shadowfell, the Elemental Chaos, the Nine Hells, and at last the Abyss."*
-- *"When the final connection stabilizes, the ancient evil will force its way through. During that last battle, lesser fiends will still pour from the breach."*
-- *"Three of you must combine your divine essence with the gathered planar fragments to seal the portal – each of you can attempt the ritual as a bonus action with a skill check."*
-- *"When all three succeed within the same round, the portal will begin to collapse, dragging any remaining fiends back to their home planes and striking another blow against Fazrahl's divinity."*
+- *"From each planar wave, you must seize something infused with its native essence – enough to weaken that connection in the fabric of the portal in order to make it susceptible to attack."*
+- *"When the final connection stabilizes, the ancient evil will force its way through."*
 
 ### Parting Words
 - *"This task will test not only your strength but your coordination and will."*
 - *"Remember that you carry divine essence - it allows you to interact with these planar energies in ways mere mortals cannot."*
 - *"Waterdeep's fate, and perhaps that of the Sword Coast, rests in your hands."*
-- *"Complete this task, and return for my divine blessing. After that, only one more trial will stand between you and the power needed to confront Fazrahl directly."*
-- *"Go now, with my blessing and that of Tyr before me."*
+- *"Complete this task, and return for my divine blessing. After that, you will attain the power needed to confront Fazrahl directly."*
+- *"Go now, the portal has begun to appear within the city."*

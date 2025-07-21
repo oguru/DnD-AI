@@ -53,7 +53,7 @@ A greatsword of celestial and otherwordly alloys with a central diamond that glo
 - +3 to hit and damage rolls
 - +2 to spell save DC
 - Your Wisdom or Charisma score (your choice) increases by 2 and max increase by 2
-- When you cast a healing spell, add your 2x proficiency bonus to the amount healed
+- When you cast a healing spell, add your proficiency bonus to the amount healed, or 2x for level 3+
 - Your divine smites and radiant damage spells (1st level +) deal an additional 2d8 radiant damage
 - As a reaction when you or an ally within 30 feet takes damage, you can halve that damage (2/day)
 - When you critically hit with this weapon, you can add a max level divine smite without expending a spell slot (1/day)
