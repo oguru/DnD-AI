@@ -126,17 +126,19 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 - **Damage Immunities:** poison, necrotic
 - **Condition Immunities:** frightened, poisoned, stunned
 
-**Multiattack.** Moryx makes four attacks: three with its claws and one with its bite.
+**Multiattack.** Moryx makes four attacks: two with its fists one with its bite and one with its tail.
 
-**Claw.** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 38 (4d12+12) slashing damage.
+**Swipe.** Melee Weapon Attack: +17 to hit, reach 15 ft., one target. Hit: 38 (5d12+12) bludgeoning damage.
 
-**Bite.** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 44 (4d12+12) piercing damage plus 27 (6d8) necrotic damage.
+**Bite.** Melee Weapon Attack: +17 to hit, reach 10 ft., one target. Hit: 38 (6d12+14) slashing damage.
 
-**Abyssal Roar (Recharge 4).** Moryx emits a terrifying roar in a 60-foot radius. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 20d10 thunder damage and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
+**Tail.** Melee Weapon Attack: DC24 Dex save, 15 ft. radius, AOE. 51 (6d12+12) piercing damage and restrained (DC24) or half on save.
+
+**Abyssal Roar (Recharge 4).** Moryx emits a terrifying roar in a 60-foot radius. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 20d12 thunder damage and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
 
 **Soul Rend.** Moryx targets one creature it can see within 60 feet. The target must make a DC 24 Wisdom saving throw, taking 20d12 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, the target's Divine abilities are suppressed until the end of its next turn.
 
-**Former Host Connection (Pamykos Only).** Moryx can use a bonus action to attempt to reconnect with its former host, Pamykos. Pamykos must make a DC 22 Charisma saving throw. On a failed save, Pamykos takes 55 (10d10) psychic damage and is stunned until the end of Moryx's next turn as painful memories of possession flood back. Additionally, Moryx gains temporary hit points equal to the damage dealt. On a successful save, Pamykos takes half damage and isn't stunned. This ability can be used once every 3 rounds.
+**Possess Pamykos (Recharge 3).** Moryx can use a bonus action to attempt to reconnect with its former host, Pamykos. Pamykos must make a DC 22 Charisma saving throw. On a failed save, Pamykos takes 55 (10d10) psychic damage and is possessed until the end of Moryx's next turn as painful memories of possession flood back. Additionally, Moryx heals equal to the damage dealt. On a successful save, Pamykos takes half damage and isn't possessed. This ability can be used once every 3 rounds.
 
 **Legendary Actions.** Moryx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moryx regains spent legendary actions at the start of its turn.
 - **Attack.** Moryx makes one claw attack.
@@ -147,7 +149,6 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 
 **Mythic Actions.** If Moryx is reduced to 0 hit points, its abyssal essence detonates in a surge of chaotic energy. It isn't defeated and instead regains 400 hit points. In addition:
 - Moryx's wings dissolve into ichor that covers the ground in a 60-foot radius, turning it into difficult terrain
-- Moryx's damage dice increase by one step (d12→2d8)
 - Moryx can use its Soul Rend ability as a bonus action once per round
 - Moryx gains a new ability: **Abyssal Dominance**. As an action, Moryx creates a 30-foot radius sphere of abyssal energy centered on itself. The sphere remains for 1 minute or until Moryx is defeated. Within the sphere, all non-divine creatures have disadvantage on attack rolls and saving throws. Divine creatures must make a DC 22 Constitution saving throw at the start of their turn or take 27 (6d8) necrotic damage.
 
