@@ -33,23 +33,15 @@
 
 ## The Battle Plan
 
-### Phase 1: Reaching the Rift
-
 #### Environment
 - Collapsing buildings, panicked crowds, unstable magic bursts
 - Difficult terrain throughout most of the approach
-- Periodic arcane discharges (DC 17 Dex save or 4d6 force damage)
 
-#### Encounter: Breach Vanguard
-- **Composition**: 5×5 - 25 lesser planar entities (mixture of shadow creatures, minor elementals, imps)
-- **Combat Stats per Group**:
-  - AC: 16
-  - HP: 90 per group
-  - Attack: +10 to hit, 3d6+5 force damage
-  - Special: Each group destroyed reduces the difficulty of the first planar wave
-- **Expected Difficulty**: 2/10 (warm-up encounter for Divine Level 2 heroes)
-
-### Phase 2: The Four Planar Waves
+#### Portal Lair Actions
+- Arcane discharge - DC21 Dex or 20d8 force damage single target (half on save)
+- Gravity warp - 60ft - Pulls targets within 120ft up to 60ft, pushes everything away in a pulse - DC21 Str save or blasted 30ft away and 10d8 force (half on save) (plus 1d8 per 10ft if hitting wall)
+- Non Flight - DC21 Con save or disables flying and hover within 120ft
+- Debilitate - DC 21 Wis or disadvantage on all attack rolls/saves & -6 to spell save dc
 
 #### Wave 1: Shadowfell Connection
 - **Composition**: 3×4 - 12 Wraith-Shades

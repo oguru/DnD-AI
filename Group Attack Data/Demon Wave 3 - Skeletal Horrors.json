@@ -3,8 +3,8 @@
     {
       "id": "1751562908564",
       "name": "Wave 3 - Skeletal Horrors 1",
-      "maxHp": 180,
-      "currentHp": 180,
+      "maxHp": 90,
+      "currentHp": 90,
       "ac": 21,
       "count": 4,
       "originalCount": 4,
@@ -21,16 +21,16 @@
       },
       "creatures": [
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         }
       ],
       "attackBonus": 14,
@@ -44,8 +44,8 @@
     {
       "id": "1751562908565",
       "name": "Wave 3 - Skeletal Horrors 2",
-      "maxHp": 180,
-      "currentHp": 180,
+      "maxHp": 90,
+      "currentHp": 90,
       "ac": 21,
       "count": 4,
       "originalCount": 4,
@@ -62,16 +62,16 @@
       },
       "creatures": [
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         }
       ],
       "attackBonus": 14,
@@ -85,8 +85,8 @@
     {
       "id": "1751562908566",
       "name": "Wave 3 - Skeletal Horrors 3",
-      "maxHp": 180,
-      "currentHp": 180,
+      "maxHp": 90,
+      "currentHp": 90,
       "ac": 21,
       "count": 4,
       "originalCount": 4,
@@ -103,16 +103,16 @@
       },
       "creatures": [
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         }
       ],
       "attackBonus": 14,
@@ -126,8 +126,8 @@
     {
       "id": "1751562908567",
       "name": "Wave 3 - Skeletal Horrors 4",
-      "maxHp": 180,
-      "currentHp": 180,
+      "maxHp": 90,
+      "currentHp": 90,
       "ac": 21,
       "count": 4,
       "originalCount": 4,
@@ -144,16 +144,16 @@
       },
       "creatures": [
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         }
       ],
       "attackBonus": 14,
@@ -167,8 +167,8 @@
     {
       "id": "1751562908568",
       "name": "Wave 3 - Skeletal Horrors 5",
-      "maxHp": 180,
-      "currentHp": 180,
+      "maxHp": 90,
+      "currentHp": 90,
       "ac": 21,
       "count": 4,
       "originalCount": 4,
@@ -185,16 +185,16 @@
       },
       "creatures": [
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         },
         {
-          "hp": 180
+          "hp": 90
         }
       ],
       "attackBonus": 14,
