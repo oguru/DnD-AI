@@ -114,8 +114,8 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 - **HP:** 2750
 - **Speed:** 40 ft., fly 80 ft.
 - **Saving Throws:** Str +16, Con +15, Wis +12
-- **Damage Resistances:** cold, fire, lightning
-- **Damage Immunities:** poison, necrotic
+- **Damage Resistances:** cold, poison, lightning
+- **Damage Immunities:** fire, necrotic
 - **Condition Immunities:** frightened, poisoned, stunned
 
 **Multiattack.** Moryx makes four attacks: two with its fists one with its bite and one with its tail.
@@ -130,7 +130,7 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 
 **Soul Rend.** Moryx targets one creature it can see within 60 feet. The target must make a DC 24 Wisdom saving throw, taking 20d12 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, the target's Divine abilities are suppressed until the end of its next turn.
 
-**Possess Pamykos (Recharge 3).** Moryx can use a bonus action to attempt to reconnect with its former host, Pamykos. Pamykos must make a DC 22 Charisma saving throw. On a failed save, Pamykos takes 55 (10d10) psychic damage and is possessed until the end of Moryx's next turn as painful memories of possession flood back. Additionally, Moryx heals equal to the damage dealt. On a successful save, Pamykos takes half damage and isn't possessed. This ability can be used once every 3 rounds.
+**Possess Pamykos (Recharge 3).** Moryx can use a bonus action to attempt to reconnect with its former host, Pamykos. Pamykos must make a DC 23 Charisma saving throw. On a failed save, Pamykos takes 55 (10d10) psychic damage and is possessed until the end of Moryx's next turn as painful memories of possession flood back. Additionally, Moryx heals equal to the damage dealt. On a successful save, Pamykos takes half damage and isn't possessed. This ability can be used once every 3 rounds.
 
 **Legendary Actions.** Moryx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moryx regains spent legendary actions at the start of its turn.
 - **Attack.** Moryx makes one claw attack.
