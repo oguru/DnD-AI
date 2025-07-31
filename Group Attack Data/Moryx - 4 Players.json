@@ -54,7 +54,7 @@
         },
         {
           "id": "1753899518759",
-          "name": "Abyssal Roar (60ft - Stun - Recharge 4)",
+          "name": "Abyssal Flames (60ft - Stun - Recharge 4)",
           "type": "spell",
           "numDice": 20,
           "diceType": 12,
@@ -65,7 +65,7 @@
           "saveDC": 24,
           "halfOnSave": true,
           "isAoE": true,
-          "damageType": "thunder"
+          "damageType": "fire"
         },
         {
           "id": "1753899609365",

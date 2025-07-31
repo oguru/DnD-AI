@@ -54,7 +54,7 @@
         },
         {
           "id": "1753899518759",
-          "name": "Abyssal Roar (60ft - Stun - Recharge 4)",
+          "name": "Abyssal Flames (60ft - Stun - Recharge 4)",
           "type": "spell",
           "numDice": 20,
           "diceType": 12,
@@ -65,7 +65,7 @@
           "saveDC": 24,
           "halfOnSave": true,
           "isAoE": true,
-          "damageType": "thunder"
+          "damageType": "fire"
         },
         {
           "id": "1753899609365",
@@ -376,8 +376,8 @@
         },
         {
           "id": "1753899850242",
-          "attackName": "Abyssal Roar (60ft - Stun - Recharge 4)",
-          "message": "AOE Attack: Abyssal Roar (60ft - Stun - Recharge 4) - 160 damage (160 + 0) - DC 24 CON save, half damage on save",
+          "attackName": "Abyssal Flames (60ft - Stun - Recharge 4)",
+          "message": "AOE Attack: Abyssal Flames (60ft - Stun - Recharge 4) - 160 damage (160 + 0) - DC 24 CON save, half damage on save",
           "damage": 160,
           "isAoE": true,
           "saveType": "con",

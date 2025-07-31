@@ -126,7 +126,7 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 
 **Tail.** Melee Weapon Attack: DC24 Dex save, 15 ft. radius, AOE. 51 (6d12+12) piercing damage and restrained (DC24) or half on save.
 
-**Abyssal Roar (Recharge 4).** Moryx emits a terrifying roar in a 60-foot radius. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 20d12 thunder damage and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
+**Abyssal Flames (Recharge 4).** Moryx emits a terrifying roar and an eruption of flame in a 60-foot radius. Each creature in that area must make a DC 24 Constitution saving throw. On a failed save, a creature takes 20d12 fire damage and is stunned until the end of its next turn. On a successful save, the creature takes half as much damage and isn't stunned.
 
 **Soul Rend.** Moryx targets one creature it can see within 60 feet. The target must make a DC 24 Wisdom saving throw, taking 20d12 psychic damage on a failed save, or half as much damage on a successful one. On a failed save, the target's Divine abilities are suppressed until the end of its next turn.
 
