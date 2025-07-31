@@ -1,0 +1,163 @@
+{
+  "enemyGroups": [
+    {
+      "id": "1751562553899",
+      "name": "Wave 2 - Mix 1",
+      "maxHp": 80,
+      "currentHp": 80,
+      "ac": 17,
+      "count": 8,
+      "originalCount": 8,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 2,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562553900",
+      "name": "Wave 2 - Mix 2",
+      "maxHp": 80,
+      "currentHp": 80,
+      "ac": 17,
+      "count": 8,
+      "originalCount": 8,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 2,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562553901",
+      "name": "Wave 2 - Mix 3",
+      "maxHp": 80,
+      "currentHp": 80,
+      "ac": 17,
+      "count": 8,
+      "originalCount": 8,
+      "initiative": "6",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 10,
+        "dex": 11,
+        "con": 9,
+        "int": 8,
+        "wis": 12,
+        "cha": 7
+      },
+      "creatures": [
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        },
+        {
+          "hp": 80
+        }
+      ],
+      "attackBonus": 10,
+      "damage": {
+        "numDice": 2,
+        "diceType": 8,
+        "modifier": 8,
+        "damageType": "slashing"
+      }
+    }
+  ]
+} 

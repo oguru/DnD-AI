@@ -1,0 +1,168 @@
+{
+  "enemyGroups": [
+    {
+      "id": "1751562908564",
+      "name": "Wave 3 - Skeletal Horrors 1",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 21,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 14,
+        "dex": 12,
+        "con": 16,
+        "int": 4,
+        "wis": 7,
+        "cha": 10
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 14,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 9,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562908565",
+      "name": "Wave 3 - Skeletal Horrors 2",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 21,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 14,
+        "dex": 12,
+        "con": 16,
+        "int": 4,
+        "wis": 7,
+        "cha": 10
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 14,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 9,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562908566",
+      "name": "Wave 3 - Skeletal Horrors 3",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 21,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 14,
+        "dex": 12,
+        "con": 16,
+        "int": 4,
+        "wis": 7,
+        "cha": 10
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 14,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 9,
+        "damageType": "slashing"
+      }
+    },
+    {
+      "id": "1751562908567",
+      "name": "Wave 3 - Skeletal Horrors 4",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 21,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 14,
+        "dex": 12,
+        "con": 16,
+        "int": 4,
+        "wis": 7,
+        "cha": 10
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 14,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 9,
+        "damageType": "slashing"
+      }
+    }
+  ]
+} 

@@ -1,0 +1,116 @@
+{
+  "bosses": [
+    {
+      "name": "Moryx the Doombringer",
+      "maxHp": 2200,
+      "currentHp": 2200,
+      "ac": 25,
+      "notes": "- 2x Swipe, 1x Bite, 1x Tail (restrain)\n\n- **Damage Resistances:** cold, fire, lightning\n- **Damage Immunities:** poison, necrotic\n- **Condition Immunities:** frightened, poisoned, stunned\n\n**Legendary Actions.** Moryx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moryx regains spent legendary actions at the start of its turn.\n- **Attack.** Moryx makes one claw attack.\n- **Move.** Moryx moves up to half its speed without provoking opportunity attacks.\n- **Cast Spell.** Moryx casts dispel magic or counterspell without using components.\n- **Soul Rend (Costs 2 Actions).** Moryx uses its Soul Rend ability.\n- **Former Host Connection (Costs 3 Actions).** Moryx uses its Former Host Connection ability against Pamykos if available.\n\n**Mythic Actions.** If Moryx is reduced to 0 hit points, its abyssal essence detonates in a surge of chaotic energy. It isn't defeated and instead regains 320 hit points. In addition:\n- Moryx's wings dissolve into ichor that covers the ground in a 60-foot radius, turning it into difficult terrain\n- Moryx can use its Soul Rend ability as a bonus action once per round\n- Moryx gains a new ability: **Abyssal Dominance**. As an action, Moryx creates a 30-foot radius sphere of abyssal energy centered on itself. The sphere remains for 1 minute or until Moryx is defeated. Within the sphere, all non-divine creatures have disadvantage on attack rolls and saving throws. Divine creatures must make a DC 22 Constitution saving throw at the start of their turn or take 27 (6d8) necrotic damage.",
+      "attacks": [
+        {
+          "id": "1753899290786",
+          "name": "Swipe",
+          "type": "melee",
+          "numDice": 5,
+          "diceType": 12,
+          "modifier": 12,
+          "hitBonus": 17,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 13,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "bludgeoning"
+        },
+        {
+          "id": "1753899325774",
+          "name": "Bite",
+          "type": "melee",
+          "numDice": 6,
+          "diceType": 12,
+          "modifier": 14,
+          "hitBonus": 17,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 13,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "slashing"
+        },
+        {
+          "id": "1753899449382",
+          "name": "Tail (15ft - Restrain)",
+          "type": "melee",
+          "numDice": 6,
+          "diceType": 12,
+          "modifier": 12,
+          "hitBonus": 17,
+          "attackMethod": "save",
+          "saveType": "dex",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "piercing"
+        },
+        {
+          "id": "1753899518759",
+          "name": "Abyssal Roar (60ft - Stun - Recharge 4)",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 12,
+          "modifier": 0,
+          "hitBonus": 17,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "thunder"
+        },
+        {
+          "id": "1753899609365",
+          "name": "Soul Rend (60ft range - Lose Powers)",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 12,
+          "modifier": 0,
+          "hitBonus": 17,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "psychic"
+        },
+        {
+          "id": "1753899679073",
+          "name": "Possess Pamykos (BA - Heals - Recharge 3)",
+          "type": "spell",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 17,
+          "attackMethod": "save",
+          "saveType": "cha",
+          "saveDC": 22,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "psychic"
+        }
+      ],
+      "savingThrows": {
+        "str": 16,
+        "dex": 12,
+        "con": 15,
+        "wis": 12,
+        "int": 11,
+        "cha": 16
+      },
+      "showSavingThrows": true,
+      "initiative": 18,
+      "id": "1753899729897",
+      "inAoe": false,
+      "attackResults": []
+    }
+  ]
+} 

@@ -1,0 +1,168 @@
+{
+  "enemyGroups": [
+    {
+      "id": "1751563147888",
+      "name": "Wave 4 - Ghosts 1",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 22,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 12,
+        "dex": 13,
+        "con": 11,
+        "int": 10,
+        "wis": 14,
+        "cha": 9
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 16,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "cold"
+      }
+    },
+    {
+      "id": "1751563147890",
+      "name": "Wave 4 - Ghosts 2",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 22,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 12,
+        "dex": 13,
+        "con": 11,
+        "int": 10,
+        "wis": 14,
+        "cha": 9
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 16,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "cold"
+      }
+    },
+    {
+      "id": "1751563147891",
+      "name": "Wave 4 - Ghosts 3",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 22,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 12,
+        "dex": 13,
+        "con": 11,
+        "int": 10,
+        "wis": 14,
+        "cha": 9
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 16,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "cold"
+      }
+    },
+    {
+      "id": "1751563147892",
+      "name": "Wave 4 - Ghosts 4",
+      "maxHp": 90,
+      "currentHp": 90,
+      "ac": 22,
+      "count": 4,
+      "originalCount": 4,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 12,
+        "dex": 13,
+        "con": 11,
+        "int": 10,
+        "wis": 14,
+        "cha": 9
+      },
+      "creatures": [
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        },
+        {
+          "hp": 90
+        }
+      ],
+      "attackBonus": 16,
+      "damage": {
+        "numDice": 4,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "cold"
+      }
+    }
+  ]
+} 
