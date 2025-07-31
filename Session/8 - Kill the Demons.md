@@ -91,7 +91,7 @@ Standing nearly twenty feet tall, the demon in front of you is a nightmarish fus
 
 The demon surveys the battlefield, his molten gaze sweeping across the defenders of Waterdeep before settling on the party. His maw splits into a terrible grin, revealing rows of razor-sharp teeth that glow like hot coals.
 
-*"FREE! FREE AT LAST!"* The demon's voice booms across the plaza, causing windows to shatter and the ground to tremble. *"All shall tremble before the might of Moryx the Doombringer, Destroyer of a Thousand Realms, Scourge of the Celestial Planes!"*
+*"FREE! FREE AT LAST!"* The demon's voice booms across the plaza, causing windows to shatter and the ground to tremble. *"All shall tremble before the might of Moryx the Doombringer, Destroyer of a Thousand Realms, Scourge of the Planes!"*
 
 **To the Group:**
 *"Divine champions,"* he mocks, his voice a thunderous rumble that seems to emanate from the depths of the Abyss itself. *"How pathetic that the gods would pin their hopes on such frail vessels. Your divine sparks are but candles before my inferno."*
