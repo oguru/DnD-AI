@@ -50,9 +50,14 @@ The following five deities are willing to grant their blessing to the party. Eac
 - Hair moves as if underwater, composed of magical energy
 
 **Divine Enhancement: Weave Mastery**
-- Once per long rest, you can cast any spell you know without expending a spell slot
-- If you're not a spellcaster, you can instead cast any spell of 6th level or lower that you've seen cast before
-- The spell uses your primary ability modifier for any saving throws or attack rolls
+
+Once per long rest, you can cast any spell of 8th level or lower that you've seen cast before (without expending a spell slot for spellcasters)
+
+For non-spellcasters: Your spell save DC = 8 + proficiency bonus + your primary modifier
+
+For non-spellcasters: Spell attack bonus = proficiency bonus + your primary modifier
+
+Spellcasters use their normal spellcasting ability modifier and save DC
 
 **What Mystra Values:**
 - Responsible use of power

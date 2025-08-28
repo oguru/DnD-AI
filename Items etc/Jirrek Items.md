@@ -44,10 +44,10 @@ Large intricate gauntlets made with a mysterious metal with runes and gemstones 
 - The gauntlets cause your voice to become dramatically deeper when making threats or boasts
 - Small objects you hold tend to accidentally crumple or bend, requiring you to constantly be gentle with delicate items like cups or writing implements
 
-### Radiant Soul Greatsword - D
+### Radiant Soul Greatsword
 *For the Sorcerer/Cleric/Paladin*
 
-A greatsword of celestial and otherwordly alloys with a central diamond that glows with inner divine light.
+A mighty weapon of celestial and otherwordly alloys with a central diamond that glows with inner divine light.
 
 **Attunement:** By a character with divine spellcasting abilities
 - +3 to hit and damage rolls
@@ -56,7 +56,7 @@ A greatsword of celestial and otherwordly alloys with a central diamond that glo
 - When you cast a healing spell, add your proficiency bonus to the amount healed, or 2x for level 3+
 - Your divine smites and radiant damage spells (1st level +) deal an additional 2d8 radiant damage
 - As a reaction when you or an ally within 30 feet takes damage, you can halve that damage (2/day)
-- When you critically hit with this weapon, you can add a max level divine smite without expending a spell slot (1/day)
+- When you critically hit with this weapon or a spell attack, you can add a max level divine smite without expending a spell slot (1/day)
 
 - The sword sometimes whispers compliments to you about your physical attributes or actions that only you can hear
 - Small, harmless miracles occasionally occur around you, such as a sudden bloom of flowers or a soft, soothing breeze on a hot day

@@ -37,7 +37,7 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 - **Physical Enhancement**: +2 to all ability scores and max
 - **Divine Vitality**: Multiply your current rolled hit points by 1.5 (stacking with previous multipliers)
 - **Divine Resilience** improves: Add immunity to 1 damage type
-- **Divine Immortality**: If reduced to 0 hit points, you instead return to 1/2 your maximum HP (usable once per long rest)
+- **Divine Immortality**: If reduced to 0 hit points, you instead return to 1/4 your maximum HP (usable once per long rest)
 - **Divine Armor**: AC increases by 6 (replacing previous bonus)
 - **Empowered Attacks**: Weapon and spell attacks deal 3x damage (replacing previous multiplier)
 - **Empowered Healing**: All healing you perform or receive is increased by 3x (replacing previous multiplier).
@@ -57,8 +57,8 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 - **Level 3**: (3x per day) - You can choose for an attack to damage all enemies in a 15ft sphere from your target
 
 #### Yrsa (Paladin/Cleric/Warlock) - Divine Aura
-- **Level 2**: Your Aura of Protection heals you and allies within 30 feet 4x your Charisma modifier at the start of each of your turns
-- **Level 3**: Your Aura of Protection reduces enemy saving throws equal to half your Charisma modifier (rounded down)
+- **Level 2**: You gain a Divine Aura that adds temporary hit points equal to 10x your Wisdom modifier to you and allies within 10 feet at the start of each of your turns
+- **Level 3**:  Your Divine Aura also reduces enemy saving throws by half your Wisdom modifier (rounded down)
 
 #### Pyre (Sorceror) - Divine Alacrity
 - **Level 2**: (1x per day) you can cast an additional spell in 1 round as a bonus action
@@ -66,7 +66,7 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
 
 #### Khada (Fighter) - Divine Prowess
 - **Level 2**: Your critical hits with weapons heal you for half the damage dealt
-- **Level 3**: Your critical hits with weapons heal or give you temporary HP for half the damage dealt.
+- **Level 3**: Your critical hits with weapons heal or give you temporary HP for half the damage dealt, and can trigger an additional wild surge.
 
 #### Pamykos (Bard/Warlock) - Divine Decree
 - **Level 2**: (1x per day) Issue one divine command:
@@ -76,51 +76,6 @@ As Jizz'rek's power flows into your beings, you feel yourselves beginning to cha
   - Same as previous, and:
   - "**I command your obedience**": (Bonus Action) - Target must immediately follow one simple command that does not cause them or their allies harm (no save)
   - "**I forbid your magic**": (Reaction) - you can choose to nullify the effects of a spell cast against you or one creature of your choice (does not nullify AOE effects against other targets)
-
-<!-- ## Possible individual powers
-- **Divine Haste**: You gain an additional action 1/day
-- **Divine Teleportation**: 2x per day as a bonus action or reaction, teleport up to your movement speed to a space you can see
-- **Divine Sneak Attack**: 2x per day when you hit an enemy with a sneak attack you can create a burst of divine light to deal the sneak attack damage to all other enemies within 10ft of the target -->
-
-<!-- 
-Upon receiving your first celestial blessing after liberating Athkatla, your divine power becomes influenced by the deity who grants you their favor. Different gods grant variations on these abilities that align with their divine domains. The core abilities remain similar, but their manifestations and secondary effects may vary. -->
-
-<!-- ### Rogue Thief: Herald of Divine Shadows
-
-### Cleric/Paladin/Sorcerer: Avatar of Divine Justice
-  - Your Channel Divinity and Divine Smite and affect all enemies in a 15-foot cone
-
-  - **Divine Domain**: Create a 60-foot zone of sanctity where evil creatures take 4d10 radiant damage when entering
-  - **Divine Avatar**: Until the end of your next turn (1/long rest), your spells cost no spell slots, your Divine Smites deal maximum damage, and you emanate an aura of healing (50 HP to all allies within 30 feet at the start of your turn)
-
-### Bard/Warlock: Voice of Celestial Harmony
-- **Level 2**: 
-  - 4 of your bardic inspiration dice per day are doubled when rolled
-- **Level 3**: 
-  - **Divine Domain**: Create a 60-foot harmonic field where allies gain advantage on all ability checks and saving throws
-  - **Divine Composition**: Once per long rest, perform a song that has one of the following effects (your choice):
-    - Mass heal allies within 60 feet for 10d10 hit points
-    - Force all enemies within 60 feet to make a Wisdom save (DC 20) or be stunned for 1d4 rounds
-    - Create a zone of truth, calm emotions, and sanctuary in a 60-foot radius for 10 minutes
-
-### Wild Magic Sorcerer: Conduit of Divine Chaos
-- **Level 2**: 
-  - When you roll on the Wild Magic table, roll twice and choose which effect occurs
-  - You can control your Wild Magic surges, choosing to activate them when you cast a spell (3/long rest)
-- **Level 3**: 
-  - Your metamagic options cost 1 fewer sorcery points (minimum 0) and you gain 8 additional sorcery points
-  - When you cast a spell of 1st level or higher, you can add a random beneficial magical effect to it (roll on a special Divine Wild Magic table)
-  - **Divine Domain**: Create a 60-foot chaos zone where enemy spells have a 25% chance to trigger wild magic effects
-  - **Divine Chaos Embodiment**: For 1 minute (1/long rest), your spells automatically trigger beneficial wild magic surges, cost no spell slots, and can be twinned for free
-
-### Champion Fighter: Celestial Weapon Master
-- **Level 2**: 
-  - Your weapon attacks score a critical hit on a roll of 18-20 and deal an additional 1d8 radiant damage
-  - You gain an additional action surge and a third attack with your Attack action
-- **Level 3**: 
-  - When you hit with a weapon attack, the target must make a Strength save (DC = 8 + your proficiency + your Strength modifier) or be knocked prone
-  - **Divine Domain**: Create a 60-foot battle aura where allies deal maximum damage with critical hits and gain +5 to attack rolls
-  - **Divine Combat Mastery**: For 1 minute (1/long rest), your attacks automatically hit, you have advantage on all saving throws, and enemies that hit you take radiant damage equal to your fighter level -->
 
 ## Divine Trials for Advancement
 
