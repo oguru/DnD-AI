@@ -6,6 +6,68 @@ As you approach Verbobonc, the sight that greets you is both familiar and transf
 
 The guards at the gate recognize you immediately—word of the chosen of the realm has spread far and wide. They wave you through with grateful nods and calls of "Welcome home, champions!"
 
+## Unexpected Reunions
+
+### Spotting Dart
+As you move through the crowded streets filled with refugees and rebuilding efforts, Okurak's keen eyes spot a familiar figure trying to blend into a group of displaced citizens near a relief station. **Dart**, the skinny, wheezy dwarf from his old crew, is hunched over and clearly attempting to remain inconspicuous.
+
+When he realizes he's been spotted, his shoulders slump in defeat rather than fear. The usual cowardly demeanor is replaced by something resembling shame and desperate hope.
+
+### Dart's Revelation
+**Dart:** *[coughing and wheezing]* "Okurak... I... I know you have every reason to kill me, but please, just listen for a moment. I was never working for Fazrahl by choice."
+
+**The Truth About Dart:**
+- When Fazrahl performed the city-wide ritual to steal Pelor's power, the magical domination that had controlled Dart for years suddenly broke
+- Fazrahl's transformation into a new divine entity severed his mental connections to his old pawns
+- The ritual failed to affect Dart because he was neither strong enough nor innocent enough to be a viable target
+- With the domination lifted, Dart was flooded with horrific memories of everything he'd been forced to do while under Fazrahl's control
+- He fled Athkatla in terror and sought refuge here among the other displaced people
+
+**Dart's Proof:** He still carries the **Celestine Dawn communication crystal** that Fazrahl used to give him orders, but it now shows only static and dead energy.
+
+### Elderon's Appearance
+As Dart finishes his explanation, a familiar voice calls out from behind a cart of supplies: "Ah, there you are. Right on schedule."
+
+**Elderon Perfleet** emerges, looking older and more weathered than when you last saw him. His pocket watch ticks with an odd rhythm, and his eyes hold the weight of terrible knowledge.
+
+**Elderon:** "I knew you'd come here—to save your friend. It's what you do. What you've always done across every timeline I've witnessed."
+
+### Elderon's True Story
+**Elderon's Revelation:**
+- He's not from the past—he's from the future, the year 1880, where Fazrahl won and plunged the world into eternal darkness
+- This is Timeline 848. He's the 848th version of himself to attempt to change history
+- Each Elderon makes ONE small change, then uses a sleeping draught to skip forward and see the results
+- When they wake, they find the new timeline's Elderon and share what they've learned
+- None of the previous 847 attempts succeeded
+
+**Previous Timeline Examples:**
+- "Timeline 23: I stopped to tie my shoelace in front of a messenger, causing him to trip. He was delayed getting to the tavern, ended up sitting next to an off-duty city guard who was in a foul mood. They got into a fight, which led to the messenger being arrested. This caused him to miss delivering crucial intelligence about a Celestine Dawn safe house, allowing them to escape a raid and regroup. Fazrahl still won, but it took three extra days."
+
+- "Timeline 156: I deliberately dropped a coin in front of a street vendor, causing a small crowd to gather looking for it. This delayed a young paladin by exactly four minutes, which meant she arrived at the temple just as the evening bells were ringing instead of before. The sound reminded her of her sister's wedding, causing her to write a letter home instead of staying late to study. Because she wasn't there, she didn't discover the hidden passage the cultists were using. Fazrahl's ritual succeeded two hours earlier."
+
+- "Timeline 334: I convinced a baker to try a new recipe by claiming it was popular in my homeland. The baker made honey cakes instead of regular bread that day. A hungry street child stole one of these instead of a regular loaf, and the honey gave him enough energy to run further when fleeing. He witnessed a secret meeting he otherwise would have missed and reported it to the wrong authorities—who were already corrupted. This led to the good authorities being purged earlier. Fazrahl won by an even larger margin."
+
+- "Timeline 567: I helped an old woman carry her groceries, which put her in such a good mood she gave extra alms to a beggar. That beggar was actually a disguised Celestine Dawn agent gathering information. The extra coins allowed him to bribe a dock worker for ship schedules. This intelligence led to them intercepting the wrong ship—a decoy—while Fazrahl's real reinforcements arrived unopposed."
+
+**What He Won't Reveal:**
+"I can tell you what the others tried, but I cannot tell you what I changed in this timeline. If I do, it might undo the very thing that's made you different from all the others. All I can say is... you've shown something the previous 847 versions never did."
+
+### The Alliance
+Both Dart and Elderon want to help, but in different ways:
+
+**Dart's Offer:**
+- He knows Athkatla's layout and remaining Celestine Dawn operations from his dominated memories
+- He wants to help rebuild and root out remaining cultists as penance
+- "I can't undo what I was forced to do, but maybe I can help prevent it from happening to others."
+
+**Elderon's Knowledge:**
+- His multiversal pocket watch shows him echoes of failed timelines
+- He can provide warnings about specific dangers they'll face
+- "I've seen how this story ends 847 different ways. I pray this time will be different."
+
+### The Choice
+The party must decide whether to trust these unlikely allies, knowing their complex histories and the weight of their revelations.
+
 ## The Changed City
 
 ### The Bridgewalk District
@@ -115,7 +177,7 @@ As the festivities continue, grateful townspeople bring out their most prized ma
 
 **Dragon's Firewater** - Burns going down, burns coming up! Make a Constitution saving throw; success heals you and lets you breathe fire, failure burns and knocks you down!
 
-**Raven's Reward** - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
+**Raven's Reward** (made by Ratan) - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
 
 **Dragon's Piss** - It's honest work! Watery, tasteless ale that somehow still gets you drunk!
 
@@ -131,8 +193,8 @@ Roll d6:
 2. Cough up a Potion of Healing (Superior)
 3. Cough up a Rare consumable item
 4. Cough up a Very Rare consumable item
-5. Cough up a Legendary consumable item (<L9)
-6. Cough up a random Legendary consumable item (Roll d8 and choose spell/potion)
+5. Cough up a random Legendary consumable item (<L9 Roll d8 and choose spell/potion)
+6. Cough up a Legendary consumable item (roll level, then choose from a list of options)
 
 Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 

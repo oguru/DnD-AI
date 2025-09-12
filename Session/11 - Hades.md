@@ -37,33 +37,70 @@ Three massive wraiths composed of swirling gray mist block the path. These are t
 - Okurak's connection to Valkur (god of courage) gives him advantage against their effects
 - When defeated, they whisper: "He was once like you... pure of heart... but the gray took him too..."
 
-### Encounter 2: The Memory Thieves
-A pack of 5 strange, dog-like creatures with mirrors for faces approach. These creatures steal and display painful memories.
+### Encounter 2: The Void Sphere (Stinston Stallone)
 
-**Memory Thief Stats:**
-- **AC:** 15 **HP:** 65 **Speed:** 40 ft.
-- **STR:** 12 **DEX:** 18 **CON:** 14 **INT:** 10 **WIS:** 16 **CHA:** 14
-- **Skills:** Insight +7, Perception +7
-- **Damage Resistances:** Psychic
-- **Senses:** Blindsight 60 ft., Passive Perception 17
-- **Challenge Rating:** 6
+As the party trudges through the gray wasteland, they notice a shimmering distortion ahead—a perfect sphere of absolute darkness hovering three feet above the ground. From within comes a familiar, panicked voice shouting magical incantations.
 
-**Actions:**
-- **Mirror Bite:** Melee weapon attack +7 to hit, 5 ft. reach. Hit: 1d8 + 4 piercing damage plus 1d6 psychic damage.
-- **Embarrassing Revelation:** Target within 30 ft. must make DC 15 Wisdom save or be incapacitated for 1 round as they relive an embarrassing memory. On a success, they can choose to embrace the memory and gain advantage on their next attack.
+"I am Stinston Stallone, Architect of Portals Unseen, Astral Wayfarer, Master of Interdimensional Arc—" The voice suddenly stops mid-boast. "Wait... is that... Okurak, Pamykos, Pyre, and some new friends? Oh thank the gods, it's you! Please, I'm rather trapped at the moment! I created a spell to protect me from wild magic as i'm always misplacing my vortex ring, but i forgot to say one of the key words!"
 
-**Weird/Funny Element:**
-- The mirrors show embarrassing moments from each character's past
-- Pamykos sees himself dramatically failing to impress someone with his keytar
-- Khada sees himself getting tangled in his own ropes on a ship
-- Pyre sees a wild magic surge that turned one of his old mentor's beard bright pink for a week
-- Kalmia sees herself missing an "impossible to miss" shot in front of a crowd
-- Okurak sees himself seasick on his first voyage
+**The Scene — Void Sphere Prison:**
+- The sphere is about 10 feet in diameter, completely opaque from the outside but transparent from within
+- Around the sphere, similar to what you remember from your previous encounter are a collection of strange transmuted objects including:
+ - A turtle shell in the shape of a trombone
+ - A bag with a large moustache and what look like eyes that keep winking at you as you speak
+ - A 12ft toenail
+ - A bubbling green candle with nostrils and wicks that look like large nose hair
+ - A chair with 16 legs and a large hole where the seat should be
+- Inside the sphere, Stinston (still in parrot form) is wrapped by writhing shadow tendrils that belong to a **Void Wraith**—a creature of pure despair that feeds on magical energy
+- The wraith cannot be attacked directly while the sphere exists, and Stinston cannot escape
 
-**Combat Notes:**
-- Players can overcome the embarrassment by embracing/laughing at their failures
-- This actually restores some color to their equipment temporarily
+**Stinston's Explanation:**
+"I was continuing my experiments and investigations into why the barriers between dimensions are weakening when I accidentally triggered a teeny tiny rupture causing this void wraith to emerged. It trapped me in here and has been slowly draining my magical essence. The sphere protects it from outside interference, but there should be a way to collapse it!"
 
+**Finding the Dispel Focus:**
+- Investigation DC 14 (group can assist) to find Stinston's **Void Anchor**—a crystalline focus among the transmuted debris that maintains the sphere
+- The Void Anchor appears as a dark crystal that pulses with the same rhythm as the sphere
+- It's currently embedded in what used to be a lectern (now shaped like a pretzel)
+
+**Collapsing the Void Sphere (Skill Challenge):**
+- The party must work together to overload the Void Anchor and collapse the sphere
+- Primary check: Arcana DC 22 to understand the void magic patterns and safely overload the anchor
+- Supporting checks (up to 3 can assist):
+  - Religion DC 18: Channel divine energy to weaken the wraith's hold
+  - Investigation DC 16: Find the optimal discharge points on the anchor
+  - Athletics DC 15: Physically manipulate the twisted lectern to expose the crystal
+- Each failed attempt triggers a **Void Lash**: random party member makes Con save DC 16 or be transmorphed for 1 minute into one of the following (d8):
+  1) Pair of rubber gloves
+  2) Smurf  
+  3) Three‑headed duck
+  4) Gremlin
+  5) Rose bush
+  6) Glowing pink slime
+  7) Luminous moth
+  8) Wind‑up toy soldier
+  While transformed, the creature is Tiny or Small (DM choice), can move 10–20 ft, can't cast spells, and has disadvantage on Str checks; taking 20+ damage in a round grants an extra save at end of that turn.
+
+**Success:**
+- The Void Anchor overloads with crackling energy, and the sphere suddenly implodes with a soft *pop*
+- Stinston tumbles free as the wraith dissolves with an anguished wail, its tendrils releasing him
+- The pretzel-lectern reverts to its normal shape, and several other transmuted objects return to their original forms
+- "Ah, much better! Thank you, my friends. I learned quite a bit about void magic before that thing trapped me—knowledge that might prove useful against Fazrahl."
+
+**Failure (3+ failed attempts):**
+- The sphere destabilizes but doesn't collapse; instead it begins to expand slowly
+- All creatures within 30 ft must make Dex save DC 17 or be caught in the expanding void field, taking 2d8 necrotic damage
+- The challenge can still be completed, but all future saves against transmutation are at disadvantage until the next long rest
+
+**Rewards/Boons:**
+- **Void Anchor Crystal** (rare wondrous): A dark crystal that pulses with contained void energy. Once per long rest, you can activate it to create a 10-foot radius sphere of magical silence for 1 minute. Spells cannot be cast into, out of, or within the sphere.
+- **Stinston's Void Research:** Knowledge about Fazrahl's power source. The party gains insight that Fazrahl draws strength from despair and hopelessness—attacks made with genuine hope or joy deal an additional 1d6 radiant damage against him.
+
+**Stinston's Guidance:**
+- "The void magic taught me much about this realm. The creatures here feed on despair, but they're weakened by genuine connection between allies. Stay close, trust each other, and remember what you're fighting for."
+- He offers to cast a protective ward on the party: advantage on the next saving throw each character makes against fear or despair effects.
+
+**Transition:**
+Stinston flutters up to perch on the restored lectern, adjusting his tiny spectacles. "I'll continue my research here—this void tear has given me insights into Fazrahl's magic. Go, my friends. That tower ahead pulses with the same dark energy I was studying. Use what you've learned here."
 ### Encounter 3: The Gloom Sentinels
 Four massive stone guardians animate as the party approaches the tower. Their eyes glow with the only bright color visible - a sickly green.
 
@@ -94,14 +131,19 @@ Four massive stone guardians animate as the party approaches the tower. Their ey
 
 ## The Tower Approach
 
+### The Obsidian Spire
+As the party approaches Fazrahl's tower, the massive obsidian structure looms before them like a black needle piercing the gray sky. The very air around it seems to pulse with malevolent energy, and whispers of despair drift on the wind.
+
 ### Fazrahl's Taunts
-As they near the tower, Fazrahl's voice echoes across the wastes:
-"Welcome to my new realm, it seems you are more resilient than i anticipated. No matter though. Here, hope dies, color fades, and even your precious divine sparks will be snuffed out. You came so far, sacrificed so much... only to fail at the final moment. How... poetic."
+As they draw near, Fazrahl's voice echoes across the wastes, seeming to come from the tower itself:
+"Welcome to my new realm. I sense you are more resilient than I anticipated, but here, hope dies, color fades, and even your precious divine sparks will be snuffed out. You came so far, sacrificed so much... only to fail at the final moment. How... poetic."
 
 ### Tower Defenses
-- Swirling barrier of shadow vines around the base that must be fought through
-- The vines grab and constrict, dealing necrotic damage
-- Successfully burning/cutting through reveals the tower entrance
+- A swirling barrier of shadow vines wraps around the base of the tower
+- The vines grab and constrict, dealing 1d8 necrotic damage per round to grappled creatures
+- **Shadow Vine Barrier:** AC 15, HP 120, vulnerable to radiant damage
+- Successfully destroying the barrier reveals the tower entrance
+- The vines regenerate 10 HP per round unless hit with radiant damage that round
 
 ## The Final Battle Chamber
 
@@ -185,6 +227,7 @@ When reduced to 180 HP (1/3 health), begins transformation
 
 **Fazrahl**: "You think you've won? I am beyond death! I am ETERNAL!"
 
+
 ---
 
 ## Phase 3: The Swarm Lord (Rounds 13-20)
@@ -231,6 +274,7 @@ When reduced to 180 HP (1/3 health), begins transformation
 When all 6 eyes are destroyed, swarm form collapses
 
 **Fazrahl**: "You cannot stop what I have already set in motion! My corruption will consume everything, even if I must drag you into the abyss with me!"
+
 
 ---
 
@@ -346,16 +390,24 @@ Each party member must use their action to embrace a divine aspect:
 As he dissolves, the former paladin's voice becomes clear one last time:
 "I... I remember the light... What have I done? Pelor... forgive me..."
 
+### The Survivors
+
+**Stinston Stallone:** The parrot wizard appears one last time, no longer compulsively repeating (his transformation is slowly reversing): "The planar barriers are stabilizing! STABILIZING! *stabil--* Oh, thank goodness that's stopping. The convergence points are sealing themselves now that Fazrahl's influence is gone."
+
 ### Restoring the Dawn
 - Pelor's stolen essence is freed and begins to return to its rightful place
 - The Gray Wastes start to regain some color
 - Dawn begins to break across the material plane for the first time in months
+- The Charm of Echoing Hope glows brightly as despair lifts from the realm
 
 ### The Heroes' Choice
 The party is offered a choice by the returning divine powers:
 1. Ascend to full godhood and join the celestial pantheon
 2. Return to the material plane as demigods to help rebuild
 3. Sacrifice their divine power to ensure the material plane's protection
+
+### Epilogue Notes
+- **The Wizard's Research:** Stinston Stallone's studies of planar convergence help prevent future catastrophic magical accidents
 
 ---
 
