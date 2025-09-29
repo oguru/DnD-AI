@@ -174,7 +174,6 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 ## Rewards and Aftermath
 
 ### From Grateful Waterdeep
-- **Scroll of Plane Shift** to return to the celestial realm
 - **Potions of Supreme Healing** (3)
 - Information about a weakness in Fazrahl's divine form
 - The gratitude of the Lords of Waterdeep
@@ -188,24 +187,26 @@ With that, Moryx lets out a deafening roar that shakes the very foundations of t
 - **Contained Demonic Essence**: Can be used to track Fazrahl through planar boundaries
 - Pamykos feels a final connection sever, granting permanent resistance to fear effects
 
-## The Road Ahead
+## Royal Recognition
 
-### Next Steps
-- Return to the celestial realm for final guidance
-- Receive information on Fazrahl's exact location and vulnerabilities
-- Make final preparations for the confrontation
-- Learn of a secret way to enter Fazrahl's divine domain
+### The King's Arrival
+As the dust settles and the last echoes of the collapsing rift fade, a procession of royal guards approaches the plaza. At their head rides King Eldenar Yagomir himself, his ornate armor gleaming despite the chaos that has consumed his city. The King of Waterdeep dismounts and strides purposefully toward the heroes, his expression a mixture of awe and profound gratitude.
 
-### Urgency
-- With each passing hour, Fazrahl's power grows more unstable
-- The celestial deity warns that reality itself is at risk
-- The final confrontation must happen soon, before Fazrahl's transformation is complete
+### The King's Address
+He surveys the devastation—the shattered plaza, the scorched cobblestones, the lingering traces of otherworldly energy—before his gaze settles on the champions who have saved his city.
 
-## DM Notes
-- This encounter is designed for 18th-level characters with Divine Level 2 powers and Tyr's blessing
-- The group system allows for streamlined combat while still presenting a challenge
-- Each wave should take approximately 2-3 rounds of combat
-- Moryx should be a significant challenge even for divinely empowered characters
-- Consider the party's resources when determining if they need a short rest between waves
-- The difficulty ratings are calibrated based on the previous encounters in the God Power Battle Notes
+*"Heroes of Waterdeep, chosen of the realm"* he begins, his voice carrying across the plaza with regal authority. *"What you have accomplished here today defies mortal comprehension. My arcanists say you have not merely saved a city — you have preserved the very fabric of reality itself."*
 
+He gestures to the sealed breach, where only faint wisps of dissipating energy remain. *"When historians record this day, they will speak of the moment when gods walked among mortals, when divine champions stood against the tide of chaos and emerged victorious."*
+
+### The Royal Promise
+The King's expression grows solemn as he continues. *"Your divine transformation has not gone unnoticed. The entire realm has felt the shift in the celestial order. Word has already spread to the furthest corners of Faerûn of your ascension."*
+
+*"I make this promise before my court, before my people, and before the gods themselves: Should you succeed in your final trial — should you complete whatever divine purpose has chosen you — return to Waterdeep. Return, and you shall be officially anointed as the Chosen of the Realm, protectors not just of this city, but of all the lands that look to us for guidance."*
+
+### The Eternal Honor
+King Yagomir's voice rises with conviction. *"More than titles, more than lands, the treasury of Waterdeep shall be at your disposal for your divine purposes, and I shall commission the greatest artisans in all the realms to craft statues in your honor. They shall stand in the heart of Waterdeep, eternal monuments to your courage and sacrifice. Future generations will look upon them and remember the day that mortals became legends, the day that legends became divine."*
+
+He bows deeply—a king bowing to the divine champions. *"Whatever destiny awaits you, know that Waterdeep stands ready to honor your return. The realm itself shall be your witness, and history your judge. Now, you must excuse me, there is work to be done and I must ready myself to quell the fear in the hearts of my people."*
+
+With that, the King remounts his steed and his guards lead him away.

@@ -99,7 +99,7 @@ The party must decide whether to trust these unlikely allies, knowing their comp
 ### Ratan
 - "I have done countless hours of study, and have discovered that the tincture must be administered at sunset, when the veil between realms is thinnest, which is a problem now the sun never rises. I know not how we can bring him back under our current circumstances".
 - If the group finds a solution:
-- "Old Bum must be positioned where he can see the sky, and whoever administers it must speak his true name" (Turnips McGee)
+- "Old Bum must be positioned where he can see the sky, and whoever administers it must speak his true name. I know not his first name, but I traced his heritage back to a proud clan of turnip farmers of the clan McGee. Other than this the trail ran cold." (Turnips McGee)
 
 ### The Ritual
 - Arabella helps move Old Bum to the temple's rooftop garden
@@ -134,7 +134,7 @@ The party must decide whether to trust these unlikely allies, knowing their comp
 - Music breaks out and people invite you to feast and play music with them
 
 ### The Great Tavern Brawl
-- As the evening progresses and ale flows freely, Jambaroni (still bitter about his arena defeat) calls out from across the crowded square
+- As the evening progresses and ale flows freely, Jambaroni (still bitter about his arena defeat who had been sitting in the shadows) calls out from across the crowded square
 - "Anyone fancy a proper celebration brawl? No weapons, no magic, just good old-fashioned fun!"
 - The crowd cheers, and soon a circle forms in the town square
 
@@ -147,7 +147,7 @@ The party must decide whether to trust these unlikely allies, knowing their comp
 - **Puzz and Guzz** work as a team until they accidentally punch each other
 
 **Sample Brawl Actions:**
-- Jambaroni charges Pamykos wielding his wet fish, shouting "This is for the keytar humiliation!" but slips on spilled ale
+- Jambaroni charges Pamykos wielding his wet fish, shouting "This is for the arena humiliation!" but slips on spilled ale
 - Nip crawls under tables and between legs, popping up to slap balls at crucial moments
 - Skug communicates entirely through grunts but somehow coordinates surprisingly effective team attacks
 - Gronk attempts to intimidate people but ends up in a tickle fight with Nip
@@ -177,13 +177,13 @@ As the festivities continue, grateful townspeople bring out their most prized ma
 
 **Dragon's Firewater** - Burns going down, burns coming up! Make a Constitution saving throw; success heals you and lets you breathe fire, failure burns and knocks you down!
 
-**Raven's Reward** (made by Ratan) - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
-
 **Dragon's Piss** - It's honest work! Watery, tasteless ale that somehow still gets you drunk!
 
-**Chaos Cider** - Changes color like a chameleon having a fit! Grants you resistance to random damage for an hour!
+**Chaos Cider** - Changes color like a chameleon having a fit! Grants you resistance to random damage for 30 minutes! Const save or causes you to projectile vomit every 30 seconds for 30 minutes
 
-**Memory Mead** - Golden honey wine that sparkles with tiny lights; helps you remember everything perfectly or learn new skills for a day!"
+Ratan steps out and says "i've been brewing something very special with the rarest ingredients, and i have enough for each one of you to partake":
+
+**Raven's Reward** (made by Ratan) - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
 
 **Raven's Reward Effects:**
 [Consumables by Rarity](https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qjw0E/edit?gid=1172490832#gid=1172490832)
@@ -200,19 +200,14 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 
 **Nip's Notorious Turnip Stew** - Made by our newly awakened friend with his divine cooking abilities; tastes like hope and heals both body and spirit!
 
-**Peculiarity Pies** - Each one's got a different magical surprise inside; might make you big, might make you small, might let you chat with the local cats!
-
 **Chauntea's Blessed Bread** - Warm bread that never goes stale; eating a slice grants the benefits of a short rest without actually resting! *One per person per day!*
 
 **Probability Pudding** - A dessert that exists in multiple states simultaneously; gives you an edge on your next task, but makes the one after trickier!
 
 **Skug's Strength Stew** - The dwarf insists on serving this while grunting approvingly; grants mighty strength but you'll only be able to grunt for an hour!
 
-**Ratan's Riddle Rolls** - Sweet pastries that whisper riddles when bitten; answer correctly for inspiration, answer wrong and learn something unexpected about our fair city!"
+**Peculiarity Pies** - Each one's got a different magical surprise inside; might make you big, might make you small, might let you chat with the local cats!:
 
-*All food and drink provided free of charge to the heroes of Verbobonc!*
-
-**Peculiarity Pies Effects (Roll d6):**
 1. **Enlarge** for 10 minutes - "I feel... significant!"
 2. **Reduce** for 10 minutes - "Everything looks so big now!"
 3. **Speak with Animals** for 1 hour - "The local cats have OPINIONS about everything"
@@ -220,9 +215,8 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 5. **Detect Magic** for 1 hour - "Everything's glowing... is that normal?"
 6. **Enhanced Senses** (+2 to Perception) for 2 hours - "I can hear Skug thinking in grunts"
 
-**Ratan's Riddle Rolls:**
 
-If incorrect riddle answer, wild magic surge
+**Ratan's Riddle Rolls** - Sweet pastries that whisper riddles when bitten; answer correctly for inspiration, answer wrong and learn something unexpected about our fair city!". If incorrect riddle answer, wild magic surge:
 
 **Riddle 1:** *"I have streets but no traffic, I have buildings but no people live in them, I have water but no fish swim in it. What am I?"*
 - **Answer:** A map
@@ -250,8 +244,6 @@ If incorrect riddle answer, wild magic surge
 
 ### Gifts and Gratitude
 - The townspeople shower you with gifts: preserved foods, crafted items, family heirlooms
-- Arabella presents you with a Blessing of Protection that will last until your next great trial
-- The blacksmiths and enchanters offer to repair and enhance any equipment, free of charge
 
 ## Nip's New Purpose
 
@@ -269,6 +261,34 @@ If incorrect riddle answer, wild magic surge
 - Before you leave, Nip gives you each a small turnip seed
 - "Plant these when you face your darkest hour. Sometimes the simplest things carry the greatest magic"
 - The seeds have a faint magical aura—they will grow instantly when planted with genuine hope
+
+## Pyre's Family Quest (Optional)
+
+### The Nobleman's Grave
+If Pyre chooses to pursue his family history, his investigation leads him to Baldur's Gate and the Alminston family crypt in the Upper City cemetery. There, he finds the weathered gravestone of **Penford Alminston**, dead these 29 years. The inscription reads: *"Beloved father and devoted to Embria of the Endless Flame - May they reunite in whatever realm love transcends death."*
+
+### The Fire Genasi's Tale
+At the graveyard, Pyre encounters an elderly fire genasi tending to nearby graves. When she sees Pyre's necklace, her eyes widen with recognition.
+
+*"That name... I knew your father, child. Penford was a good man who loved beyond the bounds of his world. Your mother, Embria, was no mere djinni - she was nobility of the Efreet courts. Their love affair scandalized both realms."*
+
+*"When you were born, her sect demanded her return. She refused, so they sent an Efreet lord to drag her back in chains. Your father died trying to protect her. She left you that necklace - your true name in the Ignan script - hoping you'd one day be strong enough to find her."*
+
+### The Rescue (Quick Resolution)
+If Pyre wishes to pursue this immediately:
+
+**The Portal:** Ratan can open a brief gateway to the Plane of Fire using his enhanced magical abilities gained from the recent divine events.
+
+**The Confrontation:** Pyre finds his mother imprisoned by **Efreet Lord Qadesh** in the Brass City. The Efreet, impressed by Pyre's divine power and noble bearing, offers a simple challenge: *"Prove your worth in single combat, and I will release her. Your divine fire burns differently than ours - let us see if it burns brighter."*
+
+**The Victory:** After a brief but intense battle (which Pyre, empowered by divine energy, can handle), Qadesh yields with grudging respect. *"You have grown beyond what either realm expected. Take your mother - you have earned her freedom through strength, not birthright."*
+
+### The Reunion
+**Embria** appears as a being of living flame and starlight, her joy at seeing her son overwhelming. *"My little spark... you've become a bonfire that could light the heavens themselves. Your father would be so proud."*
+
+**Her Gift:** She bestows upon Pyre his true elemental name and a blessing of the Plane of Fire: Chaotic Djinni Fury.
+
+**The Choice:** She offers to stay in the Material Plane now that she's free, or Pyre can visit her in the Plane of Fire after his divine mission is complete. Either way, the family is reunited.
 
 ## Departure Preparations
 
@@ -290,7 +310,6 @@ If incorrect riddle answer, wild magic surge
 ---
 
 *The party gains:*
-- **Blessing of Protection**: +1 AC until your next major battle
 - **Nip's Turnip Seeds**: Can be planted in moments of despair to restore hope and provide minor healing
 - **Full resupply** of all mundane equipment
 - **Community's Blessing**: Advantage on the next death saving throw made by any party member

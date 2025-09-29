@@ -18,24 +18,27 @@ The party emerges from the planar pathway into the Gray Wastes, immediately stru
 ## The Journey to Fazrahl's Tower
 
 ### Encounter 1: The Despair Wraiths
-Three massive wraiths composed of swirling gray mist block the path. These are the collected despair of mortals who have given up hope.
+As the party trudges through the gray wasteland, three massive wraiths composed of swirling gray mist rise from the ashen ground to block their path. These are the collected despair of mortals who have given up hope, drawn to the party's divine light like moths to flame.
 
-**Despair Wraith Stats:**
-- **AC:** 17 **HP:** 180 **Speed:** 30 ft., fly 60 ft. (hover)
-- **STR:** 8 **DEX:** 16 **CON:** 16 **INT:** 12 **WIS:** 14 **CHA:** 20
-- **Damage Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-- **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** Charmed, Exhaustion, Poisoned
-- **Senses:** Darkvision 120 ft.
-- **Challenge Rating:** 12
+**Archfiend Despair Lords (3 Lords):**
+- **AC:** 24 **HP:** 1065 **Speed:** 60 ft., fly 120 ft. (hover)
+- **STR:** 16 **DEX:** 24 **CON:** 26 **INT:** 20 **WIS:** 22 **CHA:** 30
+- **Saving Throws:** Dex +19, Wis +18, Cha +22
+- **Damage Resistances:** All damage except Radiant and Force
+- **Damage Immunities:** Necrotic, Poison, Psychic
+- **Condition Immunities:** Charmed, Exhaustion, Poisoned, Prone, Stunned
+- **Senses:** Darkvision 120 ft., Truesight 120 ft., Detect Thoughts at will
+- **Challenge Rating:** 22
 
 **Actions:**
-- **Life Drain:** Melee spell attack +11 to hit, 5 ft. reach. Hit: 3d8 + 5 necrotic damage. Target must make DC 16 Charisma save or lose one inspiration die/bardic inspiration/similar resource.
-- **Despair Wave (Recharge 5-6):** 30-foot cone. All creatures must make DC 17 Wisdom save or be frightened for 1 minute and have disadvantage on attack rolls.
+- **Multiattack:** Four attacks: three soul rend
+- **Soul Rend:** Ranged spell attack +22 to hit, 150 ft. range. Hit: 6d10 + 10 necrotic damage + 4d6 psychic damage. Target makes DC 25 Constitution save or max HP reduced by total damage dealt.
+- **Despair Nova (Recharge 3-6):** 60-foot radius burst. DC 25 Wisdom save or take 8d8 psychic damage, be frightened and stunned for 2 rounds, and lose two uses of highest-level abilities.
+- **Divine Drain:** Target within 120 ft makes DC 24 Charisma save or loses one legendary resistance, legendary action, or divine power use (target's choice).
+
 
 **Combat Notes:**
-- Okurak's connection to Valkur (god of courage) gives him advantage against their effects
-- When defeated, they whisper: "He was once like you... pure of heart... but the gray took him too..."
+- When defeated, they whisper: "He was once like you... pure of heart... but the gray took him too... beware the tower's call..."
 
 ### Encounter 2: The Void Sphere (Stinston Stallone)
 
@@ -49,36 +52,34 @@ As the party trudges through the gray wasteland, they notice a shimmering distor
  - A turtle shell in the shape of a trombone
  - A bag with a large moustache and what look like eyes that keep winking at you as you speak
  - A 12ft toenail
- - A bubbling green candle with nostrils and wicks that look like large nose hair
- - A chair with 16 legs and a large hole where the seat should be
-- Inside the sphere, Stinston (still in parrot form) is wrapped by writhing shadow tendrils that belong to a **Void Wraith**—a creature of pure despair that feeds on magical energy
+ - A bubbling green candle with nostrils and wick that look like a tangle of large nostril hairs
+ - A chair with 16 fingers for legs and a large hole where the seat should be
+- Inside the sphere, Stinston (still in parrot form) is wrapped by writhing shadow tendrils that belong to a **Greater Void Wraith**—an ancient creature of pure despair that feeds on divine energy
 - The wraith cannot be attacked directly while the sphere exists, and Stinston cannot escape
 
 **Stinston's Explanation:**
 "I was continuing my experiments and investigations into why the barriers between dimensions are weakening when I accidentally triggered a teeny tiny rupture causing this void wraith to emerged. It trapped me in here and has been slowly draining my magical essence. The sphere protects it from outside interference, but there should be a way to collapse it!"
 
 **Finding the Dispel Focus:**
-- Investigation DC 14 (group can assist) to find Stinston's **Void Anchor**—a crystalline focus among the transmuted debris that maintains the sphere
+- Investigation DC 18 (group can assist) to find Stinston's **Void Anchor**—a crystalline focus among the transmuted debris that maintains the sphere
 - The Void Anchor appears as a dark crystal that pulses with the same rhythm as the sphere
 - It's currently embedded in what used to be a lectern (now shaped like a pretzel)
 
 **Collapsing the Void Sphere (Skill Challenge):**
 - The party must work together to overload the Void Anchor and collapse the sphere
-- Primary check: Arcana DC 22 to understand the void magic patterns and safely overload the anchor
-- Supporting checks (up to 3 can assist):
-  - Religion DC 18: Channel divine energy to weaken the wraith's hold
-  - Investigation DC 16: Find the optimal discharge points on the anchor
-  - Athletics DC 15: Physically manipulate the twisted lectern to expose the crystal
-- Each failed attempt triggers a **Void Lash**: random party member makes Con save DC 16 or be transmorphed for 1 minute into one of the following (d8):
-  1) Pair of rubber gloves
-  2) Smurf  
-  3) Three‑headed duck
-  4) Gremlin
-  5) Rose bush
-  6) Glowing pink slime
-  7) Luminous moth
-  8) Wind‑up toy soldier
-  While transformed, the creature is Tiny or Small (DM choice), can move 10–20 ft, can't cast spells, and has disadvantage on Str checks; taking 20+ damage in a round grants an extra save at end of that turn.
+- Primary check: Arcana DC 25 to understand the void magic patterns and safely overload the anchor
+- Supporting checks (up to 4 can assist):
+  - Religion DC 22: Channel divine energy to weaken the wraith's hold
+  - Investigation DC 20: Find the optimal discharge points on the anchor
+  - Athletics DC 18: Physically manipulate the twisted lectern to expose the crystal
+  - Insight DC 20: Understand the wraith's connection to predict its reactions
+- Each failed attempt triggers a **Greater Void Lash**: random party member makes Con save DC 20 or suffer one effect (d10):
+  1-2) Transmorphed for 2 minutes into harmless creature (as before)
+  3-4) Drained of spell slot (highest available)
+  5-6) Take 3d8 necrotic damage and lose 1 divine ability use
+  7-8) Stunned until end of next turn as reality fractures around them
+  9-10) Temporarily banished to void space for 1 round (can't act but can observe)
+  Taking 30+ damage in a round grants an extra save at end of that turn.
 
 **Success:**
 - The Void Anchor overloads with crackling energy, and the sphere suddenly implodes with a soft *pop*
@@ -86,48 +87,61 @@ As the party trudges through the gray wasteland, they notice a shimmering distor
 - The pretzel-lectern reverts to its normal shape, and several other transmuted objects return to their original forms
 - "Ah, much better! Thank you, my friends. I learned quite a bit about void magic before that thing trapped me—knowledge that might prove useful against Fazrahl."
 
-**Failure (3+ failed attempts):**
-- The sphere destabilizes but doesn't collapse; instead it begins to expand slowly
-- All creatures within 30 ft must make Dex save DC 17 or be caught in the expanding void field, taking 2d8 necrotic damage
-- The challenge can still be completed, but all future saves against transmutation are at disadvantage until the next long rest
+**Failure (4+ failed attempts):**
+- The sphere destabilizes but doesn't collapse; instead it begins to expand rapidly
+- All creatures within 50 ft must make Dex save DC 22 or be caught in the expanding void field, taking 4d8 necrotic damage and be stunned for 1 round
+- The challenge can still be completed, but the Greater Void Wraith breaks free and must be fought alongside completing the ritual
 
 **Rewards/Boons:**
 - **Void Anchor Crystal** (rare wondrous): A dark crystal that pulses with contained void energy. Once per long rest, you can activate it to create a 10-foot radius sphere of magical silence for 1 minute. Spells cannot be cast into, out of, or within the sphere.
 - **Stinston's Void Research:** Knowledge about Fazrahl's power source. The party gains insight that Fazrahl draws strength from despair and hopelessness—attacks made with genuine hope or joy deal an additional 1d6 radiant damage against him.
+- **Sentinel Bypass Token:** Stinston gives the party a crystalline key that resonates with void energy. "This should let you past those stone guardians—they're powered by the same void magic I was studying. They'll recognize this as a master key and stand aside."
+- **Sanctuary Pocket:** Stinston creates a stable dimensional pocket nearby. "This void tear taught me to create stable spaces. You can rest here safely—time moves differently, and Fazrahl cannot detect or reach you within." (Functions as a safe long rest location immune to scrying or attack)
 
 **Stinston's Guidance:**
 - "The void magic taught me much about this realm. The creatures here feed on despair, but they're weakened by genuine connection between allies. Stay close, trust each other, and remember what you're fighting for."
 - He offers to cast a protective ward on the party: advantage on the next saving throw each character makes against fear or despair effects.
 
 **Transition:**
-Stinston flutters up to perch on the restored lectern, adjusting his tiny spectacles. "I'll continue my research here—this void tear has given me insights into Fazrahl's magic. Go, my friends. That tower ahead pulses with the same dark energy I was studying. Use what you've learned here."
-### Encounter 3: The Gloom Sentinels
+Stinston flutters up to perch on the restored lectern, adjusting his tiny spectacles. "I'll continue my research here—this void tear has given me great insights into void magic. Go, my friends. That tower ahead pulses with the same dark energy I was studying. And take this—" He hands over the crystalline key. "The stone guardians should let you pass. No need for unnecessary battles when the real fight awaits within."
+
+### Encounter 3: The Gloom Sentinels (Optional Combat)
 Four massive stone guardians animate as the party approaches the tower. Their eyes glow with the only bright color visible - a sickly green.
 
-**Gloom Sentinel Stats:**
-- **AC:** 18 **HP:** 250 **Speed:** 20 ft., burrow 30 ft.
-- **STR:** 22 **DEX:** 8 **CON:** 20 **INT:** 6 **WIS:** 12 **CHA:** 8
-- **Damage Resistances:** Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
-- **Damage Immunities:** Poison, Psychic
-- **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned
-- **Senses:** Darkvision 120 ft., Tremorsense 60 ft.
-- **Challenge Rating:** 13
+**If the party has Stinston's Sentinel Bypass Token:**
+The guardians' eyes flicker as they sense the crystalline key. They step aside with grinding stone movements, creating a clear path to the tower entrance. No combat necessary.
 
-**Eyes (Weak Points):**
-- **AC:** 16 **HP:** 40 each (2 per Sentinel)
-- When both eyes are destroyed, the Sentinel cannot regenerate
+**If the party must fight (without the token):**
+
+**Primordial Stone Colossi (6 Colossi):**
+- **AC:** 28 **HP:** 1500 **Speed:** 50 ft., burrow 60 ft., climb 50 ft.
+- **STR:** 30 **DEX:** 14 **CON:** 30 **INT:** 12 **WIS:** 20 **CHA:** 16
+- **Saving Throws:** Str +20, Con +20, Wis +15
+- **Damage Resistances:** All damage except Thunder, Force, and Radiant
+- **Damage Immunities:** Poison, Psychic, Necrotic, Cold
+- **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned, Stunned, Paralyzed
+- **Senses:** Darkvision 120 ft., Tremorsense 120 ft., Truesight 60 ft.
+- **Challenge Rating:** 24
 
 **Actions:**
-- **Multiattack:** Two slam attacks
-- **Slam:** Melee weapon attack +12 to hit, 10 ft. reach. Hit: 2d12 + 6 bludgeoning damage
-- **Earth Phase:** Burrows underground, becoming untargetable except for upper half. Can emerge anywhere within 60 feet on next turn.
-- **Gray Pulse (Recharge 4-6):** 60-foot radius. All creatures make DC 17 Constitution save or be slowed for 1 minute.
-- **Regeneration:** Regains 15 HP at start of turn if both eyes intact
+- **Multiattack:** Four attacks: two devastating slams + two special abilities
+- **Devastating Slam:** Melee weapon attack +20 to hit, 20 ft. reach. Hit: 5d12 + 10 bludgeoning damage + 3d8 force damage. DC 28 Str save or be knocked prone, pushed 20 feet, and stunned until end of next turn.
+- **Earth Phase:** Burrows underground, becoming untargetable. Can emerge anywhere within 120 feet on next turn, making all attacks with advantage and creating 20-foot radius difficult terrain.
+- **Cataclysmic Pulse (Recharge 3-6):** 120-foot radius. DC 28 Constitution save or take 8d10 bludgeoning damage, be knocked prone, and gain 2 levels of exhaustion. Success: half damage, not prone, 1 level exhaustion.
+- **Stone Prison (Recharge 4-6):** 40-foot radius around colossus. DC 28 Dex save or be restrained by stone pillars (AC 25, 100 HP each). Restrained creatures take 4d8 bludgeoning damage at start of each turn and cannot use legendary actions.
+- **Primordial Regeneration:** Regains 50 HP at start of turn unless hit by thunder, force, or radiant damage that round. If reduced to 0 HP, explodes for 10d6 force damage in 60-foot radius (DC 28 Dex save for half).
+
+**Legendary Actions (4 per turn):**
+- Move up to speed without provoking opportunity attacks
+- One slam attack
+- Earth Phase (costs 2 actions)
+- Cataclysmic Pulse (costs 3 actions)
 
 **Tactical Elements:**
-- Must destroy both eyes to prevent regeneration
-- Can phase underground making targeting difficult
-- Gray pulse creates battlefield control
+- Much higher AC and HP to match party power level
+- Multiple attack types create complex battlefield control
+- Legendary actions keep pressure on powerful party
+- Vulnerability to specific damage types gives strategic options
 
 ## The Tower Approach
 
@@ -156,38 +170,67 @@ The interior of the tower is a vast circular chamber with a domed ceiling that s
 
 ## Phase 1: The Shadow Lord (Rounds 1-5)
 
+**Fazrahl's Appearance:** The fallen paladin hovers above the ground, his form wreathed in writhing shadows that seem to devour light itself. Where once stood a noble warrior, now floats a figure of living darkness, his eyes burning with cold malice. Tendrils of shadow extend from his form like grasping fingers, and his voice echoes with the whispers of the damned.
+
 ### Fazrahl (Shadow Form) Stats:
-- **AC:** 20 **HP:** 450 **Speed:** 0 ft., fly 60 ft. (hover)
-- **STR:** 12 **DEX:** 18 **CON:** 20 **INT:** 16 **WIS:** 14 **CHA:** 24
-- **Saving Throws:** Wis +9, Cha +14
-- **Damage Resistances:** All damage except Force and Radiant
-- **Damage Immunities:** Necrotic, Poison
-- **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned
-- **Senses:** Truesight 120 ft.
-- **Challenge Rating:** 18
+- **AC:** 28 **HP:** 1875 **Speed:** 0 ft., fly 120 ft. (hover), teleport 120 ft.
+- **STR:** 20 **DEX:** 26 **CON:** 30 **INT:** 24 **WIS:** 22 **CHA:** 32
+- **Saving Throws:** All +18 or higher
+- **Damage Resistances:** All damage except Force and Radiant (takes half from those too)
+- **Damage Immunities:** Necrotic, Poison, Psychic, Cold
+- **Condition Immunities:** All conditions
+- **Senses:** Truesight 150 ft., Omnipresence within 1 mile, Omniscience within chamber
+- **Challenge Rating:** 26
 
 **Actions:**
-- **Shadow Bolt:** Ranged spell attack +14 to hit, 120 ft. range. Hit: 3d10 + 7 necrotic damage
-- **Summon Corrupted Angels (1/Day):** Summons 2 Corrupted Deva (see stats below)
-- **Grasping Vines (Recharge 5-6):** 4 vines in 60-foot radius. DC 18 Dex save or restrained, 2d8 necrotic damage per turn
-- **Despair Aura:** 60-foot radius. DC 18 Wisdom save or frightened, disadvantage on attacks (save ends)
+- **Multiattack:** Six attacks: four shadow bolts + two special abilities
+- **Shadow Bolt:** Ranged spell attack +26 to hit, 200 ft. range. Hit: 8d10 + 16 necrotic damage + 4d6 psychic damage. Target makes DC 30 Constitution save or max HP reduced by psychic damage.
+- **Summon Corrupted Angels (1/Day):** Summons 3 Corrupted Archdevas (see stats below)
+- **Grasping Vines (Recharge 3-6):** 12 vines in 120-foot radius. DC 30 Dex save or restrained and pulled 30 ft toward Fazrahl, 6d8 necrotic damage per turn. DC 30 Athletics/Acrobatics to escape.
+- **Despair Aura:** 120-foot radius. DC 30 Wisdom save or frightened, stunned, and have disadvantage on all rolls for 1 minute (save ends all effects)
+- **Shadow Storm (Recharge 4-6):** 60-foot radius sphere anywhere within 200 ft. DC 30 Dex save or take 12d8 necrotic damage, be blinded for 1 minute, and lose one legendary resistance.
+- **Void Rip (1/Day):** Creates 40-foot radius zone of absolute void for 3 rounds. Creatures starting turn in zone: DC 30 Constitution save or take 10d10 force damage and be aged 1d10 years.
 
-**Legendary Actions (3 per turn):**
+**Legendary Actions (6 per turn):**
 - Move without provoking opportunity attacks
 - Shadow Bolt attack
+- Teleport up to 120 feet
 - Grasping Vines (costs 2 actions)
+- Shadow Storm (costs 3 actions)
+- Void Rip (costs 5 actions, 1/Day)
 
-### Corrupted Deva Stats:
-- **AC:** 17 **HP:** 165 **Speed:** 30 ft., fly 90 ft.
-- **STR:** 18 **DEX:** 18 **CON:** 18 **INT:** 17 **WIS:** 20 **CHA:** 20
-- **Actions:** Multiattack (2 mace attacks), Mace +9 to hit, 1d6+4 bludgeoning + 2d8 necrotic, Corrupting Touch (recharge 5-6)
+### Corrupted Archdeva Stats:
+- **AC:** 26 **HP:** 815 **Speed:** 60 ft., fly 120 ft.
+- **STR:** 26 **DEX:** 24 **CON:** 26 **INT:** 21 **WIS:** 24 **CHA:** 26
+- **Saving Throws:** All +15 or higher
+- **Damage Resistances:** All damage except Radiant
+- **Damage Immunities:** Necrotic, Poison, Charmed, Frightened
+- **Actions:** 
+  - **Multiattack:** Five attacks: three corrupted weapons + two divine abilities
+  - **Corrupted Weapon:** +18 to hit, 4d6+8 slashing + 3d8 necrotic + 2d6 psychic, DC 28 Con save or max HP reduced by total damage
+  - **Corrupting Aura:** 60-foot radius. DC 28 Wisdom save or lose one divine ability use and be stunned for 1 round
+  - **Divine Wrath (Recharge 4-6):** 40-foot cone, DC 28 Dex save or 8d8 radiant damage (becomes necrotic if evil)
+
+### Abyssal Horror Swarms (6 Groups of 8 Each):
+- **AC:** 24 **HP:** 250 **Speed:** 60 ft., climb 60 ft., fly 60 ft.
+- **STR:** 20 **DEX:** 22 **CON:** 20 **INT:** 12 **WIS:** 16 **CHA:** 18
+- **Damage Resistances:** All damage except Radiant and Force
+- **Damage Immunities:** Poison, Necrotic, Psychic
+- **Condition Immunities:** Frightened, Poisoned, Charmed
+- **Senses:** Darkvision 120 ft., Truesight 60 ft.
+- **Challenge Rating:** 16
+
+**Group Actions:**
+- **Swarm Attack:** +18 to hit, 6d8 + 8 slashing + 4d6 necrotic damage per group
+- **Phase Shift:** Group can become ethereal for 1 round, then teleport up to 120 feet
+- **Terror Shriek (Recharge 4-6):** 60-foot radius from group center. DC 28 Wisdom save or frightened, stunned for 1 round, and lose one legendary resistance
 
 ### Environmental Hazards
-- Shadow patches (10-foot squares): DC 15 Dex save or 2d6 necrotic damage
-- Divine energy zones: 1d8 force damage when entered
+- Shadow patches (20-foot squares): DC 30 Dex save or 8d6 necrotic damage, be slowed, and lose one legendary action until end of next turn
+- Divine energy zones: 4d8 force damage when entered, DC 28 Con save or be stunned for 2 rounds and lose one divine ability use
 
 ### Ending Condition
-Corrupted angels defeated AND Fazrahl reduced to 150 HP or below
+Corrupted angels defeated AND Fazrahl reduced to 625 HP or below
 
 **Fazrahl**: "Enough games! You want to face a god? Then I shall grant your wishes"
 
@@ -195,35 +238,40 @@ Corrupted angels defeated AND Fazrahl reduced to 150 HP or below
 
 ## Phase 2: The Fallen Avatar (Rounds 6-12)
 
+**Fazrahl's Transformation:** As his shadow form dissipates, Fazrahl's true corrupted body is revealed. Standing nearly eight feet tall, his once-noble frame is now twisted with divine corruption. Blackened armor fuses with his flesh, and where his hands once were, curved blades of pure malevolence extend from his forearms. His face bears the terrible beauty of a fallen angel, with eyes that burn like dying stars.
+
 ### Fazrahl (Fallen Avatar) Stats:
-- **AC:** 22 **HP:** 550 **Speed:** 30 ft., fly 90 ft.
-- **STR:** 24 **DEX:** 14 **CON:** 22 **INT:** 18 **WIS:** 16 **CHA:** 26
-- **Saving Throws:** Str +14, Con +13, Wis +10, Cha +15
-- **Damage Resistances:** Cold, Lightning, Necrotic
-- **Damage Immunities:** Poison, Charmed, Exhaustion, Frightened
-- **Senses:** Truesight 120 ft., Passive Perception 20
-- **Challenge Rating:** 20
+- **AC:** 26 **HP:** 2250 **Speed:** 40 ft., fly 120 ft.
+- **STR:** 28 **DEX:** 18 **CON:** 26 **INT:** 22 **WIS:** 20 **CHA:** 30
+- **Saving Throws:** Str +19, Con +18, Wis +15, Cha +20
+- **Damage Resistances:** Cold, Lightning, Necrotic, Force
+- **Damage Immunities:** Poison, Psychic; Charmed, Exhaustion, Frightened, Stunned
+- **Senses:** Truesight 120 ft., Passive Perception 25
+- **Challenge Rating:** 24
 
 **Actions:**
-- **Multiattack:** Three arm blade attacks or two arm blades + one spell
-- **Corrupted Arm Blade:** Melee weapon attack +14 to hit, 10 ft. reach. Hit: 2d8 + 7 slashing + 2d6 necrotic damage. Target's max HP reduced by necrotic damage dealt.
-- **Corrupt Smite (3/Day):** Next melee attack deals additional 4d8 necrotic damage. Target makes DC 20 Wisdom save or frightened for 1 minute.
-- **Blasphemous Word (Recharge 5-6):** 60-foot radius. All creatures take 4d6 psychic damage (DC 20 Wisdom save for half) and are stunned until end of next turn on failed save.
-- **Divine Teleport:** Teleports up to 120 feet without provoking opportunity attacks
+- **Multiattack:** Four arm blade attacks or three arm blades + one spell
+- **Corrupted Arm Blade:** Melee weapon attack +19 to hit, 15 ft. reach. Hit: 3d8 + 9 slashing + 3d6 necrotic damage. Target's max HP reduced by necrotic damage dealt.
+- **Corrupt Smite (5/Day):** Next melee attack deals additional 6d8 necrotic damage. Target makes DC 25 Wisdom save or frightened and stunned for 1 minute (save ends both).
+- **Blasphemous Word (Recharge 4-6):** 80-foot radius. All creatures take 6d6 psychic damage (DC 25 Wisdom save for half) and are stunned until end of next turn on failed save. Creatures that fail by 5+ are also paralyzed for 1 round.
+- **Divine Teleport:** Teleports up to 150 feet without provoking opportunity attacks. Can make one arm blade attack after teleporting.
+- **Avatar's Wrath (1/Day):** All creatures within 100 feet must make DC 25 Constitution save or take 8d8 necrotic damage and have their max HP reduced by half the damage. Success: half damage, no max HP reduction.
+- **Call the Damned (Recharge 5-6):** Summons 4 groups of 6 Shadow Horrors each (24 total). Use group combat rules.
 
-**Legendary Actions (3 per turn):**
+**Legendary Actions (4 per turn):**
 - Move or teleport
 - Arm blade attack
 - Cast a cantrip
 - Blasphemous Word (costs 3 actions)
+- Avatar's Wrath (costs 4 actions, 1/Day)
 
 ### Environmental Changes
-- **Crumbling Floor:** Random 10-foot squares collapse each round (DC 18 Dex save or fall 30 feet)
-- **Wild Magic Zones:** 15-foot radius areas where spells trigger wild magic surges
-- **Void Rifts:** 5-foot diameter holes that deal 3d6 necrotic damage if entered
+- **Crumbling Floor:** Random 15-foot squares collapse each round (DC 24 Dex save or fall 40 feet, take 4d6 bludgeoning)
+- **Wild Magic Zones:** 20-foot radius areas where spells trigger wild magic surges (DC 22 to control)
+- **Void Rifts:** 10-foot diameter holes that deal 5d6 necrotic damage if entered, DC 22 Dex save to avoid falling in
 
 ### Ending Condition
-When reduced to 180 HP (1/3 health), begins transformation
+When reduced to 750 HP (1/3 health), begins transformation
 
 **Fazrahl**: "You think you've won? I am beyond death! I am ETERNAL!"
 
@@ -232,15 +280,17 @@ When reduced to 180 HP (1/3 health), begins transformation
 
 ## Phase 3: The Swarm Lord (Rounds 13-20)
 
+**Fazrahl's Metamorphosis:** With a roar of agony and rage, Fazrahl's form explodes into a writhing mass of shadow and flesh. His body stretches and distorts into a grotesque, spider-like monstrosity the size of a house, with six glowing eyes floating around his main form like malevolent satellites. Each eye pulses with different colored energy, and his massive form skitters across walls and ceiling with unnatural grace.
+
 ### Fazrahl (Swarm Form) Stats:
-- **AC:** 18 **HP:** 800 **Speed:** 40 ft., climb 40 ft.
-- **STR:** 28 **DEX:** 12 **CON:** 24 **INT:** 16 **WIS:** 18 **CHA:** 22
-- **Saving Throws:** Con +14, Wis +11, Cha +13
-- **Damage Resistances:** Bludgeoning, Piercing, Slashing
-- **Damage Immunities:** Poison, Disease
-- **Condition Immunities:** Charmed, Frightened, Paralyzed, Petrified, Prone
-- **Senses:** Blindsight 120 ft., Tremorsense 120 ft.
-- **Challenge Rating:** 22
+- **AC:** 20 **HP:** 2500 **Speed:** 50 ft., climb 50 ft., burrow 30 ft.
+- **STR:** 30 **DEX:** 16 **CON:** 28 **INT:** 20 **WIS:** 22 **CHA:** 26
+- **Saving Throws:** Con +19, Wis +16, Cha +18
+- **Damage Resistances:** Bludgeoning, Piercing, Slashing, Cold, Lightning
+- **Damage Immunities:** Poison, Disease, Necrotic
+- **Condition Immunities:** Charmed, Frightened, Paralyzed, Petrified, Prone, Stunned
+- **Senses:** Blindsight 150 ft., Tremorsense 150 ft., Truesight 120 ft.
+- **Challenge Rating:** 26
 
 ### **CRITICAL MECHANIC - Swarm Body:**
 - **ALL attacks against the main body deal only 1 damage**
@@ -248,21 +298,23 @@ When reduced to 180 HP (1/3 health), begins transformation
 - **Eyes are the only way to meaningfully damage this form**
 
 ### Floating Eyes (6 total):
-- **AC:** 18 **HP:** 40 each **Speed:** fly 60 ft. (hover)
+- **AC:** 22 **HP:** 80 each **Speed:** fly 80 ft. (hover)
 - **When eye is destroyed:** Swarm loses corresponding attack option
-- **Eye Regeneration:** Every 3 rounds, 1 destroyed eye regenerates (40 HP)
+- **Eye Regeneration:** Every 4 rounds, 1 destroyed eye regenerates (80 HP)
+- **Eye Defense:** Each eye has resistance to all damage types except radiant and force
 
 **Actions (based on remaining eyes):**
-- **Thunderous Clap (1 eye):** 60-foot cone. DC 20 Con save or 4d6 thunder damage + knocked prone (half damage, not prone on success)
-- **Crushing Stomp (1 eye):** 30-foot radius around feet. DC 20 Dex save or 5d8 bludgeoning damage + restrained until end of next turn
-- **Pestilent Breath (1 eye):** 60-foot cone. DC 20 Con save or 3d8 poison damage + poisoned 1 hour + diseased
-- **Psychic Swarm (1 eye):** All creatures in chamber. DC 20 Wisdom save or 3d6 psychic damage + confused for 1 round  
-- **Laser Eyes (2 eyes, Recharge 5-6):** Two 120-foot lines, 5 feet wide. DC 20 Dex save or 6d8 radiant damage
+- **Thunderous Clap (1 eye):** 80-foot cone. DC 25 Con save or 6d6 thunder damage + knocked prone + deafened 1 minute (half damage, not prone/deafened on success)
+- **Crushing Stomp (1 eye):** 40-foot radius around feet. DC 25 Dex save or 7d8 bludgeoning damage + restrained until end of next turn + 1d4 levels of exhaustion
+- **Pestilent Breath (1 eye):** 80-foot cone. DC 25 Con save or 5d8 poison damage + poisoned 1 hour + diseased + max HP reduced by damage dealt
+- **Psychic Swarm (1 eye):** All creatures in chamber. DC 25 Wisdom save or 5d6 psychic damage + confused for 1 minute + stunned until end of next turn
+- **Laser Eyes (2 eyes, Recharge 4-6):** Two 150-foot lines, 10 feet wide. DC 25 Dex save or 8d8 radiant damage + blinded 1 minute
 
-**Legendary Actions (3 per turn):**
+**Legendary Actions (4 per turn):**
 - Move up to speed
 - One eye attack (if available)
 - Swarm Split (costs 2 actions): Split into two smaller swarms for 1 round
+- Laser Eyes (costs 3 actions, if available)
 
 ### Tactical Notes
 - **Flying/climbing essential** to reach floating eyes
@@ -335,14 +387,16 @@ All shadows must be defeated. The party reunites in a void space.
 
 ## Phase 5: The Chaos Lord (Final Phase)
 
+**Fazrahl's Final Form:** From the collapsing shadow realms, Fazrahl emerges as something beyond mortal comprehension. His form constantly shifts and changes—sometimes human, sometimes beast, sometimes pure energy. Reality bends around him like heated glass, and his very presence causes the laws of physics to writhe in protest. He appears as a living contradiction: beautiful and hideous, divine and profane, creation and destruction merged into one impossible being.
+
 ### Fazrahl (Chaos Form) Stats:
-- **AC:** 25 **HP:** 666 **Speed:** 60 ft., fly 120 ft., teleport 120 ft.
-- **STR:** 20 **DEX:** 20 **CON:** 20 **INT:** 20 **WIS:** 20 **CHA:** 30
-- **Saving Throws:** All +12 or higher
-- **Damage Resistances:** Changes each round based on Reality Flux
-- **Damage Immunities:** Psychic, Charmed, Frightened
-- **Senses:** Truesight 120 ft., Omnipresence within chamber
-- **Challenge Rating:** 25
+- **AC:** 32 **HP:** 3125 **Speed:** 120 ft., fly 200 ft., teleport 200 ft., phase through matter
+- **STR:** 30 **DEX:** 30 **CON:** 30 **INT:** 30 **WIS:** 30 **CHA:** 35
+- **Saving Throws:** All +25 or higher
+- **Damage Resistances:** Changes each round based on Reality Flux (minimum: all except force)
+- **Damage Immunities:** Psychic, Necrotic, Time, Reality; All conditions except incapacitated
+- **Senses:** Omniscience, Omnipresence, Temporal Sight, Reality Sight
+- **Challenge Rating:** 35
 
 ### **CRITICAL MECHANIC - Reality Flux:**
 Each round, roll d8 for reality change (lasts until next flux):
@@ -356,31 +410,35 @@ Each round, roll d8 for reality change (lasts until next flux):
 8. **Planar Overlap:** Ghosts of dead enemies appear and attack
 
 **Actions:**
-- **Multiattack:** Three different attacks each turn
-- **Paradox Blast:** 60-foot line. DC 22 Constitution save or take 3d6 damage of 4 random types
-- **Existential Crisis (Recharge 4-6):** 30-foot radius. DC 22 Wisdom save or stunned for 2 rounds as target questions reality
-- **Temporal Rift (3/Day):** Undo any action taken in the last round, or force a creature to repeat their last action
-- **Divine Contradiction:** Target takes 4d8 necrotic damage and heals 4d8 HP simultaneously (DC 22 Con save or be confused)
-- **Chaos Storm (1/Day):** Chamber-wide effect. All creatures roll d20s - odds take 6d6 damage, evens heal 6d6 HP
+- **Multiattack:** Eight different attacks each turn (can target same creature multiple times)
+- **Paradox Blast:** 120-foot line. DC 35 Constitution save or take 12d6 damage of 8 random types + reality fracture (disadvantage on all rolls for 10 minutes) + lose 2 legendary resistances
+- **Existential Crisis (Recharge 2-6):** 80-foot radius. DC 35 Wisdom save or stunned for 5 rounds, max HP reduced by 6d10, and question own existence (cannot use legendary actions)
+- **Temporal Rift (At Will):** Undo any action taken in the last 3 rounds, or force a creature to repeat their last 3 actions, or skip target's next turn
+- **Divine Contradiction:** Target takes 12d8 necrotic damage and heals 12d8 HP simultaneously (DC 35 Con save or be confused for 10 minutes + lose all remaining spell slots)
+- **Chaos Storm (5/Day):** Chamber-wide effect. All creatures roll 2d20s - use lower roll for damage/higher for healing: 15d6 damage of random type OR heal 15d6 HP and gain major beneficial effect
+- **Reality Shatter (3/Day):** All creatures within 150 feet make DC 35 Charisma save or be banished to random planes for 2d4 rounds + lose one divine power permanently on failure by 10+
+- **Omnislash (1/Day):** Attacks every creature in chamber simultaneously with 20d10 + 20 damage of each: slashing, force, psychic, necrotic (DC 35 Dex save for half)
 
-**Legendary Actions (4 per turn):**
+**Legendary Actions (8 per turn):**
 - Move or teleport
 - One attack
 - Reality Flux (change the current flux, costs 2 actions)
-- Chaos Storm (costs 4 actions, 1/Day)
+- Chaos Storm (costs 3 actions)
+- Reality Shatter (costs 4 actions)
+- Omnislash (costs 8 actions, 1/Day)
 
 ### The Turning Point
-When Fazrahl is reduced to 200 HP, party can attempt to stabilize reality with divine unity.
+When Fazrahl is reduced to 950 HP, party can attempt to stabilize reality with divine unity.
 
 ### **Ending the Fight - Divine Unity Ritual:**
-Each party member must use their action to embrace a divine aspect:
-- **Justice (DC 20 Wisdom):** "I stand for what is right"
-- **Knowledge (DC 20 Intelligence):** "I seek truth over comfort"  
-- **Courage (DC 20 Charisma):** "I face fear without faltering"
-- **Creation (DC 20 Constitution):** "I build rather than destroy"
-- **Sacrifice (DC 20 Wisdom):** "I put others before myself"
+Each party member must use their action to embrace a divine aspect (can attempt each round):
+- **Justice (DC 30 Wisdom):** "I stand for what is right"
+- **Knowledge (DC 30 Intelligence):** "I seek truth over comfort"  
+- **Courage (DC 30 Charisma):** "I face fear without faltering"
+- **Creation (DC 30 Constitution):** "I build rather than destroy"
+- **Sacrifice (DC 30 Wisdom):** "I put others before myself"
 
-**When all succeed in same round:** Combined divine radiance deals 100 damage, ignoring all resistances. Reality stabilizes permanently.
+**When all succeed in same round:** Combined divine radiance deals 1000 damage, ignoring all resistances and immunities. Reality stabilizes permanently. Fazrahl cannot use legendary actions or reactions for 2 rounds.
 
 ---
 
