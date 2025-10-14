@@ -270,23 +270,102 @@ If Pyre chooses to pursue his family history, his investigation leads him to Bal
 ### The Fire Genasi's Tale
 At the graveyard, Pyre encounters an elderly fire genasi tending to nearby graves. When she sees Pyre's necklace, her eyes widen with recognition.
 
-*"That name... I knew your father, child. Penford was a good man who loved beyond the bounds of his world. Your mother, Embria, was no mere djinni - she was nobility of the Efreet courts. Their love affair scandalized both realms."*
+*"That name... I knew your father, child. Penford was a good man who loved beyond the bounds of his world. Your mother, Embria, was no mere Efreet - she was nobility of the Efreet courts. Their love affair scandalized both realms."*
 
 *"When you were born, her sect demanded her return. She refused, so they sent an Efreet lord to drag her back in chains. Your father died trying to protect her. She left you that necklace - your true name in the Ignan script - hoping you'd one day be strong enough to find her."*
 
-### The Rescue (Quick Resolution)
+### The Trial of Flames (Group Encounter)
 If Pyre wishes to pursue this immediately:
 
 **The Portal:** Ratan can open a brief gateway to the Plane of Fire using his enhanced magical abilities gained from the recent divine events.
 
-**The Confrontation:** Pyre finds his mother imprisoned by **Efreet Lord Qadesh** in the Brass City. The Efreet, impressed by Pyre's divine power and noble bearing, offers a simple challenge: *"Prove your worth in single combat, and I will release her. Your divine fire burns differently than ours - let us see if it burns brighter."*
+**The Confrontation:** Upon emerging in the Brass City's outer districts, the party is immediately surrounded by a patrol of **Efreet Guards** wreathed in flame and wielding scimitars of crystallized fire. Their captain, Itarkan, a stern noble with brass ornaments, demands to know their business.
 
-**The Victory:** After a brief but intense battle (which Pyre, empowered by divine energy, can handle), Qadesh yields with grudging respect. *"You have grown beyond what either realm expected. Take your mother - you have earned her freedom through strength, not birthright."*
+When Pyre states his purpose - to petition for his mother Embria's release - the captain's expression shifts to one of formal recognition. *"Ah, the half-blood child comes of age. Very well. By ancient law, you may petition Lord Qadesh for clemency. Embria of the Endless Flame has served twenty-nine years of her sentence for defying the court's marriage decree. Follow the proper protocols, and you will have your audience."*
+
+**The Escort:** The party is formally escorted through the magnificent Brass City to the **Court of Burning Judgments**. The journey gives them time to discuss strategy telepathically while observing Efreet customs and hierarchy.
+
+**The Court Summons:** **Efreet Lord Qadesh** sits upon a throne of living flame, surrounded by noble courtiers. Embria is not immediately visible - she is held in the court's detention chambers, as is proper for a formal hearing.
+
+*"So, young Pyre of Two Flames, you come seeking early release for the one who defied our laws. She has served her time with dignity, I grant you, but early clemency requires proof of worthiness. You must demonstrate that her choice to bear a half-blood child has not weakened our noble line, but perhaps... strengthened it. If it becomes evident that you are not worthy however, you shall be banished from this place forever and your mother will continue to serve the rest of her time in shame"*
+
+**The Trial Structure:**
+The court presents three formal challenges. While Pyre must be the one to demonstrate or speak, the party can assist him telepathically throughout:
+
+1. **The Challenge of Heritage** - *"Prove you understand what it means to be of two worlds."*
+   
+   **Required Elements:**
+   - **Flame Greeting:** Pyre must perform the ritual greeting (Perception DC 12 to notice the specific gestures other nobles use)
+   - **One Cultural Explanation:** Choose from Efreet law, customs, or hierarchy (History check required - see below)
+   - **Elemental Demonstrations:** 
+     - Read flame script that appears in the air (someone with Comprehend Languages can help)
+     - Create fire in one of the Seven Sacred Shapes (Investigation DC 13 to observe which shapes the court's braziers use)
+     - Demonstrate fire speech by changing flame color/intensity
+     - Show elemental lineage by making flames burn in his mother's specific hue
+   
+   **History Check Results (DC varies by topic chosen):**
+   
+   *Efreet Law (DC 12):*
+   - "Marriage between nobles requires court approval"
+   - "Defying marriage decrees results in 30-year sentences"
+   - "Half-blood children can petition for clemency at age of majority"
+   - "Early release requires proof the union strengthened rather than weakened the bloodline"
+   
+   *Efreet Customs (DC 14):*
+   - "Flames must never be extinguished in the presence of nobility - only dimmed"
+   - "Address all nobles as 'Lord/Lady of the [Number] Ember' based on their rank"
+   - "Brass ornaments indicate court position - more brass means higher status"
+   - "Bowing involves specific hand positions that mirror flame shapes"
+   
+   *Efreet Hierarchy (DC 16):*
+   - "Seven Great Houses rule different aspects of fire: Destruction, Creation, Passion, Forge, War, Light, and Heat"
+   - "Lord Qadesh belongs to the House of Destruction, hence his authority over punishments"
+   - "Your mother Embria was of the House of Passion, explaining her forbidden love"
+   - "Half-bloods traditionally serve as ambassadors between houses due to their mixed nature"
+
+2. **The Challenge of Bonds** - *"Show us these mortals have the strength to withstand the flames that burn within you."*
+   - The party must link hands in a circle with Pyre at the center
+   - Pyre channels elemental fire through the chain - each party member makes a Constitution save (DC 15)
+   - If someone rolls high (18+), they can grant advantage to the next person in the chain
+   - All party members must succeed for the challenge to pass
+   - Failure deals significant fire damage (3d6) to everyone, but they can attempt again as long as all are conscious
+   - Success proves their bonds are strong enough to share Pyre's elemental nature without being consumed
+   - On any failures, an Efreet of the court says *"The flame lashes at those not yet unworthy, yet you may continue while all still stand"*
+
+3. **The Challenge of Purpose** - *"Present your case before this court - convince us your mixed heritage serves the greater flame."*
+   - This becomes a formal courtroom proceeding with Pyre as the defendant
+   - Qadesh acts as judge, with other Efreet nobles as jury
+   - Party members can act as character witnesses, each giving testimony about Pyre's worth
+   - Pyre delivers a closing argument about how his dual nature makes him uniquely valuable
+   
+   **Efreet Opposition Arguments:**
+   - *"Half-bloods dilute the purity of elemental fire - you burn cooler than true Efreet"*
+   - *"Your mortal companions prove you prefer weakness over strength"*
+   - *"You've spent your life among mortals - what loyalty do you have to the elemental planes?"*
+   - *"Your mother's defiance brought shame to the House of Passion - you carry that stain"*
+   - *"Pure elemental blood has served us for millennia - why change now?"*
+   
+   **Challenging Questions for Pyre:**
+   - *"If forced to choose between your mortal friends and your elemental heritage, which would you pick?"*
+   - *"What have you accomplished that a pure-blood Efreet could not do better?"*
+   - *"Your father died because he was too weak to protect your mother - how does this prove mortal strength?"*
+   - *"Name one way your mixed nature has benefited the elemental planes specifically"*
+   - *"Why should we release your mother when her crime was choosing mortals over her own kind?"*
+   - *"If you're truly worthy, why did it take you 29 years to come here?"*
+   
+   **Potential Rebuttals Pyre Could Use:**
+   - Reference his divine empowerment and recent godly missions
+   - Explain how his dual nature lets him bridge different realms and peoples
+   - Describe specific victories where his mixed heritage was crucial
+   - Argue that love and bonds create strength, not weakness
+   - Point out that the gods themselves have blessed his path
+
+**The Verdict:** If the party succeeds in at least two challenges, Qadesh declares: *"Your bonds burn brighter than I expected. Perhaps there is wisdom in your mother's choice. She is free - but remember, young flame, you carry the honor of both realms now."*
 
 ### The Reunion
 **Embria** appears as a being of living flame and starlight, her joy at seeing her son overwhelming. *"My little spark... you've become a bonfire that could light the heavens themselves. Your father would be so proud."*
 
-**Her Gift:** She bestows upon Pyre his true elemental name and a blessing of the Plane of Fire: Chaotic Djinni Fury.
+**Her Gift:** She bestows upon Pyre his true elemental name and a blessing of the Plane of Fire: Chaotic Efreet Fury.
 
 **The Choice:** She offers to stay in the Material Plane now that she's free, or Pyre can visit her in the Plane of Fire after his divine mission is complete. Either way, the family is reunited.
 

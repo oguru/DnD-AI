@@ -2,7 +2,7 @@
 
 ## Arrival in Hades
 
-The party emerges from the planar pathway into the Gray Wastes, immediately struck by the oppressive atmosphere. Here, color drains from everything - their vibrant equipment fades to muted grays, and even their divine auras appear washed out. The very air seems to leech hope and determination.
+You emerge from the planar pathway into the Gray Wastes, immediately struck by the oppressive atmosphere. Here, color drains from everything - your vibrant equipment fades to muted grays, and even your divine auras appear washed out. The very air seems to leech hope and determination. As you come to your senses, you hear a deep reverberating voice boom through the air - "Welcome to your final resting place. I've been waiting for you... come to me, and meet your end once and for all."
 
 ### The Landscape
 - Endless rolling hills of gray ash and dust stretch in all directions
@@ -20,25 +20,26 @@ The party emerges from the planar pathway into the Gray Wastes, immediately stru
 ### Encounter 1: The Despair Wraiths
 As the party trudges through the gray wasteland, three massive wraiths composed of swirling gray mist rise from the ashen ground to block their path. These are the collected despair of mortals who have given up hope, drawn to the party's divine light like moths to flame.
 
-**Archfiend Despair Lords (3 Lords):**
-- **AC:** 24 **HP:** 1065 **Speed:** 60 ft., fly 120 ft. (hover)
+**Archfiend Despair Lords (2 Lords):**
+- **AC:** 25 **HP:** 1200 **Speed:** 60 ft., fly 120 ft. (hover)
 - **STR:** 16 **DEX:** 24 **CON:** 26 **INT:** 20 **WIS:** 22 **CHA:** 30
 - **Saving Throws:** Dex +19, Wis +18, Cha +22
-- **Damage Resistances:** All damage except Radiant and Force
+- **Damage Weaknesses:** Radiant
+- **Damage Resistances:** All other damage except Force
 - **Damage Immunities:** Necrotic, Poison, Psychic
 - **Condition Immunities:** Charmed, Exhaustion, Poisoned, Prone, Stunned
 - **Senses:** Darkvision 120 ft., Truesight 120 ft., Detect Thoughts at will
 - **Challenge Rating:** 22
 
 **Actions:**
-- **Multiattack:** Four attacks: three soul rend
-- **Soul Rend:** Ranged spell attack +22 to hit, 150 ft. range. Hit: 6d10 + 10 necrotic damage + 4d6 psychic damage. Target makes DC 25 Constitution save or max HP reduced by total damage dealt.
-- **Despair Nova (Recharge 3-6):** 60-foot radius burst. DC 25 Wisdom save or take 8d8 psychic damage, be frightened and stunned for 2 rounds, and lose two uses of highest-level abilities.
-- **Divine Drain:** Target within 120 ft makes DC 24 Charisma save or loses one legendary resistance, legendary action, or divine power use (target's choice).
+- **Multiattack:** Four soul rend
+- **Soul Rend:** Ranged spell attack +22 to hit, 150 ft. range. Hit: 10d10 + 10 necrotic damage. Target makes DC 25 Constitution save or max HP reduced by total damage dealt.
+- **Despair Nova (Recharge 5):** 60-foot radius burst. DC 25 Wisdom save or take 12d8 poison damage and be stunned for 2 rounds.
+- **Sacrificial Pact:** Self damage to cause all enemy targets & self to take 20d20 + 20 psychic damage. DC 24 Wisdom save for half damage.
 
 
 **Combat Notes:**
-- When defeated, they whisper: "He was once like you... pure of heart... but the gray took him too... beware the tower's call..."
+- When defeated, they whisper: "He was once like you... pure of heart... but the darkness took him too... beware the call of night..."
 
 ### Encounter 2: The Void Sphere (Stinston Stallone)
 
@@ -54,7 +55,7 @@ As the party trudges through the gray wasteland, they notice a shimmering distor
  - A 12ft toenail
  - A bubbling green candle with nostrils and wick that look like a tangle of large nostril hairs
  - A chair with 16 fingers for legs and a large hole where the seat should be
-- Inside the sphere, Stinston (still in parrot form) is wrapped by writhing shadow tendrils that belong to a **Greater Void Wraith**—an ancient creature of pure despair that feeds on divine energy
+- Inside the sphere, Stinston (still in parrot form) is wrapped by writhing shadow tendrils that belong to an ancient looking creature of pure despair that feeds on life energy
 - The wraith cannot be attacked directly while the sphere exists, and Stinston cannot escape
 
 **Stinston's Explanation:**
