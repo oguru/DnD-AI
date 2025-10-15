@@ -8,22 +8,7 @@ The guards at the gate recognize you immediately—word of the chosen of the rea
 
 ## Unexpected Reunions
 
-### Spotting Dart
-As you move through the crowded streets filled with refugees and rebuilding efforts, Okurak's keen eyes spot a familiar figure trying to blend into a group of displaced citizens near a relief station. **Dart**, the skinny, wheezy dwarf from his old crew, is hunched over and clearly attempting to remain inconspicuous.
 
-When he realizes he's been spotted, his shoulders slump in defeat rather than fear. The usual cowardly demeanor is replaced by something resembling shame and desperate hope.
-
-### Dart's Revelation
-**Dart:** *[coughing and wheezing]* "Okurak... I... I know you have every reason to kill me, but please, just listen for a moment. I was never working for Fazrahl by choice."
-
-**The Truth About Dart:**
-- When Fazrahl performed the city-wide ritual to steal Pelor's power, the magical domination that had controlled Dart for years suddenly broke
-- Fazrahl's transformation into a new divine entity severed his mental connections to his old pawns
-- The ritual failed to affect Dart because he was neither strong enough nor innocent enough to be a viable target
-- With the domination lifted, Dart was flooded with horrific memories of everything he'd been forced to do while under Fazrahl's control
-- He fled Athkatla in terror and sought refuge here among the other displaced people
-
-**Dart's Proof:** He still carries the **Celestine Dawn communication crystal** that Fazrahl used to give him orders, but it now shows only static and dead energy.
 
 ### Elderon's Appearance
 As Dart finishes his explanation, a familiar voice calls out from behind a cart of supplies: "Ah, there you are. Right on schedule."
@@ -186,15 +171,27 @@ Ratan steps out and says "i've been brewing something very special with the rare
 **Raven's Reward** (made by Ratan) - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
 
 **Raven's Reward Effects:**
-[Consumables by Rarity](https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qjw0E/edit?gid=1172490832#gid=1172490832)
+[Consumables by Rarity](https://docs.google.com/spreadsheets/d/1Y_d7OWHmf4RJDVpyc9kNH23Xw7j3Xz6xto5yMWV7pU8/edit?gid=0#gid=0)
 
 Roll d6:
 1. Cough up a Spell Scroll (1st-3rd level)
 2. Cough up a Potion of Healing (Superior)
 3. Cough up a Rare consumable item
 4. Cough up a Very Rare consumable item
-5. Cough up a random Legendary consumable item (<L9 Roll d8 and choose spell/potion)
-6. Cough up a Legendary consumable item (roll level, then choose from a list of options)
+5. Cough up a high-level Spell Scroll (7-8th level)
+6. Cough up a Legendary consumable item (roll d10 below)
+
+**Legendary Consumable Items (d10):**
+1. Potion of Storm Giant Strength (Str 29 for 1 hour)
+2. Spell Scroll: Wish
+3. Spell Scroll: Time Stop
+4. Spell Scroll: Meteor Swarm
+5. Spell Scroll: True Resurrection  
+6. Spell Scroll: Gate
+7. Spell Scroll: Mass Heal
+8. Spell Scroll: Power Word Kill
+9. Spell Scroll: Prismatic Wall
+10. Spell Scroll: Shapechange
 
 Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 
@@ -238,6 +235,23 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 - **Answer:** An echo
 - **Right Answer Fact:** "The city's bell tower has a hidden chamber where the original city charter is kept - it's written entirely in limerick form because the founding mayor was a frustrated poet!"
 
+### Spotting Dart
+As you move through the crowded streets filled with refugees and rebuilding efforts, Okurak's keen eyes spot a familiar figure trying to blend into a group of displaced citizens near a relief station. **Dart**, the skinny, wheezy dwarf from his old crew, is hunched over and clearly attempting to remain inconspicuous.
+
+When he realizes he's been spotted, his shoulders slump in defeat rather than fear. The usual cowardly demeanor is replaced by something resembling shame and desperate hope.
+
+### Dart's Revelation
+**Dart:** *[coughing and wheezing]* "Okurak... I... I know you have every reason to kill me, but please, just listen for a moment. I was never working for Fazrahl by choice."
+
+**The Truth About Dart:**
+- When Fazrahl performed the city-wide ritual to steal Pelor's power, the magical domination that had controlled Dart for years suddenly broke
+- Fazrahl's transformation into a new divine entity severed his mental connections to his old pawns
+- The ritual failed to affect Dart because he was neither strong enough nor innocent enough to be a viable target
+- With the domination lifted, Dart was flooded with horrific memories of everything he'd been forced to do while under Fazrahl's control
+- He fled Athkatla in terror and sought refuge here among the other displaced people
+
+**Dart's Proof:** He still carries the **Celestine Dawn communication crystal** that Fazrahl used to give him orders, but it now shows only static and dead energy.
+
 ### Ratan's Joy
 - Ratan watches the brawl with amusement, embracing Nip afterwards with tears in his eyes
 - "I never gave up hope, old friend. Welcome back to the world of the living."
@@ -268,24 +282,34 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 If Pyre chooses to pursue his family history, his investigation leads him to Baldur's Gate and the Alminston family crypt in the Upper City cemetery. There, he finds the weathered gravestone of **Penford Alminston**, dead these 29 years. The inscription reads: *"Beloved father and devoted to Embria of the Endless Flame - May they reunite in whatever realm love transcends death."*
 
 ### The Fire Genasi's Tale
-At the graveyard, Pyre encounters an elderly fire genasi tending to nearby graves. When she sees Pyre's necklace, her eyes widen with recognition.
+At the graveyard, Pyre encounters an elderly woman tending to nearby graves. When she sees him, her eyes widen with recognition.
 
-*"That name... I knew your father, child. Penford was a good man who loved beyond the bounds of his world. Your mother, Embria, was no mere Efreet - she was nobility of the Efreet courts. Their love affair scandalized both realms."*
+*"By the flames... Pyre?? I wondered if you'd ever come looking for answers. Oh, it's so good to see you again child, I still have the burn marks on my arms from holding you as a baby!"*
 
-*"When you were born, her sect demanded her return. She refused, so they sent an Efreet lord to drag her back in chains. Your father died trying to protect her. She left you that necklace - your true name in the Ignan script - hoping you'd one day be strong enough to find her."*
+**Information she can reveal based on Pyre's questions:**
+- **How she knew them:** She was a friend of Penford's family and witnessed their courtship
+- **About Embria:** She was Efreet nobility from the House of Passion, not just any fire elemental
+- **Their love story:** It scandalized both the noble human families and the Efreet courts
+- **What happened:** When Pyre was born, Embria's sect demanded her return for defying marriage laws
+- **Penford's death:** He died trying to protect Embria when Efreet lords came to drag her back in chains
+- **The necklace:** Contains Pyre's true name written in Ignan script - a parting gift from his mother
+- **Embria's fate:** Last she heard, Embria was sentenced to serve time for her "crimes against elemental law"
+
 
 ### The Trial of Flames (Group Encounter)
 If Pyre wishes to pursue this immediately:
 
 **The Portal:** Ratan can open a brief gateway to the Plane of Fire using his enhanced magical abilities gained from the recent divine events.
 
-**The Confrontation:** Upon emerging in the Brass City's outer districts, the party is immediately surrounded by a patrol of **Efreet Guards** wreathed in flame and wielding scimitars of crystallized fire. Their captain, Itarkan, a stern noble with brass ornaments, demands to know their business.
+**Arrival:** You emerge onto a plaza of black obsidian. Heat shimmers in waves. Above: a crimson sky. Ahead stands the Brass City—spires and domes glowing with internal fire.
+
+**The Confrontation:** Swirling fire vortices appear around you, forming into **Efreet Guards** with crystallized fire scimitars. Their captain Itarkan, adorned with brass jewelry, demands your business.
 
 When Pyre states his purpose - to petition for his mother Embria's release - the captain's expression shifts to one of formal recognition. *"Ah, the half-blood child comes of age. Very well. By ancient law, you may petition Lord Qadesh for clemency. Embria of the Endless Flame has served twenty-nine years of her sentence for defying the court's marriage decree. Follow the proper protocols, and you will have your audience."*
 
-**The Escort:** The party is formally escorted through the magnificent Brass City to the **Court of Burning Judgments**. The journey gives them time to discuss strategy telepathically while observing Efreet customs and hierarchy.
+**The Escort:** You're escorted through the Brass City. Buildings shift like living flame. Efreet nobles glide on floating fire platforms. At the city's heart: the **Court of Burning Judgments**, a ziggurat with colored flame steps.
 
-**The Court Summons:** **Efreet Lord Qadesh** sits upon a throne of living flame, surrounded by noble courtiers. Embria is not immediately visible - she is held in the court's detention chambers, as is proper for a formal hearing.
+**The Court Summons:** Inside: a chamber with polished brass walls. Efreet nobles sit in tiers, forms flickering between solid and flame. **Lord Qadesh** sits on a throne of living fire, currently burning crimson. Embria is not visible - held in detention chambers below.
 
 *"So, young Pyre of Two Flames, you come seeking early release for the one who defied our laws. She has served her time with dignity, I grant you, but early clemency requires proof of worthiness. You must demonstrate that her choice to bear a half-blood child has not weakened our noble line, but perhaps... strengthened it. If it becomes evident that you are not worthy however, you shall be banished from this place forever and your mother will continue to serve the rest of her time in shame"*
 
