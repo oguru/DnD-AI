@@ -8,22 +8,7 @@ The guards at the gate recognize you immediately—word of the chosen of the rea
 
 ## Unexpected Reunions
 
-### Spotting Dart
-As you move through the crowded streets filled with refugees and rebuilding efforts, Okurak's keen eyes spot a familiar figure trying to blend into a group of displaced citizens near a relief station. **Dart**, the skinny, wheezy dwarf from his old crew, is hunched over and clearly attempting to remain inconspicuous.
 
-When he realizes he's been spotted, his shoulders slump in defeat rather than fear. The usual cowardly demeanor is replaced by something resembling shame and desperate hope.
-
-### Dart's Revelation
-**Dart:** *[coughing and wheezing]* "Okurak... I... I know you have every reason to kill me, but please, just listen for a moment. I was never working for Fazrahl by choice."
-
-**The Truth About Dart:**
-- When Fazrahl performed the city-wide ritual to steal Pelor's power, the magical domination that had controlled Dart for years suddenly broke
-- Fazrahl's transformation into a new divine entity severed his mental connections to his old pawns
-- The ritual failed to affect Dart because he was neither strong enough nor innocent enough to be a viable target
-- With the domination lifted, Dart was flooded with horrific memories of everything he'd been forced to do while under Fazrahl's control
-- He fled Athkatla in terror and sought refuge here among the other displaced people
-
-**Dart's Proof:** He still carries the **Celestine Dawn communication crystal** that Fazrahl used to give him orders, but it now shows only static and dead energy.
 
 ### Elderon's Appearance
 As Dart finishes his explanation, a familiar voice calls out from behind a cart of supplies: "Ah, there you are. Right on schedule."
@@ -185,15 +170,27 @@ Ratan steps out and says "i've been brewing something very special with the rare
 **Raven's Reward** (made by Ratan) - The blackest brew you've ever seen, cough up magical treasures! But mind you, some say you might hack up something legendary that'll vanish by dawn!
 
 **Raven's Reward Effects:**
-[Consumables by Rarity](https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qjw0E/edit?gid=1172490832#gid=1172490832)
+[Consumables by Rarity](https://docs.google.com/spreadsheets/d/1Y_d7OWHmf4RJDVpyc9kNH23Xw7j3Xz6xto5yMWV7pU8/edit?gid=0#gid=0)
 
 Roll d6:
 1. Cough up a Spell Scroll (1st-3rd level)
 2. Cough up a Potion of Healing (Superior)
 3. Cough up a Rare consumable item
 4. Cough up a Very Rare consumable item
-5. Cough up a random Legendary consumable item (<L9 Roll d8 and choose spell/potion)
-6. Cough up a Legendary consumable item (roll level, then choose from a list of options)
+5. Cough up a high-level Spell Scroll (7-8th level)
+6. Cough up a Legendary consumable item (roll d10 below)
+
+**Legendary Consumable Items (d10):**
+1. Potion of Storm Giant Strength (Str 29 for 1 hour)
+2. Spell Scroll: Wish
+3. Spell Scroll: Time Stop
+4. Spell Scroll: Meteor Swarm
+5. Spell Scroll: True Resurrection  
+6. Spell Scroll: Gate
+7. Spell Scroll: Mass Heal
+8. Spell Scroll: Power Word Kill
+9. Spell Scroll: Prismatic Wall
+10. Spell Scroll: Shapechange
 
 Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 
@@ -237,6 +234,23 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 - **Answer:** An echo
 - **Right Answer Fact:** "The city's bell tower has a hidden chamber where the original city charter is kept - it's written entirely in limerick form because the founding mayor was a frustrated poet!"
 
+### Spotting Dart
+As you move through the crowded streets filled with refugees and rebuilding efforts, Okurak's keen eyes spot a familiar figure trying to blend into a group of displaced citizens near a relief station. **Dart**, the skinny, wheezy dwarf from his old crew, is hunched over and clearly attempting to remain inconspicuous.
+
+When he realizes he's been spotted, his shoulders slump in defeat rather than fear. The usual cowardly demeanor is replaced by something resembling shame and desperate hope.
+
+### Dart's Revelation
+**Dart:** *[coughing and wheezing]* "Okurak... I... I know you have every reason to kill me, but please, just listen for a moment. I was never working for Fazrahl by choice."
+
+**The Truth About Dart:**
+- When Fazrahl performed the city-wide ritual to steal Pelor's power, the magical domination that had controlled Dart for years suddenly broke
+- Fazrahl's transformation into a new divine entity severed his mental connections to his old pawns
+- The ritual failed to affect Dart because he was neither strong enough nor innocent enough to be a viable target
+- With the domination lifted, Dart was flooded with horrific memories of everything he'd been forced to do while under Fazrahl's control
+- He fled Athkatla in terror and sought refuge here among the other displaced people
+
+**Dart's Proof:** He still carries the **Celestine Dawn communication crystal** that Fazrahl used to give him orders, but it now shows only static and dead energy.
+
 ### Ratan's Joy
 - Ratan watches the brawl with amusement, embracing Nip afterwards with tears in his eyes
 - "I never gave up hope, old friend. Welcome back to the world of the living."
@@ -257,9 +271,9 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 - The townspeople immediately volunteer to help
 
 ### A Parting Gift
-- Before you leave, Nip gives you each a small turnip seed
-- "Plant these when you face your darkest hour. Sometimes the simplest things carry the greatest magic"
-- The seeds have a faint magical aura—they will grow instantly when planted with genuine hope
+- Before you leave, Nip gives you a small turnip seed
+- "Plant this when you face your darkest hour. Sometimes the simplest things carry the greatest magic"
+- The seed has a faint magical aura— will grow instantly when planted with genuine hope - all get advantage on all attack, save etc rolls for 1 round, 10d10+30 healing
 
 ## Pyre's Family Quest (Optional)
 
@@ -267,25 +281,114 @@ Old Garrick continues, "And for the victuals, our finest cooks have prepared:
 If Pyre chooses to pursue his family history, his investigation leads him to Baldur's Gate and the Alminston family crypt in the Upper City cemetery. There, he finds the weathered gravestone of **Penford Alminston**, dead these 29 years. The inscription reads: *"Beloved father and devoted to Embria of the Endless Flame - May they reunite in whatever realm love transcends death."*
 
 ### The Fire Genasi's Tale
-At the graveyard, Pyre encounters an elderly fire genasi tending to nearby graves. When she sees Pyre's necklace, her eyes widen with recognition.
+At the graveyard, Pyre encounters an elderly woman tending to nearby graves. When she sees him, her eyes widen with recognition.
 
-*"That name... I knew your father, child. Penford was a good man who loved beyond the bounds of his world. Your mother, Embria, was no mere djinni - she was nobility of the Efreet courts. Their love affair scandalized both realms."*
+*"By the flames... Pyre?? I wondered if you'd ever come looking for answers. Oh, it's so good to see you again child, I still have the burn marks on my arms from holding you as a baby!"*
 
-*"When you were born, her sect demanded her return. She refused, so they sent an Efreet lord to drag her back in chains. Your father died trying to protect her. She left you that necklace - your true name in the Ignan script - hoping you'd one day be strong enough to find her."*
+**Information she can reveal based on Pyre's questions:**
+- **How she knew them:** She was a friend of Penford's family and witnessed their courtship
+- **About Embria:** She was Efreet nobility from the House of Passion, not just any fire elemental
+- **Their love story:** It scandalized both the noble human families and the Efreet courts
+- **What happened:** When Pyre was born, Embria's sect demanded her return for defying marriage laws
+- **Penford's death:** He died trying to protect Embria when Efreet lords came to drag her back in chains
+- **The necklace:** Contains Pyre's true name written in Ignan script - a parting gift from his mother
+- **Embria's fate:** Last she heard, Embria was sentenced to serve time for her "crimes against elemental law"
 
-### The Rescue (Quick Resolution)
+
+### The Trial of Flames (Group Encounter)
 If Pyre wishes to pursue this immediately:
 
 **The Portal:** Ratan can open a brief gateway to the Plane of Fire using his enhanced magical abilities gained from the recent divine events.
 
-**The Confrontation:** Pyre finds his mother imprisoned by **Efreet Lord Qadesh** in the Brass City. The Efreet, impressed by Pyre's divine power and noble bearing, offers a simple challenge: *"Prove your worth in single combat, and I will release her. Your divine fire burns differently than ours - let us see if it burns brighter."*
+**Arrival:** You emerge onto a plaza of black obsidian. Heat shimmers in waves. Above: a crimson sky. Ahead stands the Brass City—spires and domes glowing with internal fire.
 
-**The Victory:** After a brief but intense battle (which Pyre, empowered by divine energy, can handle), Qadesh yields with grudging respect. *"You have grown beyond what either realm expected. Take your mother - you have earned her freedom through strength, not birthright."*
+**The Confrontation:** Swirling fire vortices appear around you, forming into **Efreet Guards** with crystallized fire scimitars. Their captain Itarkan, adorned with brass jewelry, demands your business.
+
+When Pyre states his purpose - to petition for his mother Embria's release - the captain's expression shifts to one of formal recognition. *"Ah, the half-blood child comes of age. Very well. By ancient law, you may petition Lord Qadesh for clemency. Embria of the Endless Flame has served twenty-nine years of her sentence for defying the court's marriage decree. Follow the proper protocols, and you will have your audience."*
+
+**The Escort:** You're escorted through the Brass City. Buildings shift like living flame. Efreet nobles glide on floating fire platforms. At the city's heart: the **Court of Burning Judgments**, a ziggurat with colored flame steps.
+
+**The Court Summons:** Inside: a chamber with polished brass walls. Efreet nobles sit in tiers, forms flickering between solid and flame. **Lord Qadesh** sits on a throne of living fire, currently burning crimson. Embria is not visible - held in detention chambers below.
+
+*"So, young Pyre of Two Flames, you come seeking early release for the one who defied our laws. She has served her time with dignity, I grant you, but early clemency requires proof of worthiness. You must demonstrate that her choice to bear a half-blood child has not weakened our noble line, but perhaps... strengthened it. If it becomes evident that you are not worthy however, you shall be banished from this place forever and your mother will continue to serve the rest of her time in shame"*
+
+**The Trial Structure:**
+The court presents three formal challenges. While Pyre must be the one to demonstrate or speak, the party can assist him telepathically throughout:
+
+1. **The Challenge of Heritage** - *"Prove you understand what it means to be of two worlds."*
+   
+   **Required Elements:**
+   - **Flame Greeting:** Pyre must perform the ritual greeting (Perception DC 12 to notice the specific gestures other nobles use)
+   - **One Cultural Explanation:** Choose from Efreet law, customs, or hierarchy (History check required - see below)
+   - **Elemental Demonstrations:** 
+     - Read flame script that appears in the air (someone with Comprehend Languages can help)
+     - Create fire in one of the Seven Sacred Shapes (Investigation DC 13 to observe which shapes the court's braziers use)
+     - Demonstrate fire speech by changing flame color/intensity
+     - Show elemental lineage by making flames burn in his mother's specific hue
+   
+   **History Check Results (DC varies by topic chosen):**
+   
+   *Efreet Law (DC 12):*
+   - "Marriage between nobles requires court approval"
+   - "Defying marriage decrees results in 30-year sentences"
+   - "Half-blood children can petition for clemency at age of majority"
+   - "Early release requires proof the union strengthened rather than weakened the bloodline"
+   
+   *Efreet Customs (DC 14):*
+   - "Flames must never be extinguished in the presence of nobility - only dimmed"
+   - "Address all nobles as 'Lord/Lady of the [Number] Ember' based on their rank"
+   - "Brass ornaments indicate court position - more brass means higher status"
+   - "Bowing involves specific hand positions that mirror flame shapes"
+   
+   *Efreet Hierarchy (DC 16):*
+   - "Seven Great Houses rule different aspects of fire: Destruction, Creation, Passion, Forge, War, Light, and Heat"
+   - "Lord Qadesh belongs to the House of Destruction, hence his authority over punishments"
+   - "Your mother Embria was of the House of Passion, explaining her forbidden love"
+   - "Half-bloods traditionally serve as ambassadors between houses due to their mixed nature"
+
+2. **The Challenge of Bonds** - *"Show us these mortals have the strength to withstand the flames that burn within you."*
+   - The party must link hands in a circle with Pyre at the center
+   - Pyre channels elemental fire through the chain - each party member makes a Constitution save (DC 15)
+   - If someone rolls high (18+), they can grant advantage to the next person in the chain
+   - All party members must succeed for the challenge to pass
+   - Failure deals significant fire damage (3d6) to everyone, but they can attempt again as long as all are conscious
+   - Success proves their bonds are strong enough to share Pyre's elemental nature without being consumed
+   - On any failures, an Efreet of the court says *"The flame lashes at those not yet unworthy, yet you may continue while all still stand"*
+
+3. **The Challenge of Purpose** - *"Present your case before this court - convince us your mixed heritage serves the greater flame."*
+   - This becomes a formal courtroom proceeding with Pyre as the defendant
+   - Qadesh acts as judge, with other Efreet nobles as jury
+   - Party members can act as character witnesses, each giving testimony about Pyre's worth
+   - Pyre delivers a closing argument about how his dual nature makes him uniquely valuable
+   
+   **Efreet Opposition Arguments:**
+   - *"Half-bloods dilute the purity of elemental fire - you burn cooler than true Efreet"*
+   - *"Your mortal companions prove you prefer weakness over strength"*
+   - *"You've spent your life among mortals - what loyalty do you have to the elemental planes?"*
+   - *"Your mother's defiance brought shame to the House of Passion - you carry that stain"*
+   - *"Pure elemental blood has served us for millennia - why change now?"*
+   
+   **Challenging Questions for Pyre:**
+   - *"If forced to choose between your mortal friends and your elemental heritage, which would you pick?"*
+   - *"What have you accomplished that a pure-blood Efreet could not do better?"*
+   - *"Your father died because he was too weak to protect your mother - how does this prove mortal strength?"*
+   - *"Name one way your mixed nature has benefited the elemental planes specifically"*
+   - *"Why should we release your mother when her crime was choosing mortals over her own kind?"*
+   - *"If you're truly worthy, why did it take you 29 years to come here?"*
+   
+   **Potential Rebuttals Pyre Could Use:**
+   - Reference his divine empowerment and recent godly missions
+   - Explain how his dual nature lets him bridge different realms and peoples
+   - Describe specific victories where his mixed heritage was crucial
+   - Argue that love and bonds create strength, not weakness
+   - Point out that the gods themselves have blessed his path
+
+**The Verdict:** If the party succeeds in at least two challenges, Qadesh declares: *"Your bonds burn brighter than I expected. Perhaps there is wisdom in your mother's choice. She is free - but remember, young flame, you carry the honor of both realms now."*
 
 ### The Reunion
 **Embria** appears as a being of living flame and starlight, her joy at seeing her son overwhelming. *"My little spark... you've become a bonfire that could light the heavens themselves. Your father would be so proud."*
 
-**Her Gift:** She bestows upon Pyre his true elemental name and a blessing of the Plane of Fire: Chaotic Djinni Fury.
+**Her Gift:** She bestows upon Pyre his true elemental name and a blessing of the Plane of Fire: Chaotic Efreet Fury.
 
 **The Choice:** She offers to stay in the Material Plane now that she's free, or Pyre can visit her in the Plane of Fire after his divine mission is complete. Either way, the family is reunited.
 
@@ -310,6 +413,10 @@ If Pyre wishes to pursue this immediately:
 
 *The party gains:*
 - **Nip's Turnip Seeds**: Can be planted in moments of despair to restore hope and provide minor healing
+- Potion of Dragon's Majesty (gold)
+- 2x potion of speed (not legacy)
+- 2x potion of vitality
+- 10x Potion of Healing (Supreme)
 - **Full resupply** of all mundane equipment
 - **Community's Blessing**: Advantage on the next death saving throw made by any party member
 - **Renewed Purpose**: All party members gain inspiration

@@ -1,0 +1,180 @@
+{
+  "bosses": [
+    {
+      "name": "Archfiend Despair Lord",
+      "maxHp": 1200,
+      "currentHp": 1200,
+      "ac": 25,
+      "notes": "**Speed:** 60 ft., fly 120 ft. (hover)\nTruesight 120 ft\n\n- **Soul Rend:** Ranged spell attack +22 to hit, 150 ft. range. Hit: 10d10 + 10 necrotic damage. Target makes DC 25 Constitution save or max HP reduced by total damage dealt.\n\n- **Despair Nova (Recharge 5):** 60-foot radius burst. DC 25 Wisdom save or take 12d8 poison damage and be stunned for 2 rounds.\n\n- **Sacrificial Pact:** Self damage to cause all enemy targets & self to take 20d20 + 20 psychic damage. DC 24 Wisdom save for half damage.",
+      "attacks": [
+        {
+          "id": "1760562140887",
+          "name": "Soul Rend (4x, 150ft, DC25 HP redux)",
+          "type": "spell",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 10,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 13,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "necrotic"
+        },
+        {
+          "id": "1760562264581",
+          "name": "Despair Nova (60ft R, Recharge 5, Stun 2R)",
+          "type": "spell",
+          "numDice": 12,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "poison"
+        },
+        {
+          "id": "1760562350295",
+          "name": "Sacrificial Pact (self dmg)",
+          "type": "spell",
+          "numDice": 50,
+          "diceType": 8,
+          "modifier": 20,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": [
+          "slashing",
+          "piercing",
+          "bludgeoning",
+          "fire",
+          "cold",
+          "lightning",
+          "thunder",
+          "acid"
+        ],
+        "vulnerabilities": [
+          "radiant"
+        ],
+        "immunities": [
+          "necrotic",
+          "poison",
+          "psychic"
+        ]
+      },
+      "savingThrows": {
+        "str": 8,
+        "dex": 16,
+        "con": 9,
+        "wis": 14,
+        "int": 11,
+        "cha": 17
+      },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 19,
+      "id": "1760562360714",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Archfiend Despair Lord 2",
+      "maxHp": 1200,
+      "currentHp": 1200,
+      "ac": 25,
+      "notes": "**Speed:** 60 ft., fly 120 ft. (hover)\nTruesight 120 ft\n\n- **Soul Rend:** Ranged spell attack +22 to hit, 150 ft. range. Hit: 10d10 + 10 necrotic damage. Target makes DC 25 Constitution save or max HP reduced by total damage dealt.\n\n- **Despair Nova (Recharge 5):** 60-foot radius burst. DC 25 Wisdom save or take 12d8 poison damage and be stunned for 2 rounds.\n\n- **Sacrificial Pact:** Self damage to cause all enemy targets & self to take 20d20 + 20 psychic damage. DC 24 Wisdom save for half damage.",
+      "attacks": [
+        {
+          "id": "1760562140887",
+          "name": "Soul Rend (4x, 150ft, DC25 HP redux)",
+          "type": "spell",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 10,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 13,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "necrotic"
+        },
+        {
+          "id": "1760562264581",
+          "name": "Despair Nova (60ft R, Recharge 5, Stun 2R)",
+          "type": "spell",
+          "numDice": 12,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "poison"
+        },
+        {
+          "id": "1760562350295",
+          "name": "Sacrificial Pact (self dmg)",
+          "type": "spell",
+          "numDice": 50,
+          "diceType": 8,
+          "modifier": 20,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": [
+          "slashing",
+          "piercing",
+          "bludgeoning",
+          "fire",
+          "cold",
+          "lightning",
+          "thunder",
+          "acid"
+        ],
+        "vulnerabilities": [
+          "radiant"
+        ],
+        "immunities": [
+          "necrotic",
+          "poison",
+          "psychic"
+        ]
+      },
+      "savingThrows": {
+        "str": 8,
+        "dex": 16,
+        "con": 9,
+        "wis": 14,
+        "int": 11,
+        "cha": 17
+      },
+      "showSavingThrows": true,
+      "showDefenses": false,
+      "initiative": 17,
+      "id": "1760562438351",
+      "inAoe": false,
+      "attackResults": []
+    }
+  ]
+}
