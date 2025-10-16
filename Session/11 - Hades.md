@@ -151,7 +151,7 @@ As the party approaches Fazrahl's tower, the massive obsidian structure looms be
 
 ### Fazrahl's Taunts
 As they draw near, Fazrahl's voice echoes across the wastes, seeming to come from the tower itself:
-"Welcome to my new realm. I sense you are more resilient than I anticipated, but here, hope dies, color fades, and even your precious divine sparks will be snuffed out. You came so far, sacrificed so much... only to fail at the final moment. How... poetic."
+"I sense you are more resilient than I anticipated, but here, hope dies, color fades, and even your precious divine sparks will be snuffed out. You came so far, sacrificed so much... only to fail at the final moment. How... poetic."
 
 ### Tower Defenses
 - A swirling barrier of shadow vines wraps around the base of the tower

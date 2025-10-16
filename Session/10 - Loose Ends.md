@@ -272,9 +272,9 @@ When he realizes he's been spotted, his shoulders slump in defeat rather than fe
 - The townspeople immediately volunteer to help
 
 ### A Parting Gift
-- Before you leave, Nip gives you each a small turnip seed
-- "Plant these when you face your darkest hour. Sometimes the simplest things carry the greatest magic"
-- The seeds have a faint magical aura—they will grow instantly when planted with genuine hope
+- Before you leave, Nip gives you a small turnip seed
+- "Plant this when you face your darkest hour. Sometimes the simplest things carry the greatest magic"
+- The seed has a faint magical aura— will grow instantly when planted with genuine hope - all get advantage on all attack, save etc rolls for 1 round, 10d10+30 healing
 
 ## Pyre's Family Quest (Optional)
 
