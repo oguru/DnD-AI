@@ -414,6 +414,10 @@ The court presents three formal challenges. While Pyre must be the one to demons
 
 *The party gains:*
 - **Nip's Turnip Seeds**: Can be planted in moments of despair to restore hope and provide minor healing
+- Potion of Dragon's Majesty (gold)
+- 2x potion of speed (not legacy)
+- 2x potion of vitality
+- 10x Potion of Healing (Supreme)
 - **Full resupply** of all mundane equipment
 - **Community's Blessing**: Advantage on the next death saving throw made by any party member
 - **Renewed Purpose**: All party members gain inspiration
