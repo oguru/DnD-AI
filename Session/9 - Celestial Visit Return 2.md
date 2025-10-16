@@ -2,13 +2,6 @@
 
 ## Return to Tyr
 
-### Tyr's Reception
-- Tyr rises from his throne as you return, his blind justice-seeing eyes reflecting your haste and resolve
-- "The scales of justice have begun to balance once more. I have felt the shift across the planes."
-- "Fazrahl's essence has been diminished by your actions. The corruption of Athkatla's leylines no longer feeds his stolen divinity."
-- "You have struck the first meaningful blow against this usurper. Order begins to reassert itself where chaos reigned."
-- "Your divine spark continues to grow — I can see it yearning to reach its full potential within each of you."
-
 ### The Growing Legend
 - "Word of your deeds spreads across Faerûn like wildfire. 'The Saviors of Verbobonc,' 'The Heroes of Athkatla,' and now 'The Chosen of the Realms' — these names echo in taverns and noble courts alike."
 - "This recognition strengthens divine power. As mortals speak your names with reverence, your capacity to channel celestial energy grows."
@@ -22,6 +15,7 @@
 - "But now, I have need of you for a task of utmost importance. The corruption Fazrahl has spread threatens to breach the very foundations of the celestial realms. I ask you to lead my chosen paladins to guard the Sanctum of Eternal Light—the keystone that maintains the barriers between the divine planes and the lower realms."
 - "This sacred duty requires one whose faith has been tested in the darkest places and emerged unbroken. Go now, with my blessing, and know that your sacrifice serves the greater justice."
 - As Yrsa bows and accepts this divine charge, and turns to you all. "I must depart to honor my charge in service of Tyr, may all that is holy help us in our quest, I shall rejoin you if the fates see to aligning our destinies once again".
+------------------------------
 - As he leaves, the air shimmers and Okurak steps
 - "In her place, another shall join your quest. Okurak, son of the waves, blessed of Valkur—your god has sent you to aid these champions."
 - "Valkur has whispered to me of your worthiness. Though you were apart when divine power was first granted to your companions, the threads of destiny that bind you all were never truly severed."
@@ -36,6 +30,9 @@
 - "Remember: Justice is not merely punishment of the wicked, but protection of the innocent. Carry this truth with you, for in the Gray Wastes, it may be your only anchor."
 - "Apart you are strong. You have repeatedly overcome overwhelming odds and proven worthy of ascending to demigodhood. Together you are more than the sum of your individual powers."
 
+-------
+SKIP
+
 ### Valkur's Divine Intervention
 - As Tyr speaks, a sudden wind stirs through the celestial halls.
 - Okurak, you feel a familiar sensation, like the first time you awakened to divine power, but magnified beyond measure
@@ -45,6 +42,9 @@
 - (Okurak) You feel an overwhelming rush of energy and wisdom fill your entire being, and the connection to your former companions reignites in full as Valkur's blessing fully manifests and divinity ignites within you.
 - (Valkur) - My son, do you have any questions before entering the final chapter?
 - (Tyr) "You have received our blessings and proven yourselves worthy. Now, with Okurak's divine awakening complete, you stand united once more in purpose and power. I have spoken, and now your next challenge awaits."
+
+-------
+FROM HERE
 - Tyr's image shimmers and fades, replaced by eruption of arcane energy, and Mystra, the Goddess of Magic, materializes before you
 - Her eyes swirl with the patterns of the Weave as she studies you intently
 
