@@ -87,14 +87,13 @@ The party must decide whether to trust these unlikely allies, knowing their comp
 - "Old Bum must be positioned where he can see the sky, and whoever administers it must speak his true name. I know not his first name, but I traced his heritage back to a proud clan of turnip farmers of the clan McGee. Other than this the trail ran cold." (Turnips McGee)
 
 ### The Ritual
-- Arabella helps move Old Bum to the temple's rooftop garden
 - When you carefully pour the tincture between his lips
 - For a moment, nothing happens...
 - Then his eyes begin to flutter, and a soft golden glow emanates from his skin
 
 ### The Awakening
 - Old Bum's eyes open slowly, confused and disoriented
-- "Did... did we win?" are his first words
+- "Did... did we win?"
 - When he sees all of you gathered around him, tears well in his eyes
 - "I dreamed I was in the most beautiful garden... there were turnips the size of my belly, and taters..." he pauses for a second and his eyes go wide "... and taternips! Oh how I long for a taternip! Say... do any of you have any turnips?"
 

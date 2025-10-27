@@ -1,0 +1,106 @@
+{
+  "characters": [
+    {
+      "id": "1748518514102",
+      "name": "Pamykos",
+      "maxHp": 374,
+      "currentHp": 374,
+      "ac": 24,
+      "initiative": "9",
+      "inAoe": false,
+      "tempHp": 0,
+      "defenses": {
+        "resistances": [
+          "necrotic"
+        ],
+        "vulnerabilities": [],
+        "immunities": [
+          "psychic"
+        ]
+      }
+    },
+    {
+      "id": "1748518515599",
+      "name": "Pyre",
+      "maxHp": 336,
+      "currentHp": 69,
+      "ac": 25,
+      "initiative": "16",
+      "inAoe": false,
+      "tempHp": 0,
+      "defenses": {
+        "resistances": [
+          "fire",
+          "necrotic"
+        ],
+        "vulnerabilities": [],
+        "immunities": []
+      }
+    },
+    {
+      "id": "1748518517238",
+      "name": "Kalmia",
+      "maxHp": 391,
+      "currentHp": 175,
+      "ac": 28,
+      "initiative": "21",
+      "inAoe": false,
+      "tempHp": 0,
+      "defenses": {
+        "resistances": [
+          "fire",
+          "psychic"
+        ],
+        "vulnerabilities": [],
+        "immunities": [
+          "radiant"
+        ]
+      }
+    },
+    {
+      "id": "1748518518110",
+      "name": "Khada",
+      "maxHp": 491,
+      "currentHp": 69,
+      "ac": 31,
+      "initiative": "16",
+      "inAoe": false,
+      "tempHp": 0,
+      "defenses": {
+        "resistances": [
+          "bludgeoning"
+        ],
+        "vulnerabilities": [],
+        "immunities": [
+          "poison"
+        ]
+      }
+    },
+    {
+      "id": "1748547259402",
+      "name": "Kalmia's Reflexes",
+      "maxHp": 50,
+      "currentHp": 50,
+      "ac": 15,
+      "initiative": "11",
+      "inAoe": false
+    },
+    {
+      "id": "1752176773541",
+      "name": "Golem",
+      "maxHp": 364,
+      "currentHp": 312,
+      "tempHp": 0,
+      "ac": 15,
+      "initiative": "5",
+      "inAoe": false,
+      "defenses": {
+        "resistances": [],
+        "vulnerabilities": [],
+        "immunities": [
+          "fire"
+        ]
+      }
+    }
+  ]
+}
