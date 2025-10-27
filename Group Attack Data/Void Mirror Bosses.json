@@ -1,0 +1,336 @@
+{
+  "bosses": [
+    {
+      "name": "Fazrahl: Phase Intro (God-Voice of Dread)",
+      "maxHp": 1,
+      "currentHp": 1,
+      "ac": 10,
+      "notes": "Use at the start of each phase to represent Fazrahl's multi-voice pronouncement.",
+      "attacks": [
+        {
+          "id": "2000001",
+          "name": "God-Voice of Dread (AOE, Wis save)",
+          "type": "spell",
+          "numDice": 8,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 26,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": [],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 0, "dex": 0, "con": 0, "wis": 0, "int": 0, "cha": 0 },
+      "showSavingThrows": false,
+      "showDefenses": false,
+      "initiative": 0,
+      "id": "2000000",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Mirror of Kalmia (Thief Rogue 20)",
+      "maxHp": 282,
+      "currentHp": 282,
+      "ac": 25,
+      "notes": "Evasion, Uncanny Dodge, Cunning Action, Thief’s Reflexes. Shadow Step 30 ft (2/day). Whispering Shadows (on-hit charm, 3/day). Speed 50 ft. Sneak Attack 20d6 (applies once/turn on hit with advantage or ally adjacent).",
+      "attacks": [
+        {
+          "id": "2001001",
+          "name": "Hand Crossbow of Homing (mk3) (30/120)",
+          "type": "ranged",
+          "numDice": 2,
+          "diceType": 6,
+          "modifier": 18,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "piercing"
+        },
+        {
+          "id": "2001002",
+          "name": "Sneak Attack (rider)",
+          "type": "melee",
+          "numDice": 20,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "piercing"
+        },
+        {
+          "id": "2001003",
+          "name": "Off-hand Dagger",
+          "type": "melee",
+          "numDice": 2,
+          "diceType": 4,
+          "modifier": 18,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "piercing"
+        }
+      ],
+      "defenses": {
+        "resistances": ["fire", "psychic", "radiant"],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 0, "dex": 13, "con": 7, "wis": 7, "int": 8, "cha": 2 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 9,
+      "id": "2001999",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Mirror of Khada (Champion Fighter 20)",
+      "maxHp": 305,
+      "currentHp": 305,
+      "ac": 28,
+      "notes": "Improved Critical (18-20). On crit: roll Weapon Wild Surge. Action Surge (1/short rest). Ground Shatter (15-ft cone, DC 18 STR, 8d6 force, prone) 3/day. Multiattack (4 attacks). Speed 50 ft.",
+      "attacks": [
+        {
+          "id": "2002001",
+          "name": "Mik'Tazzik, The Still Mind",
+          "type": "melee",
+          "numDice": 2,
+          "diceType": 8,
+          "modifier": 22,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "slashing"
+        },
+        {
+          "id": "2002002",
+          "name": "Zix'Kazzak, The Laughing Edge",
+          "type": "melee",
+          "numDice": 2,
+          "diceType": 8,
+          "modifier": 20,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "slashing"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "poison"],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 13, "dex": 7, "con": 12, "wis": 0, "int": 0, "cha": 1 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 8,
+      "id": "2002999",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Mirror of Pamykos (Valor Bard 18 / Warlock 2)",
+      "maxHp": 262,
+      "currentHp": 262,
+      "ac": 21,
+      "notes": "Bard/Warlock magic. Uses martial and spell attacks.",
+      "attacks": [
+        {
+          "id": "2003001",
+          "name": "Keytar Slash",
+          "type": "melee",
+          "numDice": 2,
+          "diceType": 8,
+          "modifier": 24,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "bludgeoning"
+        },
+        {
+          "id": "2003002",
+          "name": "Eldritch Blast (120 ft)",
+          "type": "spell",
+          "numDice": 8,
+          "diceType": 10,
+          "modifier": 18,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "force"
+        },
+        {
+          "id": "2003003",
+          "name": "Dissonant Whispers (60 ft, Wis save)",
+          "type": "spell",
+          "numDice": 16,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "psychic"
+        },
+        {
+          "id": "2003004",
+          "name": "Raulothim's Psychic Lance (Int save)",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "int",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "psychic"
+        },
+        {
+          "id": "2003005",
+          "name": "Mental Prison (Int save)",
+          "type": "spell",
+          "numDice": 24,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "int",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": ["necrotic", "psychic"],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 1, "dex": 9, "con": 4, "wis": 3, "int": 5, "cha": 16 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 7,
+      "id": "2003999",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Mirror of Pyre (Wild Magic Sorcerer 20)",
+      "maxHp": 238,
+      "currentHp": 238,
+      "ac": 22,
+      "notes": "Wild magic sorcery.",
+      "attacks": [
+        {
+          "id": "2004101",
+          "name": "Chromatic Orb (attack)",
+          "type": "spell",
+          "numDice": 12,
+          "diceType": 8,
+          "modifier": 18,
+          "hitBonus": 22,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "varies"
+        },
+        {
+          "id": "2004102",
+          "name": "Ice Storm (20-ft R, Dex save)",
+          "type": "spell",
+          "numDice": 16,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "dex",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "cold"
+        },
+        {
+          "id": "2004103",
+          "name": "Cone of Cold (Con save)",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "cold"
+        },
+        {
+          "id": "2004104",
+          "name": "Sunburst (Con save)",
+          "type": "spell",
+          "numDice": 24,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "radiant"
+        }
+      ],
+      "defenses": {
+        "resistances": ["fire", "necrotic"],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 4, "dex": 6, "con": 15, "wis": 5, "int": 4, "cha": 17 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 4,
+      "id": "2004999",
+      "inAoe": false,
+      "attackResults": []
+    }
+  ]
+}
+
+
