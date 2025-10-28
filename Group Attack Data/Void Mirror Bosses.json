@@ -90,9 +90,9 @@
         }
       ],
       "defenses": {
-        "resistances": ["fire", "psychic", "radiant"],
+        "resistances": ["fire", "psychic"],
         "vulnerabilities": [],
-        "immunities": []
+        "immunities": ["radiant"]
       },
       "savingThrows": { "str": 0, "dex": 13, "con": 7, "wis": 7, "int": 8, "cha": 2 },
       "showSavingThrows": true,
@@ -141,9 +141,9 @@
         }
       ],
       "defenses": {
-        "resistances": ["bludgeoning", "poison"],
+        "resistances": ["bludgeoning"],
         "vulnerabilities": [],
-        "immunities": []
+        "immunities": ["poison"]
       },
       "savingThrows": { "str": 13, "dex": 7, "con": 12, "wis": 0, "int": 0, "cha": 1 },
       "showSavingThrows": true,
@@ -237,9 +237,9 @@
         }
       ],
       "defenses": {
-        "resistances": ["necrotic", "psychic"],
+        "resistances": ["necrotic"],
         "vulnerabilities": [],
-        "immunities": []
+        "immunities": ["psychic"]
       },
       "savingThrows": { "str": 1, "dex": 9, "con": 4, "wis": 3, "int": 5, "cha": 16 },
       "showSavingThrows": true,
@@ -318,9 +318,9 @@
         }
       ],
       "defenses": {
-        "resistances": ["fire", "necrotic"],
+        "resistances": ["necrotic"],
         "vulnerabilities": [],
-        "immunities": []
+        "immunities": ["fire"]
       },
       "savingThrows": { "str": 4, "dex": 6, "con": 15, "wis": 5, "int": 4, "cha": 17 },
       "showSavingThrows": true,

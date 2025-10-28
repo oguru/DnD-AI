@@ -30,11 +30,10 @@
       "tempHp": 0,
       "defenses": {
         "resistances": [
-          "fire",
           "necrotic"
         ],
         "vulnerabilities": [],
-        "immunities": []
+        "immunities": ["fire"]
       }
     },
     {
