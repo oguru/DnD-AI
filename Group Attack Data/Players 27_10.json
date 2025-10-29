@@ -3,7 +3,7 @@
     {
       "id": "1748518514102",
       "name": "Pamykos",
-      "maxHp": 374,
+      "maxHp": 524,
       "currentHp": 374,
       "ac": 24,
       "initiative": "9",
@@ -22,7 +22,7 @@
     {
       "id": "1748518515599",
       "name": "Pyre",
-      "maxHp": 336,
+      "maxHp": 476,
       "currentHp": 69,
       "ac": 25,
       "initiative": "16",
@@ -39,7 +39,7 @@
     {
       "id": "1748518517238",
       "name": "Kalmia",
-      "maxHp": 391,
+      "maxHp": 563,
       "currentHp": 175,
       "ac": 28,
       "initiative": "21",
@@ -59,7 +59,7 @@
     {
       "id": "1748518518110",
       "name": "Khada",
-      "maxHp": 491,
+      "maxHp": 609,
       "currentHp": 69,
       "ac": 31,
       "initiative": "16",

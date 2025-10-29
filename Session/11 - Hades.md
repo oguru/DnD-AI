@@ -99,6 +99,14 @@ As the party trudges through the gray wasteland, they notice a shimmering distor
 - **Sentinel Bypass Token:** Stinston gives the party a crystalline key that resonates with void energy. "This should let you past those stone guardians—they're powered by the same void magic I was studying. They'll recognize this as a master key and stand aside."
 - **Sanctuary Pocket:** Stinston creates a stable dimensional pocket nearby. "This void tear taught me to create stable spaces. You can rest here safely—time moves differently, and Fazrahl cannot detect or reach you within." (Functions as a safe long rest location immune to scrying or attack)
 
+----------------------
+LAST SESSION
+
+- **Void Conversion Amulets (2 amulets):** Stinston pulls two shimmering amulets from his dimensional research, each containing a void energy matrix. "I noticed you're missing your healer friend. These experimental pieces harness void magic's inverse properties—they can transform destructive energy into restorative power. Careful though, they're still prototypes!"
+**Void Conversion Amulet** (rare wondrous):
+- **Void Conversion:** As a bonus action, you can toggle the amulet's polarity. When active, all damage you deal is converted to healing and vice versa until it is turned off. The amulet remains in this mode until you toggle it again (bonus action) or until you take a short rest. Resistances or immunities to the damage types has no effect on the healing.
+- **Void Resonance:** While the amulet is in healing mode you have disadvantage on saving throws against necrotic effects, as the void energy within resonates with his power.
+
 **Stinston's Guidance:**
 - "The void magic taught me much about this realm. The creatures here feed on despair, but they're weakened by genuine connection between allies. Stay close, trust each other, and remember what you're fighting for."
 - He offers to cast a protective ward on the party: advantage on the next saving throw each character makes against fear or despair effects.
@@ -212,19 +220,17 @@ The interior of the tower is a vast circular chamber with a domed ceiling that s
   - **Corrupting Aura:** 60-foot radius. DC 28 Wisdom save or lose one divine ability use and be stunned for 1 round
   - **Divine Wrath (Recharge 4-6):** 40-foot cone, DC 28 Dex save or 8d8 radiant damage (becomes necrotic if evil)
 
-### Abyssal Horror Swarms (6 Groups of 8 Each):
-- **AC:** 24 **HP:** 250 **Speed:** 60 ft., climb 60 ft., fly 60 ft.
+### Abyssal Horror Swarms (8 per group):
+- **AC:** 23 **HP:** 120 **Speed:** 60 ft., climb 60 ft., fly 60 ft.
 - **STR:** 20 **DEX:** 22 **CON:** 20 **INT:** 12 **WIS:** 16 **CHA:** 18
 - **Damage Resistances:** All damage except Radiant and Force
 - **Damage Immunities:** Poison, Necrotic, Psychic
+- **Damage Vulnerabilities:** Radiant
 - **Condition Immunities:** Frightened, Poisoned, Charmed
 - **Senses:** Darkvision 120 ft., Truesight 60 ft.
-- **Challenge Rating:** 16
 
 **Group Actions:**
-- **Swarm Attack:** +18 to hit, 6d8 + 8 slashing + 4d6 necrotic damage per group
-- **Phase Shift:** Group can become ethereal for 1 round, then teleport up to 120 feet
-- **Terror Shriek (Recharge 4-6):** 60-foot radius from group center. DC 28 Wisdom save or frightened, stunned for 1 round, and lose one legendary resistance
+- **Swarm Attack:** +18 to hit, 1d8+5 slashing + 2d8+5 necrotic damage each entity in the group
 
 ### Environmental Hazards
 - Shadow patches (20-foot squares): DC 30 Dex save or 8d6 necrotic damage, be slowed, and lose one legendary action until end of next turn
