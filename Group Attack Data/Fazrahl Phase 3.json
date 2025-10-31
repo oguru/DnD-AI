@@ -1,0 +1,442 @@
+{
+  "bosses": [
+    {
+      "name": "Fazrahl: Phase Intro (God-Voice of Dread)",
+      "maxHp": 1,
+      "currentHp": 1,
+      "ac": 10,
+      "notes": "Use at the start of Phase 3. DC 24 Wisdom save; on fail take 8d10 psychic and frightened until end of next turn; half on success and not frightened.",
+      "attacks": [
+        {
+          "id": "3000001",
+          "name": "God-Voice of Dread (AOE, Wis save)",
+          "type": "spell",
+          "numDice": 8,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 22,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 24,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": [],
+        "vulnerabilities": [],
+        "immunities": []
+      },
+      "savingThrows": { "str": 0, "dex": 0, "con": 0, "wis": 0, "int": 0, "cha": 0 },
+      "showSavingThrows": false,
+      "showDefenses": false,
+      "initiative": 0,
+      "id": "3000000",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Fazrahl (Swarm Lord) - Phase 3",
+      "maxHp": 1,
+      "currentHp": 1,
+      "ac": 28,
+      "notes": "1-2 eye and 1-2 body attacks.\n\nDivine Penetration: all attacks pierce 1 level of resistance.\n\nSenses: Blindsight 150 ft., Tremorsense 150 ft., Truesight 120 ft.\n\nEye Reactions (1/round each): Blink to negate damage.\n\nLegendary Actions: 4/round - Eye attack (2A, can be as Reaction), body attack (2A)",
+      "attacks": [
+        {
+          "id": "3000507",
+          "name": "Giant Hand Clap (80ft cone)",
+          "type": "melee",
+          "numDice": 20,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "bludgeoning"
+        },
+        {
+          "id": "3000508",
+          "name": "Razor Swarm (NO SAVE)",
+          "type": "melee",
+          "numDice": 10,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "none",
+          "saveDC": 0,
+          "halfOnSave": false,
+          "isAoE": true,
+          "damageType": "piercing"
+        },
+        {
+          "id": "3000509",
+          "name": "Tendril Riptide (Grappled)",
+          "type": "melee",
+          "numDice": 20,
+          "diceType": 10,
+          "modifier": 10,
+          "hitBonus": 24,
+          "attackMethod": "attackRoll",
+          "saveType": "dex",
+          "saveDC": 10,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "necrotic"
+        },
+        {
+          "id": "3000510",
+          "name": "Swarm Surge (80ft cone, push 10ft)",
+          "type": "melee",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "dex",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "slashing"
+        },
+        {
+          "id": "3000511",
+          "name": "Corrupted Souls (summon)",
+          "type": "spell",
+          "numDice": 0,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "none",
+          "saveDC": 0,
+          "halfOnSave": false,
+          "isAoE": false,
+          "damageType": "utility"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "thunder"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000500",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Thunder",
+      "maxHp": 350,
+      "currentHp": 350,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: DC 25 Con; fail 10d10 thunder + knocked prone + deafened 1 min; success half, no prone/deafen.",
+      "attacks": [
+        {
+          "id": "3000611",
+          "name": "Thunderous Clap (80-ft cone)",
+          "type": "spell",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "thunder"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "thunder"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000601",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Gravity",
+      "maxHp": 350,
+      "currentHp": 350,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: Creates 60-ft radius singularity; pull 20 ft; area is difficult terrain until next turn. DC 23 Str; fail 10d10 force + restrained until end of next turn; success half, not restrained.",
+      "attacks": [
+        {
+          "id": "3000621",
+          "name": "Gravitic Crush (60-ft radius)",
+          "type": "spell",
+          "numDice": 10,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "str",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "force"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "force"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000602",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Dominion",
+      "maxHp": 350,
+      "currentHp": 350,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: DC 23 Int; fail 20d10 psychic + frightened until end of next turn and target can't use divine powers until Fazrahl's next attack resolves; next attack is empowered (+10d10 force, adv or +2 DC). Success half, no frighten.",
+      "attacks": [
+        {
+          "id": "3000631",
+          "name": "Ravage Divinity",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "int",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": false,
+          "damageType": "necrotic"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "psychic"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000603",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Madness",
+      "maxHp": 350,
+      "currentHp": 350,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: DC 23 Wis; fail 12d6 psychic, must approach, then fall prone and become stunned until damaged or end of their turn (can repeat the save). Success half, no conditions.",
+      "attacks": [
+        {
+          "id": "3000641",
+          "name": "Psychic Reverence",
+          "type": "spell",
+          "numDice": 12,
+          "diceType": 6,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "wis",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "psychic"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "psychic"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000604",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Plague",
+      "maxHp": 350,
+      "currentHp": 350,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: 6d8 poison and become diseased for 1 hour (disadvantage on Con saves, speed -10 ft). DC 23 Con; success half, no disease. Diseased target repeats the save at end of each turn to end the effect.",
+      "attacks": [
+        {
+          "id": "3000651",
+          "name": "Virulent Miasma (120-ft cone)",
+          "type": "spell",
+          "numDice": 6,
+          "diceType": 8,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "con",
+          "saveDC": 23,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "poison"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic", "radiant"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000605",
+      "inAoe": false,
+      "attackResults": []
+    },
+    {
+      "name": "Eye of Radiance",
+      "maxHp": 500,
+      "currentHp": 500,
+      "ac": 28,
+      "notes": "Reactions: Blink (1/round) to negate damage.\n\nEffect: Charge-up turn, then 20d10 radiant in 150-ft radius; DC 25 Dex; fail blinded 1 min (half damage on success and not blinded).",
+      "attacks": [
+        {
+          "id": "3000661",
+          "name": "Blinding Nova (150-ft radius, charge-up)",
+          "type": "spell",
+          "numDice": 20,
+          "diceType": 10,
+          "modifier": 0,
+          "hitBonus": 0,
+          "attackMethod": "save",
+          "saveType": "dex",
+          "saveDC": 25,
+          "halfOnSave": true,
+          "isAoE": true,
+          "damageType": "radiant"
+        }
+      ],
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "cold", "lightning"],
+        "vulnerabilities": [],
+        "immunities": ["poison", "necrotic"]
+      },
+      "savingThrows": { "str": 12, "dex": 0, "con": 19, "wis": 16, "int": 19, "cha": 18 },
+      "showSavingThrows": true,
+      "showDefenses": true,
+      "initiative": 12,
+      "id": "3000606",
+      "inAoe": false,
+      "attackResults": []
+    }
+  ],
+  "enemyGroups": [
+    {
+      "id": "1751563900001",
+      "name": "Corrupted Souls 1",
+      "maxHp": 120,
+      "currentHp": 120,
+      "ac": 23,
+      "count": 8,
+      "originalCount": 8,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 5,
+        "dex": 6,
+        "con": 5,
+        "int": 1,
+        "wis": 3,
+        "cha": 4
+      },
+      "notes": "Defenses: Resist all except Radiant and Force; Immune Poison, Necrotic, Psychic; Vulnerable Radiant\n\nCondition Immunities: Frightened, Poisoned, Charmed\n\nSenses: Darkvision 120 ft., Truesight 60 ft.",
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "fire", "cold", "lightning", "thunder", "acid"],
+        "vulnerabilities": ["radiant"],
+        "immunities": ["poison", "necrotic", "psychic"]
+      },
+      "creatures": [
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 }
+      ],
+      "attackBonus": 18,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "necrotic"
+      }
+    },
+    {
+      "id": "1751563900002",
+      "name": "Corrupted Souls 2",
+      "maxHp": 120,
+      "currentHp": 120,
+      "ac": 23,
+      "count": 8,
+      "originalCount": 8,
+      "initiative": "19",
+      "inAoe": false,
+      "showSavingThrows": false,
+      "savingThrows": {
+        "str": 5,
+        "dex": 6,
+        "con": 5,
+        "int": 1,
+        "wis": 3,
+        "cha": 4
+      },
+      "notes": "Defenses: Resist all except Radiant and Force; Immune Poison, Necrotic, Psychic; Vulnerable Radiant\n\nCondition Immunities: Frightened, Poisoned, Charmed\n\nSenses: Darkvision 120 ft., Truesight 60 ft.",
+      "defenses": {
+        "resistances": ["bludgeoning", "piercing", "slashing", "fire", "cold", "lightning", "thunder", "acid"],
+        "vulnerabilities": ["radiant"],
+        "immunities": ["poison", "necrotic", "psychic"]
+      },
+      "creatures": [
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 },
+        { "hp": 120 }
+      ],
+      "attackBonus": 18,
+      "damage": {
+        "numDice": 3,
+        "diceType": 8,
+        "modifier": 10,
+        "damageType": "necrotic"
+      }
+    }
+  ]
+}
+
+
